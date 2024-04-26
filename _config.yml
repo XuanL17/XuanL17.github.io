@@ -26,7 +26,7 @@ author:
   pronouns         : "she/they"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Hong Kong Polytechnic University"
+  employer         : "Hong Kong Polytechnic"
   uri              : # URL
   email            : "xuan18.liu@connect.polyu.hk" 
 
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=AyzRO-wAAAAJ&hl=zh-CN" #already update
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : # URL
 
   # Repositories and software development
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/xuan-liu-48b038258/
+  linkedin         : www.linkedin.com/in/xuan-liu-48b038258
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
