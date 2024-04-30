@@ -23,17 +23,17 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xuan Liu"
-  pronouns         : "she/they"  
+  pronouns         : #"she/they"  
   bio              : "Curious & Innovative & Execution-Driven & Responsible"
   location         : "HK.CN|NYC.US|VAN.CA"
-  employer         : "Hong Kong Polytechnic"
+  employer         : #"Hong Kong Polytechnic"
   uri              : # URL
   email            : "xuan18.liu@connect.polyu.hk" 
 
   # Academic websites: 
   #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=AyzRO-wAAAAJ&hl=zh-CN" #already update
-  impactstory      : "https://www.instagram.com/p/C6VELkGy9f6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D"
+  impactstory      : #"https://www.instagram.com/p/C6VELkGy9f6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D"
   orcid            : "https://orcid.org/0000-0002-6194-4588"
   #pubmed           : #
   #researchgate     : # URL
