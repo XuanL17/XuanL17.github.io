@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Xuan Liu"
   pronouns         : "she/they"  
-  bio              : "Highly Curious & Execution-Driven"
-  location         : "Hong Kong|New York|-Vancouver"
+  bio              : "Highly Curious & Execution-Driven & Innovative & Responsible"
+  location         : "HK.CN|NYC.US|VAN.CA"
   employer         : "Hong Kong Polytechnic"
   uri              : # URL
   email            : "xuan18.liu@connect.polyu.hk" 
@@ -48,7 +48,7 @@ author:
 
   # Social media
   #bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  #facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
