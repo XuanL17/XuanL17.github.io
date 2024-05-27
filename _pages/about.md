@@ -1,12 +1,11 @@
 ---
 permalink: /
+title: Welcome to my site!  
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Welcome to my site!  
 
 Hello! I'm Xuan Liu, a third-year Electronic and Information Engineering undergraduate at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/eee/). I'm a highly self-motivated researcher and innovator with a robust ability in execution and leadership.
 
