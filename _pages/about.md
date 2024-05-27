@@ -18,5 +18,5 @@ In addition to academic pursuits, I'm the founder of [BreathingCORE](https://www
 For more details about me, please visit [My CV].
 
 # I am applying for the Fall 2025 PhD program in EECS! 
-If you are open for PHD application, please contact me via xuan18.liu@connect.polyu.hk.
-I am confident in my ability to contribute innovative ideas and a productive work ethic to your team.
+I can't wait to contribute innovative ideas and a productive work ethic to your team！
+Please contact me via xuan18.liu@connect.polyu.hk.
