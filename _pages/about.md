@@ -13,10 +13,7 @@ My research interests lie in Trustworthy & Responsible AI, Privacy, Large-Scale 
 
 In addition to academic pursuits, I'm the founder of [BreathingCORE](https://breathingcore.com/), an eco-friendly IoTs technology startup in Hong Kong. I am also an inventor with patents in sustainable & negative carbon-related technologies.
 
-For more details about me, please visit [My CV]. OR reach out at xuan18.liu@connect.polyu.hk
-
-# I am applying for the Fall 2025 PhD program in EECS! 
-I can't wait to contribute innovative ideas and a productive work ethic to your team！
+For more details about me, please visit [My CV]. OR reach out at xuan18.liu@connect.polyu.hk. I am applying for the Fall 2025 PhD program in EECS! I can't wait to contribute innovative ideas and productive work ethics to your team！
 
 # What's New
 _2024-4_ Xuan received the [Best Undergraduate Research Project Award](https://www.polyu.edu.hk/eee/news-and-events/news/2024/2024-02-21-best-uris-research-project-award-2023/)! See University Official Posts & Interview at [Instagram](https://www.instagram.com/p/C6VELkGy9f6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7190543155698491392).<br>
