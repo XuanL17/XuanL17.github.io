@@ -19,7 +19,7 @@ For more details about me, please visit [My CV]. OR reach out at xuan18.liu@conn
 I can't wait to contribute innovative ideas and a productive work ethic to your team！
 
 # What's New
-2024-3 Xuan received the [Best Undergraduate Research Project Award](https://www.polyu.edu.hk/eee/news-and-events/news/2024/2024-02-21-best-uris-research-project-award-2023/)! See University Official Posts [Instagram](https://www.instagram.com/p/C6VELkGy9f6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7190543155698491392) <br>
-2024-1 Xuan's Start-up [BreathingCORE](breathingcore.com) won MicroFund Shortlisted Team and has been selected to Hong Kong Science and Technology Part Incubation Program！
+_2024-4_ Xuan received the [Best Undergraduate Research Project Award](https://www.polyu.edu.hk/eee/news-and-events/news/2024/2024-02-21-best-uris-research-project-award-2023/)! See University Official Posts [Instagram](https://www.instagram.com/p/C6VELkGy9f6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7190543155698491392) <br>
+_2024-1_ Xuan's Start-up [BreathingCORE](breathingcore.com) won MicroFund Shortlisted Team and has been selected to Hong Kong Science and Technology Part Incubation Program！
 
 
