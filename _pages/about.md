@@ -18,4 +18,7 @@ For more details about me, please visit [My CV]. OR reach out at xuan18.liu@conn
 # I am applying for the Fall 2025 PhD program in EECS! 
 I can't wait to contribute innovative ideas and a productive work ethic to your team！
 
+# What's New
+Xuan received the Best Undergraduate Research Project Award! See University Official Posts [Instagram](https://www.instagram.com/p/C6VELkGy9f6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7190543155698491392) <br>
+
 
