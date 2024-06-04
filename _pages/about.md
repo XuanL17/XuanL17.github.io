@@ -24,7 +24,7 @@ _2023-7_  Xuan received ["Department of Electronic and Information Engineering S
 for Hall Residents"](https://connectpolyu-my.sharepoint.com/:b:/g/personal/21097411d_connect_polyu_hk/EU3wMSH_0gJBmCfSwekowYYBe0QqHLeUwsYktqGOgUrEGQ?e=0C1unW).<br>
 _2023-4_  Xuan received ["Hong Kong Government-Researching Out Award"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EdsgREGzomZOlyhDSZONzesB6gFqX3AWZSwxVq9PDpTeyQ?e=jsPPgb).<br>
 _2023-4_  Xuan received ["Hong Kong Government-Talent Development Scholarship"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EZ47dCrjnvhJrfY9_5G-3voBf-tIbqbUVPvK4Tqgs1RCNA?e=XZ9pTd).<br>
-_2023-1_  Xuan's work ["MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning"](https://ojs.aaai.org/index.php/AAAI/article/view/26995) has been selected to AAAI-23 Student Abstract.<be>
+_2023-1_  Xuan's work ["MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning"](https://ojs.aaai.org/index.php/AAAI/article/view/26995) has been selected to AAAI-23 Student Abstract.<br>
 _2022-12_ Xuan received ["Dr Winnie S M Tang-PolyU Student 
 Innovation & Entrepreneurship Scholarship "](https://connectpolyu-my.sharepoint.com/:b:/g/personal/21097411d_connect_polyu_hk/EeFzM5bicaRDuOSs1eN3o6ABUGMtNnDDJfDY3wHWa64SJw?e=otbc8A).<br>
 _2022-11_  Xuan won ["Best GPA Award"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EXSvkpdj16tCnOEy9G2wQc4B3TyN5NoamK7XcZaKQ5eM0w?e=IXneLw) Department of Electronic and Information Engineering.<br>
