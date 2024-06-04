@@ -18,14 +18,14 @@ For more details about me, please visit [My CV]((../assets/CV_XuanLiu_HongKong.p
 # What's New
 _2024-4_ Xuan received the [Best Undergraduate Research Project Award](https://www.polyu.edu.hk/eee/news-and-events/news/2024/2024-02-21-best-uris-research-project-award-2023/)! See University Official Posts & Interview at [Instagram](https://www.instagram.com/p/C6VELkGy9f6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7190543155698491392).<br>
 _2024-1_ Xuan's Start-up BreathingCORE won MicroFund Shortlisted Team and has been selected for [Hong Kong Science and Technology Park](https://www.hkstp.org/) Incubation Program!<br>
-_2023-12_ Xuan won ["Outstanding Proposal of Belt and Road Initiatives Youth Creative International Challenge"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EQ9nYNABWbRAq_S7zVveNOkBpYFuOgWINgZt4Dh6DFtylw?e=wEjeiZ).<be>
-_2023-11_ Xuan received ["IEEE-VTC Fall Volunteer Service Award"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EX9J3McaMhtEpu8iwjxmEYEBx8qVzrv_WHHHYsntXwZmzg?e=52LolZ).<be>
-_2023-4_ Xuan received ["Hong Kong Government-Researching Out Award"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EdsgREGzomZOlyhDSZONzesB6gFqX3AWZSwxVq9PDpTeyQ?e=jsPPgb).<be>
-_2023-4_ Xuan received ["Hong Kong Government-Talent Development Scholarship"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EZ47dCrjnvhJrfY9_5G-3voBf-tIbqbUVPvK4Tqgs1RCNA?e=XZ9pTd).<be>
-_2023-1_ Xuan's work ["MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning"](https://ojs.aaai.org/index.php/AAAI/article/view/26995) has been selected to AAAI-23 Student Abstract.<be>
+_2023-12_ Xuan won ["Outstanding Proposal of Belt and Road Initiatives Youth Creative International Challenge"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EQ9nYNABWbRAq_S7zVveNOkBpYFuOgWINgZt4Dh6DFtylw?e=wEjeiZ).<br>
+_2023-11_ Xuan received ["IEEE-VTC Fall Volunteer Service Award"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EX9J3McaMhtEpu8iwjxmEYEBx8qVzrv_WHHHYsntXwZmzg?e=52LolZ).<br>
+_2023-4_ Xuan received ["Hong Kong Government-Researching Out Award"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EdsgREGzomZOlyhDSZONzesB6gFqX3AWZSwxVq9PDpTeyQ?e=jsPPgb).<br>
+_2023-4_ Xuan received ["Hong Kong Government-Talent Development Scholarship"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EZ47dCrjnvhJrfY9_5G-3voBf-tIbqbUVPvK4Tqgs1RCNA?e=XZ9pTd).<br>
+_2023-1_ Xuan's work ["MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning"](https://ojs.aaai.org/index.php/AAAI/article/view/26995) has been selected to AAAI-23 Student Abstract.<br>
 _2022-12_ Xuan received ["Dr Winnie S M Tang-PolyU Student 
-Innovation & Entrepreneurship Scholarship "](https://connectpolyu-my.sharepoint.com/:b:/g/personal/21097411d_connect_polyu_hk/EeFzM5bicaRDuOSs1eN3o6ABUGMtNnDDJfDY3wHWa64SJw?e=otbc8A).<be>
-_2022-8_ Xuan received "Shenzhen Innovation & Entrepreneurship Competition Outstanding Award".<be>
+Innovation & Entrepreneurship Scholarship "](https://connectpolyu-my.sharepoint.com/:b:/g/personal/21097411d_connect_polyu_hk/EeFzM5bicaRDuOSs1eN3o6ABUGMtNnDDJfDY3wHWa64SJw?e=otbc8A).<br>
+_2022-8_ Xuan received "Shenzhen Innovation & Entrepreneurship Competition Outstanding Award".<br>
 
 
 
