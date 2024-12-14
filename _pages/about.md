@@ -40,16 +40,20 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
   
   **CN 109589733 B**: An environmentally friendly outdoor dust reduction device using solar thermal energy.
   <div style="text-align: center;">
-  <img src="Product1.png" alt="Invented Product" width="350" />
-  <img src="Product2.png" alt="Invented Product" width="350" />
+  <img src="Product1.png" alt="Invented Product" width="355" />
+  <img src="Product2.png" alt="Invented Product" width="355" />
   </div>
 
 - **_Newly invented Pre-sale Product "GreenOxy"_**
 
   **GreenOxy-A Living Air Purifier:** My newly designed, innovative air purifier. Initially hand-crafted, it is now available for pre-sale. This unique product combines advanced technology with natural elements, bringing vitality and serenity to your daily life.
+  <div style="text-align: center;">
+  <img src="GreenOxy.jpg" alt="Invented Product" width="190" />
+  <img src="GreenOxy3.jpg" alt="Invented Product" width="190" />
+  <img src="GreenOxy1.jpg" alt="Invented Product" width="347.8" />
+  </div>
 
-
-- **Visit My Team Website**:  
+- **_For More Information, Please Visit My Team Website_**:  
   [https://breathingcore.com](https://breathingcore.com)
 
 
