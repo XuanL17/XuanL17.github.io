@@ -23,7 +23,11 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
 
 - **Xuan Liu**, Siqi Cai, Renjie He, Jingling Yuan *“Mutual Gradient Inversion: Unveiling Privacy Risks of Federated Learning on Multi-modal Signals”* [https://ieeexplore.ieee.org/document/10663250](https://ieeexplore.ieee.org/document/10663250) **IEEE Signal Processing Letters** (2024)  
 
-- **Xuan Liu**, Siqi Cai, Lin Li, Rui Zhang, Song Guo *“MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning”* [https://doi.org/10.1609/aaai.v37i13.26995](https://doi.org/10.1609/aaai.v37i13.26995) **AAAI-2023** (2023)  
+- **Xuan Liu**, Siqi Cai, Lin Li, Rui Zhang, Song Guo *“MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning”* [https://doi.org/10.1609/aaai.v37i13.26995](https://doi.org/10.1609/aaai.v37i13.26995) **AAAI-2023** (2023)
+
+  <div style="text-align: center;">
+  <img src="Attack1.png" alt="Invented Product" width="550" />
+  </div>
 
 ## 🤖 Topic 2: Multi-Agent LLM & LLM Cognition
 
@@ -32,6 +36,11 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
   **Xuan Liu**, Jie Zhang, Song Guo, Haoyang Shang, Chengxu Yang, Quanyan Zhu  
   *“Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View”*  
   [https://arxiv.org/abs/2405.14744](https://arxiv.org/abs/2405.14744) (2024)
+
+  <div style="text-align: center;">
+  <img src="CogMirF.png" alt="Invented Product" width="550" />
+  </div>
+
 
   
 ## 🌱 Topic 3: AIoTs & Eco-friendly Invented Product 
