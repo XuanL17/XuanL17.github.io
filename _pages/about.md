@@ -81,7 +81,9 @@ _2022-8_  Xuan received the "Shenzhen Innovation & Entrepreneurship Competition 
 ## 🌍 Moments
 
   <div style="text-align: center;">
-  <img src="Africa1.jpg" width="190" />
-  <img src="Africa2.jpg" width="255.8" />
+  <img src="Africa1.jpg" width="156" />
+  <img src="Africa2.jpg" width="210" />
+  <img src="sea1.jpg" width="205.5" />
+  <img src="sea3.jpg" width="217.5" /> 
   </div>
 
