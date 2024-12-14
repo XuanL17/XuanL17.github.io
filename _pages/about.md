@@ -26,7 +26,7 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
 - **Xuan Liu**, Siqi Cai, Lin Li, Rui Zhang, Song Guo *“MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning”* [https://doi.org/10.1609/aaai.v37i13.26995](https://doi.org/10.1609/aaai.v37i13.26995) **AAAI-2023** (2023)
 
   <div style="text-align: center;">
-  <img src="Attack1.png" width="550" />
+  <img src="https://github.com/XuanL17/XuanL17.github.io/blob/master/_pages/Attack1.png" width="550" />
   </div>
 
 ## 🤖 Topic 2: Multi-Agent LLM & LLM Cognition
