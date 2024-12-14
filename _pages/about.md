@@ -17,15 +17,15 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
 
 ## 🌟 Major Papers & Projects 
 
-## Topic 1: AI Privacy, Attack & Defense Algorithms
+## 🛡️ Topic 1: AI Privacy, Attack & Defense Algorithms
 
-- **Xuan Liu**, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin *“Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion”* Preprint Version: [https://arxiv.org/abs/2407.05285](https://arxiv.org/abs/2407.05285) **AAAI-2025** (2024)  
+- **Xuan Liu**, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin *“**Mjölnir:** Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion”* Preprint Version: [https://arxiv.org/abs/2407.05285](https://arxiv.org/abs/2407.05285) **AAAI-2025** (2024)  
 
 - **Xuan Liu**, Siqi Cai, Renjie He, Jingling Yuan *“Mutual Gradient Inversion: Unveiling Privacy Risks of Federated Learning on Multi-modal Signals”* [https://ieeexplore.ieee.org/document/10663250](https://ieeexplore.ieee.org/document/10663250) **IEEE Signal Processing Letters** (2024)  
 
 - **Xuan Liu**, Siqi Cai, Lin Li, Rui Zhang, Song Guo *“MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning”* [https://doi.org/10.1609/aaai.v37i13.26995](https://doi.org/10.1609/aaai.v37i13.26995) **AAAI-2023** (2023)  
 
-## Topic 2: Multi-Agent LLM & LLM Cognition
+## 🤖 Topic 2: Multi-Agent LLM & LLM Cognition
 
 - **_Preprint on-going work_**
   
@@ -34,7 +34,7 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
   [https://arxiv.org/abs/2405.14744](https://arxiv.org/abs/2405.14744) (2024)
 
   
-## Topic 3: 🛠️ AIoTs & Eco-friendly Entrepreneurship- Invented Product 
+## 🌱 Topic 3: AIoTs & Eco-friendly Invented Product 
 
 - **_Chinese Patent_**
   
@@ -53,7 +53,7 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
   <img src="GreenOxy1.jpg" alt="Invented Product" width="347.8" />
   </div>
 
-- **_For More Information, Please Visit My Team Website_**:  
+- **_For More Information, Please Visit My Start-up Company Website_**:  
   [https://breathingcore.com](https://breathingcore.com)
 
 
@@ -78,5 +78,6 @@ Innovation & Entrepreneurship Scholarship "](https://connectpolyu-my.sharepoint.
 _2022-11_ 🏆 Xuan won ["**_Best_** GPA Award"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EXSvkpdj16tCnOEy9G2wQc4B3TyN5NoamK7XcZaKQ5eM0w?e=IXneLw) Department of Electronic and Information Engineering.<br>
 _2022-8_  Xuan received the "Shenzhen Innovation & Entrepreneurship Competition **_Outstanding_** Award," securing a 7K CNY cash award.<br>
 
+## 🌍 Moments
 
 
