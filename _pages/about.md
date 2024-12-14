@@ -38,7 +38,7 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
   [https://arxiv.org/abs/2405.14744](https://arxiv.org/abs/2405.14744) (2024)
 
   <div style="text-align: center;">
-  <img src="./images/CogMirF.png" width="550" />
+  <img src="../images/CogMirF.png" width="550" />
   </div>
 
 
@@ -49,17 +49,17 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
   
   **CN 109589733 B**: An environmentally friendly outdoor dust reduction device using solar thermal energy.
   <div style="text-align: center;">
-  <img src="./images/Product1.png" width="355" />
-  <img src="./images/Product2.png" width="355" />
+  <img src="../images/Product1.png" width="355" />
+  <img src="../images/Product2.png" width="355" />
   </div>
 
 - **_Newly invented Pre-sale Product "GreenOxy"_**
 
   **GreenOxy-A Living Air Purifier:** My newly designed, innovative air purifier. Initially hand-crafted, it is now available for pre-sale. This unique product combines advanced technology with natural elements, bringing vitality and serenity to your daily life.
   <div style="text-align: center;">
-  <img src="https://github.com/XuanL17/XuanL17.github.io/blob/master/_pages/GreenOxy.jpg" width="190" />
-  <img src="https://github.com/XuanL17/XuanL17.github.io/blob/master/_pages/GreenOxy3.jpg" width="190" />
-  <img src="https://github.com/XuanL17/XuanL17.github.io/blob/master/_pages/GreenOxy1.jpg" width="347.8" />
+  <img src="../images/GreenOxy.jpg" width="190" />
+  <img src="../images/GreenOxy3.jpg" width="190" />
+  <img src="../images/GreenOxy1.jpg" width="347.8" />
   </div>
 
 - **_For More Information, Please Visit My Start-up Company Website_**:  
@@ -90,9 +90,9 @@ _2022-8_  Xuan received the "Shenzhen Innovation & Entrepreneurship Competition 
 ## 🌍 Moments
 
   <div style="text-align: center;">
-  <img src="https://github.com/XuanL17/XuanL17.github.io/blob/master/_pages/Africa1.jpg" width="156" />
-  <img src="https://github.com/XuanL17/XuanL17.github.io/blob/master/_pages/Africa2.jpg" width="210" />
-  <img src="https://github.com/XuanL17/XuanL17.github.io/blob/master/_pages/sea1.jpg" width="205.5" />
-  <img src="https://github.com/XuanL17/XuanL17.github.io/blob/master/_pages/sea3.jpg" width="217.5" /> 
+  <img src="../images/Africa1.jpg" width="156" />
+  <img src="../images/Africa2.jpg" width="210" />
+  <img src="../images/sea1.jpg" width="205.5" />
+  <img src="../images/sea3.jpg" width="217.5" /> 
   </div>
 
