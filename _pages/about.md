@@ -57,9 +57,9 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
 
   **GreenOxy-A Living Air Purifier:** My newly designed, innovative air purifier. Initially hand-crafted, it is now available for pre-sale. This unique product combines advanced technology with natural elements, bringing vitality and serenity to your daily life.
   <div style="text-align: center;">
-  <img src="../images/GreenOxy.jpg" width="190" />
-  <img src="../images/GreenOxy3.jpg" width="190" />
-  <img src="../images/GreenOxy1.jpg" width="347.8" />
+  <img src="../images/GreenOxy.jpg" width="150" />
+  <img src="../images/GreenOxy3.jpg" width="150" />
+  <img src="../images/GreenOxy1.jpg" width="274.5" />
   </div>
 
 - **_For More Information, Please Visit My Start-up Company Website_**:  
@@ -90,9 +90,9 @@ _2022-8_  Xuan received the "Shenzhen Innovation & Entrepreneurship Competition 
 ## 🌍 Moments
 
   <div style="text-align: center;">
-  <img src="../images/Africa1.jpg" width="156" />
-  <img src="../images/Africa2.jpg" width="210" />
-  <img src="../images/sea1.jpg" width="205.5" />
-  <img src="../images/sea3.jpg" width="217.5" /> 
+  <img src="../images/Africa1.jpg" width="140" />
+  <img src="../images/Africa2.jpg" width="190" />
+  <img src="../images/sea1.jpg" width="186" />
+  <img src="../images/sea3.jpg" width="197.5" /> 
   </div>
 
