@@ -26,7 +26,7 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
 - **Xuan Liu**, Siqi Cai, Lin Li, Rui Zhang, Song Guo *“MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning”* [https://doi.org/10.1609/aaai.v37i13.26995](https://doi.org/10.1609/aaai.v37i13.26995) **AAAI-2023** (2023)
 
   <div style="text-align: center;">
-  <img src="Attack1.png" alt="Invented Product" width="550" />
+  <img src="Attack1.png" width="550" />
   </div>
 
 ## 🤖 Topic 2: Multi-Agent LLM & LLM Cognition
@@ -38,7 +38,7 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
   [https://arxiv.org/abs/2405.14744](https://arxiv.org/abs/2405.14744) (2024)
 
   <div style="text-align: center;">
-  <img src="CogMirF.png" alt="Invented Product" width="550" />
+  <img src="CogMirF.png" width="550" />
   </div>
 
 
@@ -49,17 +49,17 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
   
   **CN 109589733 B**: An environmentally friendly outdoor dust reduction device using solar thermal energy.
   <div style="text-align: center;">
-  <img src="Product1.png" alt="Invented Product" width="355" />
-  <img src="Product2.png" alt="Invented Product" width="355" />
+  <img src="Product1.png" width="355" />
+  <img src="Product2.png" width="355" />
   </div>
 
 - **_Newly invented Pre-sale Product "GreenOxy"_**
 
   **GreenOxy-A Living Air Purifier:** My newly designed, innovative air purifier. Initially hand-crafted, it is now available for pre-sale. This unique product combines advanced technology with natural elements, bringing vitality and serenity to your daily life.
   <div style="text-align: center;">
-  <img src="GreenOxy.jpg" alt="Invented Product" width="190" />
-  <img src="GreenOxy3.jpg" alt="Invented Product" width="190" />
-  <img src="GreenOxy1.jpg" alt="Invented Product" width="347.8" />
+  <img src="GreenOxy.jpg" width="190" />
+  <img src="GreenOxy3.jpg" width="190" />
+  <img src="GreenOxy1.jpg" width="347.8" />
   </div>
 
 - **_For More Information, Please Visit My Start-up Company Website_**:  
