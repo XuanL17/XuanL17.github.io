@@ -31,16 +31,27 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
   
   **Xuan Liu**, Jie Zhang, Song Guo, Haoyang Shang, Chengxu Yang, Quanyan Zhu  
   *“Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View”*  
-  [https://arxiv.org/abs/2405.14744](https://arxiv.org/abs/2405.14744) (2024) 
+  [https://arxiv.org/abs/2405.14744](https://arxiv.org/abs/2405.14744) (2024)
 
+  
 ## Topic 3: 🛠️ AIoTs & Eco-friendly Entrepreneurship- Invented Product 
 
 - **_Chinese Patent_**
   
-  **CN 109589733 B**: An environmentally friendly outdoor dust reduction device using solar thermal energy.  
+  **CN 109589733 B**: An environmentally friendly outdoor dust reduction device using solar thermal energy.
+  <div style="text-align: center;">
+  <img src="Product1.png" alt="Invented Product" width="350" />
+  <img src="Product2.png" alt="Invented Product" width="350" />
+  </div>
+
+- **_Newly invented Pre-sale Product "GreenOxy"_**
+
+  **GreenOxy-A Living Air Purifier:** My newly designed, innovative air purifier. Initially hand-crafted, it is now available for pre-sale. This unique product combines advanced technology with natural elements, bringing vitality and serenity to your daily life.
+
 
 - **Visit My Team Website**:  
   [https://breathingcore.com](https://breathingcore.com)
+
 
 
 
