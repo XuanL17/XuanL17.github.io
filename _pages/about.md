@@ -19,7 +19,7 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
 
 ## 🛡️ Topic 1: AI Privacy, Attack & Defense Algorithms
 
-- **Xuan Liu**, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin *“**Mjölnir:** Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion”* Preprint Version: [https://arxiv.org/abs/2407.05285](https://arxiv.org/abs/2407.05285) **AAAI-2025** (2024)
+- **Xuan Liu**, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin *“**Mjölnir:Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion**”* Preprint Version: [https://arxiv.org/abs/2407.05285](https://arxiv.org/abs/2407.05285) **AAAI-2025** (2024)
   
   <div style="text-align: center;">
   <img src="../images/Attack1.png" width="550" />
