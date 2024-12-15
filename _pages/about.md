@@ -22,13 +22,16 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
 - **Xuan Liu**, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin *“**Mjölnir:Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion**”* Preprint Version: [https://arxiv.org/abs/2407.05285](https://arxiv.org/abs/2407.05285) **AAAI-2025** (2024)
   
   <div style="text-align: center;">
-  <img src="../images/Attack1.png" width="550" />
+  <img src="../images/Attack1.png" width="500" />
   </div>
 
 - **Xuan Liu**, Siqi Cai, Renjie He, Jingling Yuan *“Mutual Gradient Inversion: Unveiling Privacy Risks of Federated Learning on Multi-modal Signals”* [https://ieeexplore.ieee.org/document/10663250](https://ieeexplore.ieee.org/document/10663250) **IEEE Signal Processing Letters** (2024)  
 
 - **Xuan Liu**, Siqi Cai, Lin Li, Rui Zhang, Song Guo *“MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning”* [https://doi.org/10.1609/aaai.v37i13.26995](https://doi.org/10.1609/aaai.v37i13.26995) **AAAI-2023** (2023)
 
+  <div style="text-align: center;">
+  <img src="../images/MGIS.png" width="300" />
+  </div>
 
 
 ## 🤖 Topic 2: Multi-Agent LLM & LLM Cognition
@@ -40,7 +43,7 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
   [https://arxiv.org/abs/2405.14744](https://arxiv.org/abs/2405.14744) (2024)
 
   <div style="text-align: center;">
-  <img src="../images/CogMirF.png" width="550" />
+  <img src="../images/CogMirF.png" width="500" />
   </div>
 
 
@@ -51,8 +54,8 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
   
   **CN 109589733 B**: An environmentally friendly outdoor dust reduction device using solar thermal energy.
   <div style="text-align: center;">
-  <img src="../images/Product1.png" width="355" />
-  <img src="../images/Product2.png" width="355" />
+  <img src="../images/Product1.png" width="350" />
+  <img src="../images/Product2.png" width="350" />
   </div>
 
 - **_Newly invented Pre-sale Product "GreenOxy"_**
