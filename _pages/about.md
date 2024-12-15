@@ -63,9 +63,7 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
   <img src="../images/GreenOxy3.jpg" width="150" />
   </div>
 
-  <div style="text-align: center;">
-  <img src="../images/GreenOxy1.jpg" width="274.5" />
-  </div>
+
 - **_For More Information, Please Visit My Start-up Company Website_**:  
   [https://breathingcore.com](https://breathingcore.com)
 
@@ -92,12 +90,16 @@ _2022-11_ 🏆 Xuan won ["**_Best_** GPA Award"](https://connectpolyu-my.sharepo
 _2022-8_  Xuan received the "Shenzhen Innovation & Entrepreneurship Competition **_Outstanding_** Award," securing a 7K CNY cash award.<br>
 
 ## 🌍 Moments
+<div style="text-align: center; line-height: 2;"> <!-- 调整行高实现分行空格 -->
+  <img src="../images/Africa1.jpg" width="140" style="margin-bottom: 15px;" />
+  <img src="../images/Africa2.jpg" width="190" style="margin-bottom: 15px;" />
+</div>
 
-  <div style="text-align: center;">
-  <img src="../images/Africa1.jpg" width="140" />
-  <img src="../images/Africa2.jpg" width="190" />
-  </div>
-  <div style="text-align: center;">
-  <img src="../images/sea1.jpg" width="165" />
-  <img src="../images/sea3.jpg" width="175" /> 
-  </div>
+<div style="text-align: center; line-height: 2;"> <!-- 同样调整行高 -->
+  <img src="../images/sea1.jpg" width="165" style="margin-bottom: 15px;" />
+  <img src="../images/sea3.jpg" width="175" style="margin-bottom: 15px;" />
+</div>
+
+<div style="text-align: center; line-height: 2;">
+  <img src="../images/GreenOxy1.jpg" width="274.5" style="margin-bottom: 15px;" />
+</div>
