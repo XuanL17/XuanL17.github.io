@@ -19,15 +19,17 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
 
 ## 🛡️ Topic 1: AI Privacy, Attack & Defense Algorithms
 
-- **Xuan Liu**, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin *“**Mjölnir:** Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion”* Preprint Version: [https://arxiv.org/abs/2407.05285](https://arxiv.org/abs/2407.05285) **AAAI-2025** (2024)  
+- **Xuan Liu**, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin *“**Mjölnir:** Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion”* Preprint Version: [https://arxiv.org/abs/2407.05285](https://arxiv.org/abs/2407.05285) **AAAI-2025** (2024)
+  
+  <div style="text-align: center;">
+  <img src="../images/Attack1.png" width="550" />
+  </div>
 
 - **Xuan Liu**, Siqi Cai, Renjie He, Jingling Yuan *“Mutual Gradient Inversion: Unveiling Privacy Risks of Federated Learning on Multi-modal Signals”* [https://ieeexplore.ieee.org/document/10663250](https://ieeexplore.ieee.org/document/10663250) **IEEE Signal Processing Letters** (2024)  
 
 - **Xuan Liu**, Siqi Cai, Lin Li, Rui Zhang, Song Guo *“MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning”* [https://doi.org/10.1609/aaai.v37i13.26995](https://doi.org/10.1609/aaai.v37i13.26995) **AAAI-2023** (2023)
 
-  <div style="text-align: center;">
-  <img src="../images/Attack1.png" width="550" />
-  </div>
+
 
 ## 🤖 Topic 2: Multi-Agent LLM & LLM Cognition
 
@@ -92,7 +94,8 @@ _2022-8_  Xuan received the "Shenzhen Innovation & Entrepreneurship Competition 
   <div style="text-align: center;">
   <img src="../images/Africa1.jpg" width="140" />
   <img src="../images/Africa2.jpg" width="190" />
+  </div>
+  <div style="text-align: center;">
   <img src="../images/sea1.jpg" width="186" />
   <img src="../images/sea3.jpg" width="197.5" /> 
   </div>
-
