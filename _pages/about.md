@@ -61,9 +61,11 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
   <div style="text-align: center;">
   <img src="../images/GreenOxy.jpg" width="150" />
   <img src="../images/GreenOxy3.jpg" width="150" />
-  <img src="../images/GreenOxy1.jpg" width="274.5" />
   </div>
 
+  <div style="text-align: center;">
+  <img src="../images/GreenOxy1.jpg" width="274.5" />
+  </div>
 - **_For More Information, Please Visit My Start-up Company Website_**:  
   [https://breathingcore.com](https://breathingcore.com)
 
@@ -96,6 +98,6 @@ _2022-8_  Xuan received the "Shenzhen Innovation & Entrepreneurship Competition 
   <img src="../images/Africa2.jpg" width="190" />
   </div>
   <div style="text-align: center;">
-  <img src="../images/sea1.jpg" width="186" />
-  <img src="../images/sea3.jpg" width="197" /> 
+  <img src="../images/sea1.jpg" width="165" />
+  <img src="../images/sea3.jpg" width="175" /> 
   </div>
