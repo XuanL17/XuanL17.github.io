@@ -97,5 +97,5 @@ _2022-8_  Xuan received the "Shenzhen Innovation & Entrepreneurship Competition 
   </div>
   <div style="text-align: center;">
   <img src="../images/sea1.jpg" width="186" />
-  <img src="../images/sea3.jpg" width="197.5" /> 
+  <img src="../images/sea3.jpg" width="197" /> 
   </div>
