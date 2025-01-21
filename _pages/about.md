@@ -19,26 +19,22 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
 
 ## 🛡️ Topic 1: AI Privacy, Attack & Defense Algorithms
 
-- [“Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion”](https://arxiv.org/abs/2407.05285) **AAAI-2025** (2024)
-  
-  **Xuan Liu**, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin  
+- [1\] **Xuan Liu**, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin. [“Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion”](https://arxiv.org/abs/2407.05285) **AAAI-2025** (2024)
   
   <div style="text-align: center;">
   <img src="../images/Attack1.png" width="500" />
   </div>
 
 
-- [“MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning”](https://doi.org/10.1609/aaai.v37i13.26995) **AAAI-2023** (2023)
-
-  **Xuan Liu**, Siqi Cai, Lin Li, Rui Zhang, Song Guo
-
+- [2\] **Xuan Liu**, Siqi Cai, Lin Li, Rui Zhang, Song Guo. [“MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning”](https://doi.org/10.1609/aaai.v37i13.26995) **AAAI-2023** (2023)
+  
   <div style="text-align: center;">
   <img src="../images/MGIS.png" width="300" />
   </div>
 
-- [“Mutual Gradient Inversion: Unveiling Privacy Risks of Federated Learning on Multi-modal Signals”](https://ieeexplore.ieee.org/document/10663250) **IEEE Signal Processing Letters** (2024)
+-  [3\] **Xuan Liu**, Siqi Cai, Renjie He, Jingling Yuan. [“Mutual Gradient Inversion: Unveiling Privacy Risks of Federated Learning on Multi-modal Signals”](https://ieeexplore.ieee.org/document/10663250) **IEEE Signal Processing Letters** (2024)
 
-  **Xuan Liu**, Siqi Cai, Renjie He, Jingling Yuan
+ 
 
 ## 🤖 Topic 2: Multi-Agent LLM & LLM Cognition
 
@@ -80,15 +76,16 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
 
 
 ## 🚀 What's New
+_2025-1_ 🤝 Xuan received “Hsin Chong-K.N. Godfrey Yeh Education Fund”.<br>
 _2024-12_ 📝 Xuan's _first author_ work ["Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion"](https://arxiv.org/abs/2407.05285) has been accepted by **_AAAI-2025_**.<br>
-_2024-12_ 📝 Xuan's _co-author_ work "PriFairFed: A Local Differentially Private Federated Learning Algorithm for Client-Level Fairness" has been accepted by **_IEEE Transactions on Mobile Computing_**.<br>
+_2024-12_ 📝 Xuan's _co-author_ work ["PriFairFed: A Local Differentially Private Federated Learning Algorithm for Client-Level Fairness"](https://www.computer.org/csdl/journal/tm/5555/01/10798583/22EagQA5RYc) has been accepted by **_IEEE Transactions on Mobile Computing_**.<br>
 _2024-8_ 📝 Xuan's _first author_ work ["Mutual Gradient Inversion: Unveiling Privacy Risks of Federated Learning on Multi-modal Signals"](https://ieeexplore.ieee.org/document/10663250) has been accepted by **_IEEE Signal Processing Letters_**.<br>
 _2024-4_  🏆 Xuan received the [**_Best_** Undergraduate Research Project Award](https://www.polyu.edu.hk/eee/news-and-events/news/2024/2024-02-21-best-uris-research-project-award-2023/)! See University Official Posts & Interview at [Instagram](https://www.instagram.com/p/C6VELkGy9f6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7190543155698491392).<br>
-_2024-1_  Xuan's Start-up BreathingCORE won MicroFund Shortlisted Team and has been selected for [Hong Kong Science and Technology Park](https://www.hkstp.org/) Incubation Program!<br>
+_2024-1_  🤝 Xuan's Start-up BreathingCORE won MicroFund Shortlisted Team and has been selected for [Hong Kong Science and Technology Park](https://www.hkstp.org/) Incubation Program!<br>
 _2023-12_ Xuan won ["Outstanding Proposal of Belt and Road Initiatives Youth Creative International Challenge"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EQ9nYNABWbRAq_S7zVveNOkBpYFuOgWINgZt4Dh6DFtylw?e=wEjeiZ). See University Official Posts at [Facebook](https://www.facebook.com/polyueee/photos/-congratulations-to-our-students-on-winning-the-second-prize-in-the-belt-and-roa/724634839855179/?_rdr) <br>
 _2023-11_ Xuan received ["98th IEEE-VTC Fall Volunteer Service Award"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EX9J3McaMhtEpu8iwjxmEYEBx8qVzrv_WHHHYsntXwZmzg?e=52LolZ).<br>
 _2023-9_ 🏆 Xuan won "**_Champion_** of Innovation & Entrepreneurship Training Camp Roadshow," securing a 7K CNY cash award. <br>
-_2023-7_ Xuan received ["Department of Electronic and Information Engineering Scholarship 
+_2023-7_ 🏆 Xuan received ["Department of Electronic and Information Engineering Scholarship 
 for Hall Residents"](https://connectpolyu-my.sharepoint.com/:b:/g/personal/21097411d_connect_polyu_hk/EU3wMSH_0gJBmCfSwekowYYBe0QqHLeUwsYktqGOgUrEGQ?e=0C1unW), for the Top 1 GPA in the academic year of 2022 in the Dept.<br>
 _2023-4_  Xuan received ["Hong Kong Government-Researching Out Award"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EdsgREGzomZOlyhDSZONzesB6gFqX3AWZSwxVq9PDpTeyQ?e=jsPPgb).<br>
 _2023-4_  Xuan received ["Hong Kong Government-Talent Development Scholarship"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EZ47dCrjnvhJrfY9_5G-3voBf-tIbqbUVPvK4Tqgs1RCNA?e=XZ9pTd).<br>
