@@ -40,9 +40,9 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
 
 - **_Preprint on-going work_**
    
-  [“Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View”](https://arxiv.org/abs/2405.14744) (2024)
+  **Xuan Liu**, Jie Zhang, Song Guo, Haoyang Shang, Chengxu Yang, Quanyan Zhu. [“Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View”](https://arxiv.org/abs/2405.14744) (2024)
 
-  **Xuan Liu**, Jie Zhang, Song Guo, Haoyang Shang, Chengxu Yang, Quanyan Zhu 
+ 
 
   <div style="text-align: center;">
   <img src="../images/CogMirF.png" width="500" />
