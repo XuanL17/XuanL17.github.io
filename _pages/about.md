@@ -17,37 +17,31 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
 
 ## 🌟 Major Papers & Projects 
 
-## 🛡️ Topic 1: AI Privacy, Attack & Defense Algorithms
+## 🤖 Topic 1: Multi-Agent LLM & LLM Cognition
+   
+- [1\] **Xuan Liu**, Jie Zhang, Song Guo, Haoyang Shang, Chengxu Yang, Quanyan Zhu. [“Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View”](https://arxiv.org/abs/2405.14744) **ICLR-2025** (2024)
 
-- [1\] **Xuan Liu**, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin. [“Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion”](https://arxiv.org/abs/2407.05285) **AAAI-2025** (2024)
+
+  <div style="text-align: center;">
+  <img src="../images/CogMirF.png" width="500" />
+  </div>
+
+## 🛡️ Topic 2: AI Privacy, Attack & Defense Algorithms
+
+- [2\] **Xuan Liu**, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin. [“Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion”](https://arxiv.org/abs/2407.05285) **AAAI-2025** (2024)
   
   <div style="text-align: center;">
   <img src="../images/Attack1.png" width="500" />
   </div>
 
 
-- [2\] **Xuan Liu**, Siqi Cai, Lin Li, Rui Zhang, Song Guo. [“MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning”](https://doi.org/10.1609/aaai.v37i13.26995) **AAAI-2023** (2023)
+- [3\] **Xuan Liu**, Siqi Cai, Lin Li, Rui Zhang, Song Guo. [“MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning”](https://doi.org/10.1609/aaai.v37i13.26995) **AAAI-2023** (2023)
   
   <div style="text-align: center;">
   <img src="../images/MGIS.png" width="300" />
   </div>
 
--  [3\] **Xuan Liu**, Siqi Cai, Renjie He, Jingling Yuan. [“Mutual Gradient Inversion: Unveiling Privacy Risks of Federated Learning on Multi-modal Signals”](https://ieeexplore.ieee.org/document/10663250) **IEEE Signal Processing Letters** (2024)
-
- 
-
-## 🤖 Topic 2: Multi-Agent LLM & LLM Cognition
-
-- **_Preprint on-going work_**
-   
-  **Xuan Liu**, Jie Zhang, Song Guo, Haoyang Shang, Chengxu Yang, Quanyan Zhu. [“Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View”](https://arxiv.org/abs/2405.14744) (2024)
-
- 
-
-  <div style="text-align: center;">
-  <img src="../images/CogMirF.png" width="500" />
-  </div>
-
+-  [4\] **Xuan Liu**, Siqi Cai, Renjie He, Jingling Yuan. [“Mutual Gradient Inversion: Unveiling Privacy Risks of Federated Learning on Multi-modal Signals”](https://ieeexplore.ieee.org/document/10663250) **IEEE Signal Processing Letters** (2024)
 
   
 ## 🌱 Topic 3: AIoTs & Eco-friendly Invented Product 
@@ -76,6 +70,7 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
 
 
 ## 🚀 What's New
+_2025-1_ 📝 Xuan's _first author_ [“Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View”](https://arxiv.org/abs/2405.14744) has been accepted by **_ICLR-2025_**.<br>
 _2025-1_ 🤝 Xuan received “Hsin Chong-K.N. Godfrey Yeh Education Fund”.<br>
 _2024-12_ 📝 Xuan's _first author_ work ["Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion"](https://arxiv.org/abs/2407.05285) has been accepted by **_AAAI-2025_**.<br>
 _2024-12_ 📝 Xuan's _co-author_ work ["PriFairFed: A Local Differentially Private Federated Learning Algorithm for Client-Level Fairness"](https://www.computer.org/csdl/journal/tm/5555/01/10798583/22EagQA5RYc) has been accepted by **_IEEE Transactions on Mobile Computing_**.<br>
