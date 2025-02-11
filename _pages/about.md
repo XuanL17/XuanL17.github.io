@@ -19,8 +19,7 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
 
 ## 🤖 Topic 1: Multi-Agent LLM & LLM Cognition
    
-- [1\] **Xuan Liu**, Jie Zhang, Song Guo, Haoyang Shang, Chengxu Yang, Quanyan Zhu. [“Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View”](https://arxiv.org/abs/2405.14744) **ICLR-2025** (2024)
-
+- [1\] **Xuan Liu**, Jie Zhang, Song Guo, Haoyang Shang, Chengxu Yang, Quanyan Zhu. [“Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View”](https://arxiv.org/abs/2405.14744) **ICLR-2025** (2024) 
 
   <div style="text-align: center;">
   <img src="../images/CogMirF.png" width="500" />
@@ -28,14 +27,14 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
 
 ## 🛡️ Topic 2: AI Privacy, Attack & Defense Algorithms
 
-- [2\] **Xuan Liu**, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin. [“Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion”](https://arxiv.org/abs/2407.05285) **AAAI-2025** (2024)
+- [2\] **Xuan Liu**, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin. [“Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion”](https://arxiv.org/abs/2407.05285) **AAAI-2025** (2024) [code](https://github.com/XuanL17/Mjolnir)
   
   <div style="text-align: center;">
   <img src="../images/Attack1.png" width="500" />
   </div>
 
 
-- [3\] **Xuan Liu**, Siqi Cai, Lin Li, Rui Zhang, Song Guo. [“MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning”](https://doi.org/10.1609/aaai.v37i13.26995) **AAAI-2023** (2023)
+- [3\] **Xuan Liu**, Siqi Cai, Lin Li, Rui Zhang, Song Guo. [“MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning”](https://doi.org/10.1609/aaai.v37i13.26995) **AAAI-2023** (2023) [code](https://github.com/XuanL17/MGIA)
   
   <div style="text-align: center;">
   <img src="../images/MGIS.png" width="300" />
