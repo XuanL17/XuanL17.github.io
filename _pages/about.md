@@ -68,18 +68,18 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
 
 ## 📣 Recent Activities
   _**2025-4-26 CST 3pm-5:30pm [Poster]**_ : <br>
-🖼️ **Venue** ICLR 2025 Poster Session, Singapore EXPO <br>
-🔗 **Details** [More information here](https://iclr.cc/virtual/2025/poster/27998) <br>
+🖼️ Venue: ICLR 2025 Poster Session, Singapore EXPO <br>
+🔗 Details: [More information here](https://iclr.cc/virtual/2025/poster/27998) <br>
   _**2025-3-17 CST 10am-11am [Invited Talk]**_ :<br>
-🎯 **Topic** 大模型新视角：大模型幻觉 ⇒ 高级智能?  <br>
-🗓️ **Location** 北京通用人工智能研究院 (Beijing Institute for General Artificial Intelligence), 2201 Meeting Room <br>
-🔗 **Details** [More information here](https://connectpolyu-my.sharepoint.com/:b:/g/personal/21097411d_connect_polyu_hk/ESFzpoB8BI9EobnsDQ_wgXoBxPiEMFJhXIvBaJUD_FtHBA?e=gcI0ji) <br>
+🎯 Topic: 大模型新视角：大模型幻觉 ⇒ 高级智能?  <br>
+🗓️ Location: 北京通用人工智能研究院 (Beijing Institute for General Artificial Intelligence), 2201 Meeting Room <br>
+🔗 Details: [More information here](https://connectpolyu-my.sharepoint.com/:b:/g/personal/21097411d_connect_polyu_hk/ESFzpoB8BI9EobnsDQ_wgXoBxPiEMFJhXIvBaJUD_FtHBA?e=gcI0ji) <br>
   _**2025-3-01 EST 12pm-2:30pm [Poster]**_:<br>
-🖼️ **Venue** AAAI 2025 Poster Session, Philadelphia, Pennsylvania, at the Pennsylvania Convention Center <br>
-🔗 **Details** [More information here](https://connectpolyu-my.sharepoint.com/:b:/g/personal/21097411d_connect_polyu_hk/EWcOAI8fv5lMuAlyUNUfNd0BqQi09wd8o3y1q__YvUKLDA?e=KndL1R) <br>
+🖼️ Venue: AAAI 2025 Poster Session, Philadelphia, Pennsylvania, at the Pennsylvania Convention Center <br>
+🔗 Details: [More information here](https://connectpolyu-my.sharepoint.com/:b:/g/personal/21097411d_connect_polyu_hk/EWcOAI8fv5lMuAlyUNUfNd0BqQi09wd8o3y1q__YvUKLDA?e=KndL1R) <br>
 _**2024-12-05 & 06 CST [Entrepreneurship Day Booth]**_: <br>
-🖼️ **Venue** Hong Kong Entrepreneur Day (E-Day) PolyU Booth, Hong Kong Convention and Exhibition Centre <br>
-🔗 **Details** [More information here](https://connectpolyu-my.sharepoint.com/:b:/g/personal/21097411d_connect_polyu_hk/EXidI-euC5BEvwYpV6WG69wBxSRChkBnRCqA4IoJgHlIXw?e=iAaLoT) <br>
+🖼️ Venue: Hong Kong Entrepreneur Day (E-Day) PolyU Booth, Hong Kong Convention and Exhibition Centre <br>
+🔗 Details: [More information here](https://connectpolyu-my.sharepoint.com/:b:/g/personal/21097411d_connect_polyu_hk/EXidI-euC5BEvwYpV6WG69wBxSRChkBnRCqA4IoJgHlIXw?e=iAaLoT) <br>
 
 
 ## 🚀 What's New
