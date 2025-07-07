@@ -9,11 +9,10 @@ redirect_from:
 
 Hello! 😊 I'm Xuan Liu, a senior-year Electronic and Information Engineering undergraduate at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/eee/). I'm a highly self-motivated researcher and innovator with a robust ability in execution and leadership.
 
-My research interests lie in Trustworthy & Cognitive AI, Privacy, Large-Scale Models, and Attack & Defense Algorithms. I'm honored to be supervised by [Prof. Song Guo, at HKUST](https://cse.hkust.edu.hk/~songguo/) (Hong Kong) during my undergraduate period. Also, I'm thankful for the mentorship by [Prof. Quanyan Zhu, at NYU](https://engineering.nyu.edu/faculty/quanyan-zhu) (New York) on interdisciplinary research on Multi-Agent LLM system for social science during Spring 2024. In the summer, I was on my Research Internship with [Prof. Xiaoxiao Li, at UBC](https://ece.ubc.ca/xiaoxiao-li/) (Vancouver) on building the distributed training system for Large-Scale Models.
+My research interests lie in Trustworthy & Cognitive AI, Privacy, Large-Scale Models, and Attack & Defense Algorithms. I am honored to have been advised and collaborated with [Prof. Song Guo, at HKUST](https://cse.hkust.edu.hk/~songguo/) (Hong Kong), [Prof. Quanyan Zhu, at NYU](https://engineering.nyu.edu/faculty/quanyan-zhu) (New York), and [Prof. Xiaoxiao Li, at UBC](https://ece.ubc.ca/xiaoxiao-li/) (Vancouver) during my undergraduate period.
 
 In addition to academic pursuits, I'm the founder of [BreathingCORE](https://breathingcore.com/), an eco-friendly IoTs technology startup in Hong Kong. I am also an inventor with patents in sustainable energy & negative carbon-related technologies.
 
-For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am applying for the Fall 2025 PhD program in EECS OR Cognitive-related fields! I can't wait to contribute innovative ideas and productive work ethics to your team！
 
 ## 🌟 Major Papers & Projects 
 
@@ -39,8 +38,6 @@ For more details about me, please reach out at xuan18.liu@connect.polyu.hk. I am
   <div style="text-align: center;">
   <img src="../images/MGIS.png" width="300" />
   </div>
-
--  [4\] **Xuan Liu**, Siqi Cai, Renjie He, Jingling Yuan. [“Mutual Gradient Inversion: Unveiling Privacy Risks of Federated Learning on Multi-modal Signals”](https://ieeexplore.ieee.org/document/10663250) **IEEE Signal Processing Letters** (2024)
 
   
 ## 🌱 Topic 3: AIoTs & Eco-friendly Invented Product 
