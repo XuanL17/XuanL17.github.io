@@ -64,10 +64,10 @@ In addition to academic pursuits, I'm the founder of [BreathingCORE](https://bre
 
 
 ## 📣 Recent Activities
-  _**2025-7-3 CST [Recorded Interview]**_ : <br>
+  _**2025-7-3 CST [Interview]**_ : <br>
 🎯 Topic: 跨越界限，探索工程领域 <br>
-🖼️ Venue: 香港理工大学招生信息平台 | The Hong Kong Polytechnic University <br>
-🔗 Details: [More information here](https://mp.weixin.qq.com/s/XHG-eq2gHN_FUzXQWGO-lw) <br>
+🖼️ Venue: 香港理工大学招生信息平台 (微信公众号) | The Hong Kong Polytechnic University <br>
+🔗 Details: [More information here (Recording)](https://mp.weixin.qq.com/s/XHG-eq2gHN_FUzXQWGO-lw) <br>
   _**2025-4-26 CST 3pm-5:30pm [Poster]**_ : <br>
 🖼️ Venue: ICLR 2025 Poster Session, Singapore EXPO <br>
 🔗 Details: [More information here](https://iclr.cc/virtual/2025/poster/27998) <br>
