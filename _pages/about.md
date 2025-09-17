@@ -74,34 +74,35 @@ In addition to academic pursuits, I'm the founder of [BreathingCORE](https://bre
   _**2025-3-17 CST 10am-11am [Invited Talk]**_ :<br>
 🎯 Topic: 大模型新视角：大模型幻觉 ⇒ 高级智能?  <br>
 🗓️ Location: 北京通用人工智能研究院 (Beijing Institute for General Artificial Intelligence), 2201 Meeting Room <br>
-🔗 Details: [More information here](https://connectpolyu-my.sharepoint.com/:b:/g/personal/21097411d_connect_polyu_hk/ESFzpoB8BI9EobnsDQ_wgXoBxPiEMFJhXIvBaJUD_FtHBA?e=gcI0ji) <br>
+🔗 Details: [More information here](https://1drv.ms/b/c/a0549cc609574664/ETchdIA455ZIukTi6M-j1y8BXZbDSkprN4r5YjXsRm3m3g?e=ngD2QM) <br>
   _**2025-3-01 EST 12pm-2:30pm [Poster]**_:<br>
 🖼️ Venue: AAAI 2025 Poster Session, Philadelphia, Pennsylvania, at the Pennsylvania Convention Center <br>
-🔗 Details: [More information here](https://connectpolyu-my.sharepoint.com/:b:/g/personal/21097411d_connect_polyu_hk/EWcOAI8fv5lMuAlyUNUfNd0BqQi09wd8o3y1q__YvUKLDA?e=KndL1R) <br>
+🔗 Details: [More information here](https://1drv.ms/b/c/a0549cc609574664/EZiL6ESUbzNOmf3cuMn1M-sBLUXGic0grABt8HjOjAuiXA?e=4A96tf) <br>
 _**2024-12-05 & 06 CST [Entrepreneurship Day Booth]**_: <br>
 🖼️ Venue: Hong Kong Entrepreneur Day (E-Day) PolyU Booth, Hong Kong Convention and Exhibition Centre <br>
-🔗 Details: [More information here](https://connectpolyu-my.sharepoint.com/:b:/g/personal/21097411d_connect_polyu_hk/EXidI-euC5BEvwYpV6WG69wBxSRChkBnRCqA4IoJgHlIXw?e=iAaLoT) <br>
+🔗 Details: [More information here](https://1drv.ms/b/c/a0549cc609574664/Ee8Fc8lu3qtIoc7jkT4dwxYBUIOhftYUycutR4H0lWShAA?e=7dD8Pg) <br>
 
 
 ## 🚀 What's New
+_2025-7_ 🎓 Xuan graduated from The Hong Kong Polytechnic University with *First Class Honors* and was listed on the *Dean's Honor List* consecutively! <br>
 _2025-1_ 📝 Xuan's _first author_ [“Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View”](https://arxiv.org/abs/2405.14744) has been accepted by **_ICLR-2025_**.<br>
 _2025-1_ 🤝 Xuan received “Hsin Chong-K.N. Godfrey Yeh Education Fund”.<br>
 _2024-12_ 📝 Xuan's _first author_ work ["Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion"](https://arxiv.org/abs/2407.05285) has been accepted by **_AAAI-2025_**.<br>
 _2024-12_ 📝 Xuan's _co-author_ work ["PriFairFed: A Local Differentially Private Federated Learning Algorithm for Client-Level Fairness"](https://www.computer.org/csdl/journal/tm/5555/01/10798583/22EagQA5RYc) has been accepted by **_IEEE Transactions on Mobile Computing_**.<br>
 _2024-8_ 📝 Xuan's _first author_ work ["Mutual Gradient Inversion: Unveiling Privacy Risks of Federated Learning on Multi-modal Signals"](https://ieeexplore.ieee.org/document/10663250) has been accepted by **_IEEE Signal Processing Letters_**.<br>
 _2024-4_  🏆 Xuan received the [**_Best_** Undergraduate Research Project Award](https://www.polyu.edu.hk/eee/news-and-events/news/2024/2024-02-21-best-uris-research-project-award-2023/)! See University Official Posts & Interview at [Instagram](https://www.instagram.com/p/C6VELkGy9f6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7190543155698491392).<br>
-_2024-1_  🤝 Xuan's Start-up BreathingCORE won MicroFund Shortlisted Team and has been selected for [Hong Kong Science and Technology Park](https://www.hkstp.org/) Incubation Program!<br>
-_2023-12_ Xuan won ["Outstanding Proposal of Belt and Road Initiatives Youth Creative International Challenge"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EQ9nYNABWbRAq_S7zVveNOkBpYFuOgWINgZt4Dh6DFtylw?e=wEjeiZ). See University Official Posts at [Facebook](https://www.facebook.com/polyueee/photos/-congratulations-to-our-students-on-winning-the-second-prize-in-the-belt-and-roa/724634839855179/?_rdr) <br>
-_2023-11_ Xuan received ["98th IEEE-VTC Fall Volunteer Service Award"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EX9J3McaMhtEpu8iwjxmEYEBx8qVzrv_WHHHYsntXwZmzg?e=52LolZ).<br>
+_2024-1_  🤝 Xuan's Start-up BreathingCORE won MicroFund Shortlisted Team and has been selected for [Hong Kong Science and Technology Park](https://www.hkstp.org/) Ideation Program!<br>
+_2023-12_ Xuan won ["Outstanding Proposal of Belt and Road Initiatives Youth Creative International Challenge"](https://1drv.ms/i/c/a0549cc609574664/EWG-yWl0Yl9DrcrM72DdjYoBQc3u0PqYE8SMdbN3p2CmSQ?e=2FwRXi). See University Official Posts at [Facebook](https://www.facebook.com/polyueee/photos/-congratulations-to-our-students-on-winning-the-second-prize-in-the-belt-and-roa/724634839855179/?_rdr) <br>
+_2023-11_ Xuan received ["98th IEEE-VTC Fall Volunteer Service Award"](https://1drv.ms/i/c/a0549cc609574664/EVnp5rIILZdEq2FYc4mItC8BR3sXbCVY8ErnrX9zki5f2g?e=5tAHap).<br>
 _2023-9_ 🏆 Xuan won "**_Champion_** of Innovation & Entrepreneurship Training Camp Roadshow," securing a 7K CNY cash award. <br>
 _2023-7_ 🏆 Xuan received ["Department of Electronic and Information Engineering Scholarship 
-for Hall Residents"](https://connectpolyu-my.sharepoint.com/:b:/g/personal/21097411d_connect_polyu_hk/EU3wMSH_0gJBmCfSwekowYYBe0QqHLeUwsYktqGOgUrEGQ?e=0C1unW), for the Top 1 GPA in the academic year of 2022 in the Dept.<br>
-_2023-4_  Xuan received ["Hong Kong Government-Researching Out Award"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EdsgREGzomZOlyhDSZONzesB6gFqX3AWZSwxVq9PDpTeyQ?e=jsPPgb).<br>
-_2023-4_  Xuan received ["Hong Kong Government-Talent Development Scholarship"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EZ47dCrjnvhJrfY9_5G-3voBf-tIbqbUVPvK4Tqgs1RCNA?e=XZ9pTd).<br>
+for Hall Residents"](https://1drv.ms/b/c/a0549cc609574664/EeORiU9-Ap9HvTyuokGikTMBOy7BWkoeaw_f9EEawMuqzA?e=167nN6), for the Top 1 GPA in the academic year of 2022 in the Dept.<br>
+_2023-4_  Xuan received ["Hong Kong Government-Researching Out Award"](https://1drv.ms/i/c/a0549cc609574664/EcEEAEuB8PJLlg-9lhkCXsoBude0yTiX8v8DAt-aw9p_fQ?e=IcHHrR).<br>
+_2023-4_  Xuan received ["Hong Kong Government-Talent Development Scholarship"](https://1drv.ms/i/c/a0549cc609574664/ETUjQ9l09B9GhEKxk_-s-hUB1P8Eqtxymq--NzKaHgT3UQ?e=cH3fD2).<br>
 _2023-2_ 📝 Xuan's _first author_ work ["MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning"](https://ojs.aaai.org/index.php/AAAI/article/view/26995) has been published on **_AAAI-2023_**.<br>
 _2022-12_ Xuan received ["Dr. Winnie S M Tang-PolyU Student 
-Innovation & Entrepreneurship Scholarship "](https://connectpolyu-my.sharepoint.com/:b:/g/personal/21097411d_connect_polyu_hk/EeFzM5bicaRDuOSs1eN3o6ABUGMtNnDDJfDY3wHWa64SJw?e=otbc8A).<br>
-_2022-11_ 🏆 Xuan won ["**_Best_** GPA Award"](https://connectpolyu-my.sharepoint.com/:i:/g/personal/21097411d_connect_polyu_hk/EXSvkpdj16tCnOEy9G2wQc4B3TyN5NoamK7XcZaKQ5eM0w?e=IXneLw) Department of Electronic and Information Engineering.<br>
+Innovation & Entrepreneurship Scholarship "](https://1drv.ms/b/c/a0549cc609574664/EUIPbNI03plAgmhEcSAmQdMBtBPmPdIHaPnAlVNP6RRKXw?e=44Qm1b).<br>
+_2022-11_ 🏆 Xuan won ["**_Best_** GPA Award"](https://1drv.ms/i/c/a0549cc609574664/ERlvMWKvFxJDkuqiiNY9iuoBhDkl9aQUnZrV5mhXQRhiiw?e=4KPMl3) Department of Electronic and Information Engineering.<br>
 _2022-8_  Xuan received the "Shenzhen Innovation & Entrepreneurship Competition **_Outstanding_** Award," securing a 7K CNY cash award.<br>
 
 ## 🌍 Moments
