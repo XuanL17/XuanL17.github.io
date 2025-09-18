@@ -1,10 +1,9 @@
 ---
+title: 🌍 Moments
 permalink: /gallery/
 layout: single
 author_profile: true
 ---
-
-## 🌍 Moments
 
 <div style="text-align: center; line-height: 2;">
   <img src="../images/Africa3.jpg" width="140" style="margin-bottom: 15px;" />
