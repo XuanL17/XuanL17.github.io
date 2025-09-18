@@ -13,77 +13,8 @@ My research interests lie in Trustworthy & Cognitive AI, Privacy, Large-Scale Mo
 
 In addition to academic pursuits, I'm the founder of [BreathingCORE](https://breathingcore.com/), an eco-friendly IoTs technology startup in Hong Kong. I am also an inventor with patents in sustainable energy & negative carbon-related technologies.
 
-
-## 🌟 Major Papers & Projects 
-
-## 🤖 Topic 1: Multi-Agent LLM & LLM Cognition
-   
-- [1\] **Xuan Liu**, Jie Zhang, Song Guo, Haoyang Shang, Chengxu Yang, Quanyan Zhu. [“Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View”](https://arxiv.org/abs/2405.14744) **ICLR-2025** (2024) 
-
-  <div style="text-align: center;">
-  <img src="../images/CogMirF.png" width="500" />
-  </div>
-
-## 🛡️ Topic 2: AI Privacy, Attack & Defense Algorithms
-
-- [2\] **Xuan Liu**, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin. [“Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion”](https://arxiv.org/abs/2407.05285) **AAAI-2025** (2024) [Access Code](https://github.com/XuanL17/Mjolnir)
-  
-  <div style="text-align: center;">
-  <img src="../images/Attack1.png" width="500" />
-  </div>
-
-
-- [3\] **Xuan Liu**, Siqi Cai, Lin Li, Rui Zhang, Song Guo. [“MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning”](https://doi.org/10.1609/aaai.v37i13.26995) **AAAI-2023** (2023) [Access Code](https://github.com/XuanL17/MGIA)
-  
-  <div style="text-align: center;">
-  <img src="../images/MGIS.png" width="300" />
-  </div>
-
-  
-## 🌱 Topic 3: AIoTs & Eco-friendly Invented Product 
-
-- **_Chinese Patent_**
-  
-  **CN 109589733 B**: An environmentally friendly outdoor dust reduction device using solar thermal energy.
-  <div style="text-align: center;">
-  <img src="../images/Product1.png" width="350" />
-  <img src="../images/Product2.png" width="350" />
-  </div>
-
-- **_Newly invented Pre-sale Product "GreenOxy"_**
-
-  **GreenOxy-A Living Air Purifier:** My newly designed, innovative air purifier. Initially hand-crafted, it is now available for pre-sale. This unique product combines advanced technology with natural elements, bringing vitality and serenity to your daily life.
-  <div style="text-align: center;">
-  <img src="../images/GreenOxy.jpg" width="150" />
-  <img src="../images/GreenOxy3.jpg" width="150" />
-  </div>
-
-
-- **_For More Information, Please Visit My Start-up Company Website_**:  
-  [https://breathingcore.com](https://breathingcore.com)
-
-
-## 📣 Recent Activities
-  _**2025-7-3 CST [Interview]**_ : <br>
-🎯 Topic: 跨越界限，探索工程领域 <br>
-🖼️ Venue: 香港理工大学招生信息平台 | The Hong Kong Polytechnic University <br>
-🔗 Details: [More information here (Recording)](https://mp.weixin.qq.com/s/XHG-eq2gHN_FUzXQWGO-lw) <br>
-  _**2025-4-26 CST 3pm-5:30pm [Poster]**_ : <br>
-🖼️ Venue: ICLR 2025 Poster Session, Singapore EXPO <br>
-🔗 Details: [More information here](https://iclr.cc/virtual/2025/poster/27998) <br>
-  _**2025-3-17 CST 10am-11am [Invited Talk]**_ :<br>
-🎯 Topic: 大模型新视角：大模型幻觉 ⇒ 高级智能?  <br>
-🗓️ Location: 北京通用人工智能研究院 (Beijing Institute for General Artificial Intelligence), 2201 Meeting Room <br>
-🔗 Details: [More information here](https://1drv.ms/b/c/a0549cc609574664/ETchdIA455ZIukTi6M-j1y8BXZbDSkprN4r5YjXsRm3m3g?e=ngD2QM) <br>
-  _**2025-3-01 EST 12pm-2:30pm [Poster]**_:<br>
-🖼️ Venue: AAAI 2025 Poster Session, Philadelphia, Pennsylvania, at the Pennsylvania Convention Center <br>
-🔗 Details: [More information here](https://1drv.ms/b/c/a0549cc609574664/EZiL6ESUbzNOmf3cuMn1M-sBLUXGic0grABt8HjOjAuiXA?e=4A96tf) <br>
-_**2024-12-05 & 06 CST [Entrepreneurship Day Booth]**_: <br>
-🖼️ Venue: Hong Kong Entrepreneur Day (E-Day) PolyU Booth, Hong Kong Convention and Exhibition Centre <br>
-🔗 Details: [More information here](https://1drv.ms/b/c/a0549cc609574664/Ee8Fc8lu3qtIoc7jkT4dwxYBUIOhftYUycutR4H0lWShAA?e=7dD8Pg) <br>
-
-
 ## 🚀 What's New
+
 _2025-7_ 🎓 Xuan graduated from The Hong Kong Polytechnic University with *First Class Honors* and was listed on the *Dean's Honor List* consecutively! <br>
 _2025-1_ 📝 Xuan's _first author_ [“Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View”](https://arxiv.org/abs/2405.14744) has been accepted by **_ICLR-2025_**.<br>
 _2025-1_ 🤝 Xuan received “Hsin Chong-K.N. Godfrey Yeh Education Fund”.<br>
@@ -105,17 +36,3 @@ Innovation & Entrepreneurship Scholarship "](https://1drv.ms/b/c/a0549cc60957466
 _2022-11_ 🏆 Xuan won ["**_Best_** GPA Award"](https://1drv.ms/i/c/a0549cc609574664/ERlvMWKvFxJDkuqiiNY9iuoBhDkl9aQUnZrV5mhXQRhiiw?e=4KPMl3) Department of Electronic and Information Engineering.<br>
 _2022-8_  Xuan received the "Shenzhen Innovation & Entrepreneurship Competition **_Outstanding_** Award," securing a 7K CNY cash award.<br>
 
-## 🌍 Moments
-<div style="text-align: center; line-height: 2;"> <!-- 调整行高实现分行空格 -->
-  <img src="../images/Africa3.jpg" width="140" style="margin-bottom: 15px;" />
-  <img src="../images/Africa2.jpg" width="190" style="margin-bottom: 15px;" />
-</div>
-
-<div style="text-align: center; line-height: 2;"> <!-- 同样调整行高 -->
-  <img src="../images/sea1.jpg" width="165" style="margin-bottom: 15px;" />
-  <img src="../images/sea3.jpg" width="175" style="margin-bottom: 15px;" />
-</div>
-
-<div style="text-align: center; line-height: 2;">
-  <img src="../images/GreenOxy1.jpg" width="274.5" style="margin-bottom: 15px;" />
-</div>
