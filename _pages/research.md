@@ -1,10 +1,10 @@
 ---
+title: 🌟 Major Papers & Projects
 permalink: /research/
 layout: single
 author_profile: true
 ---
 
-## 🌟 Major Papers & Projects
 
 ## 🤖 Topic 1: Multi-Agent LLM & LLM Cognition
 
