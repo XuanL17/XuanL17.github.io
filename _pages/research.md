@@ -3,64 +3,49 @@ title: Research
 permalink: /research/
 layout: single
 author_profile: true
-
-# Feature rows per topic
-feature_row_llm:
-  - image_path: /images/CogMirF.png
-    alt: Prosocial Irrationality for LLM Agents
-    title: ICLR 2025 · Prosocial Irrationality for LLM Agents
-    excerpt: Social-cognition view to evaluate and enhance cooperation in LLM agents.
-    url: https://arxiv.org/abs/2405.14744
-    btn_label: Paper
-    btn_class: btn--primary
-
-feature_row_privacy:
-  - image_path: /images/Attack1.png
-    alt: Mjolnir Attack Illustration
-    title: AAAI 2025 · Mjölnir (Adaptive Diffusion)
-    excerpt: Breaks perturbation-protected gradients via adaptive diffusion.
-    url: https://arxiv.org/abs/2407.05285
-    btn_label: Paper
-    btn_class: btn--primary
-  - image_path: /images/MGIS.png
-    alt: MGIA Multi-Modal FL
-    title: AAAI 2023 · MGIA (Multi-Modal FL)
-    excerpt: Cross-modal constraints to recover private signals from gradients.
-    url: https://doi.org/10.1609/aaai.v37i13.26995
-    btn_label: Paper
-    btn_class: btn--primary
-
-feature_row_aiot:
-  - image_path: /images/Product1.png
-    alt: Eco Dust Reduction Device
-    title: CN 109589733 B · Eco Dust Reduction Device
-    excerpt: Solar thermal energy driven, environmentally friendly outdoor dust reduction.
-    url: https://breathingcore.com
-    btn_label: Learn more
-    btn_class: btn
-  - image_path: /images/GreenOxy.jpg
-    alt: GreenOxy Air Purifier
-    title: GreenOxy · Living Air Purifier
-    excerpt: Low-energy, bio-inspired airflow design; now open for pre-sale.
-    url: https://breathingcore.com
-    btn_label: Product
-    btn_class: btn
 ---
-
-{% include base_path %}
 
 ## 🌟 Major Papers & Projects
 
-### 🤖 Topic 1: Multi-Agent LLM & LLM Cognition {#llm-cognition}
-{% include feature_row id="feature_row_llm" %}
+## 🤖 Topic 1: Multi-Agent LLM & LLM Cognition
 
-### 🛡️ Topic 2: AI Privacy, Attack & Defense Algorithms {#privacy-security}
-{% include feature_row id="feature_row_privacy" %}
+- [1] **Xuan Liu**, Jie Zhang, Song Guo, Haoyang Shang, Chengxu Yang, Quanyan Zhu. [“Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View”](https://arxiv.org/abs/2405.14744) **ICLR-2025** (2024)
 
-### 🌱 Topic 3: AIoTs & Eco-friendly Invented Product {#aiots}
-{% include feature_row id="feature_row_aiot" %}
+<div style="text-align: center;">
+  <img src="../images/CogMirF.png" width="500" />
+</div>
 
-<p style="margin-top: 1rem;">
-  For more information, please visit my start-up website: 
-  <a href="https://breathingcore.com">breathingcore.com</a>
-.</p>
+## 🛡️ Topic 2: AI Privacy, Attack & Defense Algorithms
+
+- [2] **Xuan Liu**, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin. [“Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion”](https://arxiv.org/abs/2407.05285) **AAAI-2025** (2024) [Access Code](https://github.com/XuanL17/Mjolnir)
+
+<div style="text-align: center;">
+  <img src="../images/Attack1.png" width="500" />
+</div>
+
+- [3] **Xuan Liu**, Siqi Cai, Lin Li, Rui Zhang, Song Guo. [“MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning”](https://doi.org/10.1609/aaai.v37i13.26995) **AAAI-2023** (2023) [Access Code](https://github.com/XuanL17/MGIA)
+
+<div style="text-align: center;">
+  <img src="../images/MGIS.png" width="300" />
+</div>
+
+## 🌱 Topic 3: AIoTs & Eco-friendly Invented Product
+
+- _Chinese Patent_
+
+  **CN 109589733 B**: An environmentally friendly outdoor dust reduction device using solar thermal energy.
+  <div style="text-align: center;">
+    <img src="../images/Product1.png" width="350" />
+    <img src="../images/Product2.png" width="350" />
+  </div>
+
+- _Newly invented Pre-sale Product "GreenOxy"_
+
+  **GreenOxy-A Living Air Purifier:** My newly designed, innovative air purifier. Initially hand-crafted, it is now available for pre-sale. This unique product combines advanced technology with natural elements, bringing vitality and serenity to your daily life.
+  <div style="text-align: center;">
+    <img src="../images/GreenOxy.jpg" width="150" />
+    <img src="../images/GreenOxy3.jpg" width="150" />
+  </div>
+
+- _For More Information, Please Visit My Start-up Company Website_:
+  [https://breathingcore.com](https://breathingcore.com)
