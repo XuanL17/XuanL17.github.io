@@ -7,15 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 😊 I'm Xuan Liu, a senior-year Electronic and Information Engineering undergraduate at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/eee/). I'm a highly self-motivated researcher and innovator with a robust ability in execution and leadership.
+Hey! 😊 I'm Xuan Liu, a first-year Ph.D. student at [UC San Diego](https://ucsd.edu/), where I am fortunate to work with [Prof. Haojian Jin](https://www.haojianj.in/).  
 
-My research interests lie in Trustworthy & Cognitive AI, Privacy, Large-Scale Models, and Attack & Defense Algorithms. I am honored to have been advised and collaborated with [Prof. Song Guo, at HKUST](https://cse.hkust.edu.hk/~songguo/) (Hong Kong), [Prof. Quanyan Zhu, at NYU](https://engineering.nyu.edu/faculty/quanyan-zhu) (New York), and [Prof. Xiaoxiao Li, at UBC](https://ece.ubc.ca/xiaoxiao-li/) (Vancouver) during my undergraduate period.
-
-In addition to academic pursuits, I'm the founder of [BreathingCORE](https://breathingcore.com/), an eco-friendly IoTs technology startup in Hong Kong. I am also an inventor with patents in sustainable energy & negative carbon-related technologies.
+Previously I completed my Bachelor's in Electronic & Information Engineering at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/eee/). During my undergraduate period, I am grateful to have been advised and collaborated with [Prof. Song Guo, at HKUST](https://cse.hkust.edu.hk/~songguo/) (Hong Kong), [Prof. Quanyan Zhu, at NYU](https://engineering.nyu.edu/faculty/quanyan-zhu) (New York), and [Prof. Xiaoxiao Li, at UBC](https://ece.ubc.ca/xiaoxiao-li/) (Vancouver) 
 
 ## 🚀 What's New
-
-_2025-7_ 🎓 Xuan graduated from The Hong Kong Polytechnic University with *First Class Honors* and was listed on the *Dean's Honor List* consecutively! <br>
+_2025-7_ 🎓 Xuan **graduated** from The Hong Kong Polytechnic University with _1st Class Honors_ and was listed on the _Dean's Honor List_ consecutively! <br>
 _2025-1_ 📝 Xuan's _first author_ [“Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View”](https://arxiv.org/abs/2405.14744) has been accepted by **_ICLR-2025_**.<br>
 _2025-1_ 🤝 Xuan received “Hsin Chong-K.N. Godfrey Yeh Education Fund”.<br>
 _2024-12_ 📝 Xuan's _first author_ work ["Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion"](https://arxiv.org/abs/2407.05285) has been accepted by **_AAAI-2025_**.<br>
