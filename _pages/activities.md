@@ -1,10 +1,10 @@
 ---
+title: 📣 Recent Activities
 permalink: /activities/
 layout: single
 author_profile: true
 ---
 
-## 📣 Recent Activities
 
 _**2025-7-3 CST [Interview]**_ : <br>
 🎯 Topic: 跨越界限，探索工程领域 <br>
