@@ -6,7 +6,7 @@ main:
     url: /research/
   - title: "Activities"
     url: /activities/
+  - title: "Service"
+    url: /service/
   - title: "Gallery"
     url: /gallery/
-  #- title: "CV"
-    #url: /cv/
