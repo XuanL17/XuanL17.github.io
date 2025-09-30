@@ -4,8 +4,9 @@ permalink: /research/
 layout: single
 author_profile: true
 ---
+I have broad research interests that can be encompassed by the following topics:
 
-### 🤖 Topic 1: Create Human-Like Machine Intelligence
+### 🤖 Create Human-Like Machine Intelligence
 
 **Xuan Liu**, Jie Zhang, Song Guo, Haoyang Shang, Chengxu Yang, Quanyan Zhu. [“Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View”](https://arxiv.org/abs/2405.14744) <u>ICLR-2025</u> (2024)
 
@@ -13,7 +14,7 @@ author_profile: true
   <img src="../images/CogMirF.png" width="500" />
 </div>
 
-### 🛡️ Topic 2: Safeguard Privacy and Security
+### 🛡️ Safeguard Privacy and Security
 
 **Xuan Liu**, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin. [“Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion”](https://arxiv.org/abs/2407.05285) <u>AAAI-2025</u> (2024) [Access Code](https://github.com/XuanL17/Mjolnir)
 
@@ -27,7 +28,7 @@ author_profile: true
   <img src="../images/MGIS.png" width="300" />
 </div>
 
-### 🌱 Topic 3: Build a Sustainable Future 
+### 🌱 Build a Sustainable Future 
 _Chinese Patent_ **CN 109589733 B**-An environmentally friendly outdoor dust reduction device using solar thermal energy.
   <div style="text-align: center;">
     <img src="../images/Product1.png" width="350" />
