@@ -9,7 +9,7 @@ redirect_from:
 
 Hey! 😊 I'm Xuan Liu, a first-year Ph.D. student at [UC San Diego](https://ucsd.edu/), where I am fortunate to work with [Prof. Haojian Jin](https://www.haojianj.in/).  
 
-Previously I completed my Bachelor's in Electronic & Information Engineering at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/eee/). During my undergraduate period, I am grateful to have been advised and collaborated with [Prof. Song Guo, at HKUST](https://cse.hkust.edu.hk/~songguo/) (Hong Kong), [Prof. Quanyan Zhu, at NYU](https://engineering.nyu.edu/faculty/quanyan-zhu) (New York), and [Prof. Xiaoxiao Li, at UBC](https://ece.ubc.ca/xiaoxiao-li/) (Vancouver) 
+Previously I completed my Bachelor's in Electronic & Information Engineering at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/eee/). During my undergraduate period, I am grateful to have been advised and collaborated with [Prof. Song Guo](https://cse.hkust.edu.hk/~songguo/) (HKUST, Hong Kong), [Prof. Haibo Hu](https://haibohu.org/) (PolyU, Hong Kong), [Prof. Quanyan Zhu](https://engineering.nyu.edu/faculty/quanyan-zhu) (NYU, New York), and [Prof. Xiaoxiao Li](https://ece.ubc.ca/xiaoxiao-li/) (UBC, Vancouver). 
 
 ## 🚀 What's New
 _2025-9_ 📝 Xuan's _co-author_ work, "Virus Infection Attack on LLMs: Your Poisoning Can Spread 'VIA' Synthetic Data", has been accepted as a 🌟 Spotlight Paper at <u>NeurIPS 2025</u>. Special congratulations to the first author, _[Zi Liang](https://liangzid.github.io/research.html)_! 🚀👏 <br>
