@@ -13,7 +13,7 @@ Previously I completed my Bachelor's in Electronic & Information Engineering at 
 
 ## 🚀 What's New
 _2025-9_ 📝 Xuan's _co-author_ work, "Virus Infection Attack on LLMs: Your Poisoning Can Spread 'VIA' Synthetic Data", has been accepted as a 🌟 Spotlight Paper at <u>NeurIPS 2025</u>. Special congratulations to the first author, _[Zi Liang](https://liangzid.github.io/research.html)_! 🚀👏 <br>
-_2025-7_ 🎓 Xuan **graduated** from The Hong Kong Polytechnic University with _1st Class Honors_ and was listed on the _Dean's Honor List_ consecutively! <br>
+_2025-7_ 🎓 👏 Xuan **graduated** from The Hong Kong Polytechnic University with a <u>Bachelor of Engineering</u>, earning 1st Class Honors and a place on the Dean's Honor List for consecutive years!  <br>
 _2025-1_ 📝 Xuan's _first author_ [“Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View”](https://arxiv.org/abs/2405.14744) has been accepted by <u>ICLR-2025</u>.<br>
 _2025-1_ 🤝 Xuan received “Hsin Chong-K.N. Godfrey Yeh Education Fund”.<br>
 _2024-12_ 📝 Xuan's _first author_ work ["Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion"](https://arxiv.org/abs/2407.05285) has been accepted by <u>AAAI-2025</u>.<br>
