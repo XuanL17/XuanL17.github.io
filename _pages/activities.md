@@ -1,13 +1,11 @@
 ---
-title: 📣 Recent Activities
+title: Activities
 permalink: /activities/
 layout: single
 author_profile: true
 ---
-_**2025-12-1 CST 9am-10am [Oral Presentation]**_ : <br>
-🎯 Topic: Love First, Know Later: Persona-Based Romantic Compatibility Through LLM Text World Engines <br>
-🖼️ Venue: First Workshop on LLM Persona Modeling at Mexico City <br>
-🔗 Details: [More information here (Slides)](https://nips-slides-app.vercel.app) <br>
+
+## 📣 Recent Activities
 
 _**2025-7-3 CST [Interview]**_ : <br>
 🎯 Topic: 跨越界限，探索工程领域 <br>
