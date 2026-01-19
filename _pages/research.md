@@ -55,9 +55,9 @@ author_profile: true
 }
 </style>
 
-I have broad research interests that can be encompassed by the following topics:
+My research sits at the intersection of **machine learning, social psychology, and human-computer interaction**. I focus on three main directions: (1) exploring **human-like intelligence** in modern AI models (e.g., LLMs and VLMs), such as cognitive biases that mirror human social cognition; (2) building **practical AI tools** to accelerate social science research and human behavior understanding; and (3) addressing the **societal aspects of AI**, including privacy protection, security, and sustainable technology innovation. 
 
-## 🤖 Human-Like Machine Intelligence
+## 🌟 Featured Works
 
 <div class="research-item">
   <div class="research-item-img-container">
@@ -80,8 +80,6 @@ I have broad research interests that can be encompassed by the following topics:
 
 <div style="clear: both;"></div>
 
-## 🛡️ Privacy and Security in AI
-
 <div class="research-item">
   <img src="../images/Attack1.png" class="research-item-img">
   <p>
@@ -97,8 +95,6 @@ I have broad research interests that can be encompassed by the following topics:
 </div>
 
 <div style="clear: both;"></div>
-
-## 🌱 Build a Sustainable Future
 
 <div class="research-item">
   <img src="../images/Product1.png" class="research-item-img">
