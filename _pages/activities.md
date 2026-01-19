@@ -5,7 +5,6 @@ layout: single
 author_profile: true
 ---
 
-Below is a timeline of my recent academic and entrepreneurial activities.
 
 ---
 
