@@ -65,7 +65,7 @@ I have broad research interests that can be encompassed by the following topics:
     <img src="../images/fig2.png">
   </div>
   <p>
-    <strong>Xuan Liu</strong>, Haoyang Shang, Haojian Jin. <a href="https://arxiv.org/abs/2509.13588"><strong>"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</strong></a> <em>CHI 2026</em> [<a href="https://github.com/assassin808/CoBRA">Code</a>]
+    <strong>Xuan Liu</strong>, Haoyang Shang, Haojian Jin. <a href="https://arxiv.org/abs/2509.13588">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> <em>CHI 2026</em> [<a href="https://github.com/assassin808/CoBRA">Code</a>]
   </p>
 </div>
 
@@ -74,7 +74,7 @@ I have broad research interests that can be encompassed by the following topics:
 <div class="research-item">
   <img src="../images/CogMirF.png" class="research-item-img">
   <p>
-    <strong>Xuan Liu</strong>, Jie Zhang, Song Guo, Haoyang Shang, Chengxu Yang, Quanyan Zhu. <a href="https://arxiv.org/abs/2405.14744"><strong>"Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View"</strong></a> <em>ICLR 2025</em> [<a href="https://github.com/XuanL17/CogMir">Code</a>]
+    <strong>Xuan Liu</strong>, Jie Zhang, Song Guo, Haoyang Shang, Chengxu Yang, Quanyan Zhu. <a href="https://arxiv.org/abs/2405.14744">"Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View"</a> <em>ICLR 2025</em> [<a href="https://github.com/XuanL17/CogMir">Code</a>]
   </p>
 </div>
 
@@ -85,14 +85,14 @@ I have broad research interests that can be encompassed by the following topics:
 <div class="research-item">
   <img src="../images/Attack1.png" class="research-item-img">
   <p>
-    <strong>Xuan Liu</strong>, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin. <a href="https://arxiv.org/abs/2407.05285"><strong>"Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion"</strong></a> <em>AAAI 2025</em> [<a href="https://github.com/XuanL17/Mjolnir">Code</a>]
+    <strong>Xuan Liu</strong>, Siqi Cai, Qihua Zhou, Song Guo, Ruibin Li, Kaiwei Lin. <a href="https://arxiv.org/abs/2407.05285">"Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion"</a> <em>AAAI 2025</em> [<a href="https://github.com/XuanL17/Mjolnir">Code</a>]
   </p>
 </div>
 
 <div class="research-item">
   <img src="../images/MGIS.png" class="research-item-img">
   <p>
-    <strong>Xuan Liu</strong>, Siqi Cai, Lin Li, Rui Zhang, Song Guo. <a href="https://doi.org/10.1609/aaai.v37i13.26995"><strong>"MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning"</strong></a> <em>AAAI 2023</em> [<a href="https://github.com/XuanL17/MGIA">Code</a>]
+    <strong>Xuan Liu</strong>, Siqi Cai, Lin Li, Rui Zhang, Song Guo. <a href="https://doi.org/10.1609/aaai.v37i13.26995">"MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning"</a> <em>AAAI 2023</em> [<a href="https://github.com/XuanL17/MGIA">Code</a>]
   </p>
 </div>
 
