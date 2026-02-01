@@ -20,9 +20,10 @@ author_profile: true
 
 .gallery-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 20px;
   margin-top: 20px;
+  width: 100%;
 }
 
 .gallery-item {
@@ -45,6 +46,10 @@ author_profile: true
   object-fit: cover;
   display: block;
   transition: transform 0.3s ease;
+}
+
+.gallery-item img.align-bottom {
+  object-position: center bottom;
 }
 
 .gallery-item:hover img {
@@ -90,7 +95,19 @@ author_profile: true
   <div class="gallery-container">
     <div class="gallery-item">
       <img src="../images/Hong Kong1.jpg" alt="Hong Kong">
-      <div class="gallery-caption">Hong Kong Skyline</div>
+      <div class="gallery-caption">Graduation</div>
+    </div>
+    <div class="gallery-item">
+      <img src="../images/HongKong2.jpg" alt="Hong Kong">
+      <div class="gallery-caption">Hong Kong Moments</div>
+    </div>
+    <div class="gallery-item">
+      <img src="../images/HongKong3.jpg" alt="Hong Kong">
+      <div class="gallery-caption">Hong Kong Life</div>
+    </div>
+    <div class="gallery-item">
+      <img src="../images/HongKong4.jpg" alt="Hong Kong" class="align-bottom">
+      <div class="gallery-caption">Hong Kong Memories</div>
     </div>
   </div>
 </div>
@@ -102,7 +119,6 @@ author_profile: true
       <img src="../images/Africa3.jpg" alt="Africa Volunteer">
       <div class="gallery-caption">Volunteer Work in Africa</div>
     </div>
-    
     <div class="gallery-item">
       <img src="../images/Africa2.jpg" alt="Africa Volunteer">
       <div class="gallery-caption">African Volunteer Journey</div>
@@ -111,26 +127,15 @@ author_profile: true
 </div>
 
 <div class="gallery-section">
-  <h2>🌊 Seaside</h2>
+  <h2>🌊 California</h2>
   <div class="gallery-container">
     <div class="gallery-item">
       <img src="../images/sea1.jpg" alt="Ocean View">
       <div class="gallery-caption">Ocean Serenity</div>
     </div>
-    
     <div class="gallery-item">
       <img src="../images/sea3.jpg" alt="Seaside">
       <div class="gallery-caption">Coastal Beauty</div>
-    </div>
-  </div>
-</div>
-
-<div class="gallery-section">
-  <h2>🌱 Innovation</h2>
-  <div class="gallery-container">
-    <div class="gallery-item">
-      <img src="../images/GreenOxy1.jpg" alt="GreenOxy">
-      <div class="gallery-caption">GreenOxy Innovation</div>
     </div>
   </div>
 </div>
