@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 👋 Welcome to my site!  
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,14 +17,12 @@ redirect_from:
 }
 
 .intro-greeting {
-  font-size: 1.2em;
   margin-bottom: 20px;
   line-height: 1.8;
 }
 
 .intro-greeting strong {
   color: #2c8589;
-  font-size: 1.1em;
 }
 
 .intro-current {
@@ -61,10 +59,6 @@ redirect_from:
 @media (max-width: 768px) {
   .intro-section {
     padding: 20px;
-  }
-  
-  .intro-greeting {
-    font-size: 1.1em;
   }
 }
 </style>
@@ -149,7 +143,7 @@ redirect_from:
 }
 </style>
 
-## What's New
+---
 
 <div class="timeline">
   <div class="timeline-item publication">
