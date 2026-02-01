@@ -5,18 +5,133 @@ layout: single
 author_profile: true
 ---
 
-<div style="text-align: center; line-height: 2;">
-  <img src="../images/Africa3.jpg" width="140" style="margin-bottom: 15px;" />
-  <img src="../images/Africa2.jpg" width="190" style="margin-bottom: 15px;" />
+<style>
+.gallery-section {
+  margin-bottom: 50px;
+}
+
+.gallery-section h2 {
+  font-size: 1.5em;
+  color: #2c5aa0;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #4a9eff;
+}
+
+.gallery-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.gallery-item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background-color: #f8f9fa;
+}
+
+.gallery-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.gallery-item:hover img {
+  transform: scale(1.05);
+}
+
+.gallery-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
+  color: white;
+  padding: 15px;
+  font-size: 0.9em;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.gallery-item:hover .gallery-caption {
+  opacity: 1;
+}
+
+/* 移动端适配 */
+@media (max-width: 768px) {
+  .gallery-container {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+  
+  .gallery-item img {
+    height: 250px;
+  }
+  
+  .gallery-caption {
+    opacity: 1; /* 移动端始终显示标题 */
+  }
+}
+</style>
+
+<div class="gallery-section">
+  <h2>🇭🇰 Hong Kong</h2>
+  <div class="gallery-container">
+    <div class="gallery-item">
+      <img src="../images/Hong Kong1.jpg" alt="Hong Kong">
+      <div class="gallery-caption">Hong Kong Skyline</div>
+    </div>
+  </div>
 </div>
 
-<div style="text-align: center; line-height: 2;">
-  <img src="../images/sea1.jpg" width="165" style="margin-bottom: 15px;" />
-  <img src="../images/sea3.jpg" width="175" style="margin-bottom: 15px;" />
+<div class="gallery-section">
+  <h2>🌍 Africa</h2>
+  <div class="gallery-container">
+    <div class="gallery-item">
+      <img src="../images/Africa3.jpg" alt="Africa Volunteer">
+      <div class="gallery-caption">Volunteer Work in Africa</div>
+    </div>
+    
+    <div class="gallery-item">
+      <img src="../images/Africa2.jpg" alt="Africa Volunteer">
+      <div class="gallery-caption">African Volunteer Journey</div>
+    </div>
+  </div>
 </div>
 
-<div style="text-align: center; line-height: 2;">
-  <img src="../images/GreenOxy1.jpg" width="274.5" style="margin-bottom: 15px;" />
+<div class="gallery-section">
+  <h2>🌊 Seaside</h2>
+  <div class="gallery-container">
+    <div class="gallery-item">
+      <img src="../images/sea1.jpg" alt="Ocean View">
+      <div class="gallery-caption">Ocean Serenity</div>
+    </div>
+    
+    <div class="gallery-item">
+      <img src="../images/sea3.jpg" alt="Seaside">
+      <div class="gallery-caption">Coastal Beauty</div>
+    </div>
+  </div>
 </div>
 
+<div class="gallery-section">
+  <h2>🌱 Innovation</h2>
+  <div class="gallery-container">
+    <div class="gallery-item">
+      <img src="../images/GreenOxy1.jpg" alt="GreenOxy">
+      <div class="gallery-caption">GreenOxy Innovation</div>
+    </div>
+  </div>
+</div>
 
