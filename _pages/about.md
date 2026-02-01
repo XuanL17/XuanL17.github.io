@@ -25,7 +25,7 @@ Previously I completed my Bachelor's in Electronic & Information Engineering at 
   top: 0;
   bottom: 0;
   width: 2px;
-  background: linear-gradient(to bottom, #4a9eff, #66bb6a, #ffa726);
+  background: #d0d0d0;
 }
 
 .timeline-item {
@@ -39,37 +39,18 @@ Previously I completed my Bachelor's in Electronic & Information Engineering at 
   position: absolute;
   left: -32px;
   top: 5px;
-  width: 18px;
-  height: 18px;
+  width: 10px;
+  height: 10px;
   border-radius: 50%;
-  border: 3px solid #fff;
-  box-shadow: 0 0 0 2px #ccc;
+  background-color: #888;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 1px #d0d0d0;
   z-index: 1;
-}
-
-.timeline-item.publication::before {
-  background-color: #4a9eff;
-  box-shadow: 0 0 0 2px #4a9eff;
-}
-
-.timeline-item.award::before {
-  background-color: #ffa726;
-  box-shadow: 0 0 0 2px #ffa726;
-}
-
-.timeline-item.milestone::before {
-  background-color: #66bb6a;
-  box-shadow: 0 0 0 2px #66bb6a;
-}
-
-.timeline-item.project::before {
-  background-color: #ab47bc;
-  box-shadow: 0 0 0 2px #ab47bc;
 }
 
 .timeline-date {
   font-weight: bold;
-  color: #2c5aa0;
+  color: #555;
   font-size: 0.9em;
   margin-bottom: 5px;
 }
@@ -94,8 +75,8 @@ Previously I completed my Bachelor's in Electronic & Information Engineering at 
   
   .timeline-item::before {
     left: -27px;
-    width: 14px;
-    height: 14px;
+    width: 8px;
+    height: 8px;
   }
 }
 </style>
