@@ -7,9 +7,77 @@ redirect_from:
   - /about.html
 ---
 
-Hey! 😊 I'm Xuan Liu, a first-year Ph.D. student at [UC San Diego](https://ucsd.edu/), where I am fortunate to work with [Prof. Haojian Jin](https://www.haojianj.in/).  
+<style>
+.intro-section {
+  background: linear-gradient(135deg, #e8f6f7 0%, #B0E3E6 100%);
+  padding: 30px;
+  border-radius: 12px;
+  margin-bottom: 40px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
 
-Previously I completed my Bachelor's in Electronic & Information Engineering at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/eee/). During my undergraduate period, I am grateful to have been advised and collaborated with [Prof. Song Guo](https://cse.hkust.edu.hk/~songguo/) (HKUST, Hong Kong), [Prof. Haibo Hu](https://haibohu.org/) (PolyU, Hong Kong), [Prof. Quanyan Zhu](https://engineering.nyu.edu/faculty/quanyan-zhu) (NYU, New York), and [Prof. Xiaoxiao Li](https://ece.ubc.ca/xiaoxiao-li/) (UBC, Vancouver). 
+.intro-greeting {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+  line-height: 1.8;
+}
+
+.intro-greeting strong {
+  color: #2c8589;
+  font-size: 1.1em;
+}
+
+.intro-current {
+  margin-bottom: 20px;
+  padding: 15px;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 8px;
+  border-left: 4px solid #6BC5C9;
+}
+
+.intro-previous {
+  padding: 15px;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 8px;
+}
+
+.intro-section p {
+  margin: 0;
+  line-height: 1.8;
+}
+
+.intro-section a {
+  color: #2c8589;
+  font-weight: 500;
+  text-decoration: none;
+  border-bottom: 1px dotted #6BC5C9;
+}
+
+.intro-section a:hover {
+  color: #1a5a5d;
+  border-bottom: 2px solid #6BC5C9;
+}
+
+@media (max-width: 768px) {
+  .intro-section {
+    padding: 20px;
+  }
+  
+  .intro-greeting {
+    font-size: 1.1em;
+  }
+}
+</style>
+
+<div class="intro-section">
+  <div class="intro-greeting">
+    Hey! 😊 I'm <strong>Xuan Liu</strong>, a first-year Ph.D. student at <a href="https://ucsd.edu/">UC San Diego</a>, where I am fortunate to work with <a href="https://www.haojianj.in/">Prof. Haojian Jin</a>.
+  </div>
+  
+  <div class="intro-previous">
+    Previously I completed my Bachelor's in Electronic & Information Engineering at <a href="https://www.polyu.edu.hk/eee/">Hong Kong Polytechnic University</a>. During my undergraduate period, I am grateful to have been advised and collaborated with <a href="https://cse.hkust.edu.hk/~songguo/">Prof. Song Guo</a> (HKUST, Hong Kong), <a href="https://haibohu.org/">Prof. Haibo Hu</a> (PolyU, Hong Kong), <a href="https://engineering.nyu.edu/faculty/quanyan-zhu">Prof. Quanyan Zhu</a> (NYU, New York), and <a href="https://ece.ubc.ca/xiaoxiao-li/">Prof. Xiaoxiao Li</a> (UBC, Vancouver).
+  </div>
+</div>
 
 <style>
 .timeline {
@@ -81,7 +149,7 @@ Previously I completed my Bachelor's in Electronic & Information Engineering at 
 }
 </style>
 
-## 🚀 What's New
+## What's New
 
 <div class="timeline">
   <div class="timeline-item publication">
