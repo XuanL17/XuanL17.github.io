@@ -39,3 +39,28 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom: Expand content width */
+.page {
+  @media (min-width: 64em) {
+    padding-right: 0;
+  }
+  
+  @media (min-width: 80em) {
+    padding-right: 0;
+  }
+}
+
+.page__content {
+  @media (min-width: 64em) {
+    width: 100%;
+    padding-right: 0;
+  }
+}
+
+.archive {
+  @media (min-width: 64em) {
+    width: 100%;
+    padding-right: 0;
+  }
+}
