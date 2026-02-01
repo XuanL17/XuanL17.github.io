@@ -1,5 +1,5 @@
 ---
-title: 🌍 Moments
+title: " "
 permalink: /gallery/
 layout: single
 author_profile: true

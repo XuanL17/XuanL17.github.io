@@ -1,5 +1,5 @@
 ---
-title: Activities
+title: " "
 permalink: /activities/
 layout: single
 author_profile: true
