@@ -98,8 +98,8 @@ author_profile: true
       <div class="gallery-caption">Graduation</div>
     </div>
     <div class="gallery-item">
-      <img src="../images/HongKong2.jpg" alt="Hong Kong">
-      <div class="gallery-caption">Hong Kong Moments</div>
+      <img src="../images/sea3.jpg" alt="Hong Kong">
+      <div class="gallery-caption">Coastal Beauty</div>
     </div>
     <div class="gallery-item">
       <img src="../images/HongKong3.jpg" alt="Hong Kong">
@@ -123,6 +123,14 @@ author_profile: true
       <img src="../images/Africa2.jpg" alt="Africa Volunteer">
       <div class="gallery-caption">African Volunteer Journey</div>
     </div>
+    <div class="gallery-item">
+      <img src="../images/Africa1.jpg" alt="Africa Volunteer">
+      <div class="gallery-caption">African Adventure</div>
+    </div>
+    <div class="gallery-item">
+      <img src="../images/Africa4.jpg" alt="Africa Volunteer">
+      <div class="gallery-caption">African Village</div>
+    </div>
   </div>
 </div>
 
@@ -130,12 +138,12 @@ author_profile: true
   <h2>🌊 California</h2>
   <div class="gallery-container">
     <div class="gallery-item">
-      <img src="../images/sea1.jpg" alt="Ocean View">
+      <img src="../images/Cali2.jpg" alt="California">
       <div class="gallery-caption">Ocean Serenity</div>
     </div>
     <div class="gallery-item">
-      <img src="../images/sea3.jpg" alt="Seaside">
-      <div class="gallery-caption">Coastal Beauty</div>
+      <img src="../images/Cali1.jpg" alt="California">
+      <div class="gallery-caption">California Dreams</div>
     </div>
   </div>
 </div>
