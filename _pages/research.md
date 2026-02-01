@@ -6,6 +6,55 @@ author_profile: true
 ---
 
 <style>
+.research-intro {
+  background: linear-gradient(135deg, #e8f6f7 0%, #B0E3E6 100%);
+  padding: 30px;
+  border-radius: 12px;
+  margin-bottom: 40px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  line-height: 1.8;
+}
+
+.research-intro p {
+  margin-bottom: 20px;
+}
+
+.research-intro ul {
+  list-style: none;
+  margin-left: 0;
+  margin-top: 15px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 8px;
+}
+
+.research-intro li {
+  margin-bottom: 12px;
+  line-height: 1.8;
+}
+
+.research-intro li:last-child {
+  margin-bottom: 0;
+}
+
+.research-intro a {
+  color: #2c8589;
+  font-weight: 500;
+  text-decoration: none;
+  border-bottom: 1px dotted #6BC5C9;
+}
+
+.research-intro a:hover {
+  color: #1a5a5d;
+  border-bottom: 2px solid #6BC5C9;
+}
+
+@media (max-width: 768px) {
+  .research-intro {
+    padding: 20px;
+  }
+}
+
 .research-item {
   margin-bottom: 30px;
   overflow: hidden;
@@ -36,6 +85,17 @@ author_profile: true
   margin-bottom: 0;
 }
 
+.research-item a {
+  color: #2c8589;
+  text-decoration: none;
+  border-bottom: 1px dotted #6BC5C9;
+}
+
+.research-item a:hover {
+  color: #1a5a5d;
+  border-bottom: 2px solid #6BC5C9;
+}
+
 /* 移动端适配：屏幕宽度小于 768px 时 */
 @media (max-width: 768px) {
   .research-item-img,
@@ -55,9 +115,18 @@ author_profile: true
 }
 </style>
 
-My research sits at the intersection of **machine learning, social psychology, and human-computer interaction**. I focus on three main directions: (1) exploring **human-like intelligence** in modern AI models (e.g., LLMs and VLMs), such as cognitive biases that mirror human social cognition; (2) building **practical AI tools** to accelerate social science research and human behavior understanding; and (3) addressing the **societal aspects of AI**, including privacy protection, security, and sustainable technology innovation. 
+<div class="research-intro">
+<p>My research sits at the intersection of <strong>machine learning, social psychology, and human-computer interaction</strong>.</p>
 
-## 🌟 Featured Works
+<p>I focus on three main directions:</p>
+<ul>
+  <li><strong>Exploring human-like intelligence</strong> in modern AI models (e.g., LLMs and VLMs), such as cognitive biases that mirror human social cognition</li>
+  <li><strong>Building practical AI tools</strong> to accelerate social science research and human behavior understanding</li>
+  <li><strong>Addressing the societal aspects of AI</strong>, including privacy protection, security, and sustainable technology innovation</li>
+</ul>
+</div>
+
+## Featured Works
 
 <div class="research-item">
   <div class="research-item-img-container">

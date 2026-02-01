@@ -73,6 +73,17 @@ author_profile: true
   color: #333;
 }
 
+.activity-content a {
+  color: #2c8589;
+  text-decoration: none;
+  border-bottom: 1px dotted #6BC5C9;
+}
+
+.activity-content a:hover {
+  color: #1a5a5d;
+  border-bottom: 2px solid #6BC5C9;
+}
+
 @media (max-width: 768px) {
   .activity-item {
     padding: 15px;

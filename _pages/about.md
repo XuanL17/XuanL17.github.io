@@ -122,6 +122,17 @@ redirect_from:
   color: #333;
 }
 
+.timeline-content a {
+  color: #2c8589;
+  text-decoration: none;
+  border-bottom: 1px dotted #6BC5C9;
+}
+
+.timeline-content a:hover {
+  color: #1a5a5d;
+  border-bottom: 2px solid #6BC5C9;
+}
+
 .timeline-item:hover .timeline-content {
   color: #000;
 }
