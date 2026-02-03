@@ -160,21 +160,21 @@ redirect_from:
   <div class="timeline-item publication">
     <div class="timeline-date">📝 2026-01</div>
     <div class="timeline-content">
-      Xuan's work <a href="https://arxiv.org/abs/2509.13588">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> has been accepted by <u>CHI 2026</u>. 🚀👏
+      Xuan's work <a href="https://arxiv.org/abs/2509.13588">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> has been accepted by <u>CHI 2026</u>. 
     </div>
   </div>
 
   <div class="timeline-item publication">
     <div class="timeline-date">📝 2025-11</div>
     <div class="timeline-content">
-      Our work <a href="https://breathingcore.com/f/like-first-know-later-ai-based-romantic-compatibility">"Love First, Know Later: Persona-Based Romantic Compatibility Through LLM Text World Engines"</a> has been accepted as an 🎤 Oral Presentation at the <u>NeurIPS 2025</u> First Workshop on LLM Persona Modeling at Mexico City. 🚀👏
+      Our work <a href="https://breathingcore.com/f/like-first-know-later-ai-based-romantic-compatibility">"Love First, Know Later: Persona-Based Romantic Compatibility Through LLM Text World Engines"</a> has been accepted as an 🎤 Oral Presentation at the <u>NeurIPS 2025</u> First Workshop on LLM Persona Modeling at Mexico City. 
     </div>
   </div>
 
   <div class="timeline-item publication">
     <div class="timeline-date">📝 2025-09</div>
     <div class="timeline-content">
-      Our work, <a href="https://www.arxiv.org/abs/2509.23041">"Virus Infection Attack on LLMs: Your Poisoning Can Spread 'VIA' Synthetic Data"</a>, has been accepted as a 🌟 Spotlight Paper at <u>NeurIPS 2025</u>. Special congratulations to the first author, <em><a href="https://liangzid.github.io/research.html">Zi Liang</a></em>! 🚀👏
+      Our work, <a href="https://www.arxiv.org/abs/2509.23041">"Virus Infection Attack on LLMs: Your Poisoning Can Spread 'VIA' Synthetic Data"</a>, has been accepted as a 🌟 Spotlight Paper at <u>NeurIPS 2025</u>. Special congratulations to the first author, <em><a href="https://liangzid.github.io/research.html">Zi Liang</a></em>! 
     </div>
   </div>
 

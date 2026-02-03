@@ -182,7 +182,7 @@ author_profile: true
     <img src="../images/GreenOxy3.jpg" style="width: 48%; height: 200px; object-fit: cover;">
   </div>
   <p>
-    <strong>GreenOxy: A Living Air Purifier</strong> (Newly invented Pre-sale Product) - Combining advanced technology with natural elements to bring vitality and serenity to daily life.
+    <strong>GreenOxy: A Living Air Purifier</strong> - Combining advanced technology with natural elements to bring vitality and serenity to daily life.
   </p>
   <p>
     [<a href="https://breathingcore.com">Start-up Website</a>]
