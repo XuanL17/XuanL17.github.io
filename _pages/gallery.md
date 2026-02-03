@@ -12,22 +12,44 @@ author_profile: true
 
 .gallery-section h2 {
   font-size: 1.5em;
-  color: #2c5aa0;
+  color: #2c8589;
   margin-bottom: 20px;
   padding-bottom: 10px;
-  border-bottom: 3px solid #4a9eff;
+  border-bottom: 3px solid #6BC5C9;
 }
 
 .gallery-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  gap: 20px;
+  display: flex;
+  gap: 15px;
   margin-top: 20px;
-  width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-bottom: 15px;
+  scroll-behavior: smooth;
+}
+
+.gallery-container::-webkit-scrollbar {
+  height: 8px;
+}
+
+.gallery-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+.gallery-container::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+.gallery-container::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
 
 .gallery-item {
   position: relative;
+  flex: 0 0 auto;
+  width: 220px;
   overflow: hidden;
   border-radius: 12px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
@@ -41,8 +63,8 @@ author_profile: true
 }
 
 .gallery-item img {
-  width: 100%;
-  height: 280px;
+  width: 220px;
+  height: 220px;
   object-fit: cover;
   display: block;
   transition: transform 0.3s ease;
@@ -57,49 +79,28 @@ author_profile: true
 }
 
 .gallery-caption {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: linear-gradient(to top, rgba(0,0,0,0.7), transparent);
-  color: white;
-  padding: 15px;
-  font-size: 0.9em;
-  opacity: 0;
-  transition: opacity 0.3s ease;
-}
-
-.gallery-item:hover .gallery-caption {
-  opacity: 1;
+  display: none;
 }
 
 /* 移动端适配 */
 @media (max-width: 768px) {
-  .gallery-container {
-    grid-template-columns: 1fr;
-    gap: 15px;
+  .gallery-item {
+    width: 180px;
   }
   
   .gallery-item img {
-    height: 250px;
-  }
-  
-  .gallery-caption {
-    opacity: 1; /* 移动端始终显示标题 */
+    width: 180px;
+    height: 180px;
   }
 }
 </style>
 
 <div class="gallery-section">
-  <h2>🇭🇰 Hong Kong</h2>
+  <h2>Hong Kong</h2>
   <div class="gallery-container">
     <div class="gallery-item">
       <img src="../images/Hong Kong1.jpg" alt="Hong Kong">
       <div class="gallery-caption">Graduation</div>
-    </div>
-    <div class="gallery-item">
-      <img src="../images/sea3.jpg" alt="Hong Kong">
-      <div class="gallery-caption">Coastal Beauty</div>
     </div>
     <div class="gallery-item">
       <img src="../images/HongKong3.jpg" alt="Hong Kong">
@@ -113,7 +114,7 @@ author_profile: true
 </div>
 
 <div class="gallery-section">
-  <h2>🌍 Africa</h2>
+  <h2>Africa</h2>
   <div class="gallery-container">
     <div class="gallery-item">
       <img src="../images/Africa3.jpg" alt="Africa Volunteer">
@@ -135,7 +136,7 @@ author_profile: true
 </div>
 
 <div class="gallery-section">
-  <h2>🌊 California</h2>
+  <h2>California</h2>
   <div class="gallery-container">
     <div class="gallery-item">
       <img src="../images/Cali2.jpg" alt="California">
