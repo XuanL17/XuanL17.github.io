@@ -19,6 +19,10 @@ author_profile: true
   margin-bottom: 20px;
 }
 
+.research-intro strong {
+  color: #2c8589;
+}
+
 .research-intro ul {
   list-style: none;
   margin-left: 0;
