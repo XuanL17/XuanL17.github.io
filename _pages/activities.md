@@ -22,20 +22,20 @@ author_profile: true
 
 /* 不同类型的边框颜色 */
 .activity-item.talk {
-  border-left-color: #4a9eff;
+  border-left-color: #6BC5C9;
 }
 
 .activity-item.poster {
-  border-left-color: #66bb6a;
+  border-left-color: #5BADB3;
 }
 
 .activity-item.interview {
-  border-left-color: #ff9800;
+  border-left-color: #4A969C;
 }
 
 .activity-date {
   font-weight: bold;
-  color: #2c5aa0;
+  color: #2c8589;
   font-size: 1.05em;
 }
 
@@ -48,20 +48,12 @@ author_profile: true
   font-weight: 500;
 }
 
-/* 不同类型的标签颜色 */
-.activity-type.talk {
-  background-color: #e3f2fd;
-  color: #1565c0;
-}
-
-.activity-type.poster {
-  background-color: #e8f5e9;
-  color: #2e7d32;
-}
-
+/* 标签颜色 */
+.activity-type.talk,
+.activity-type.poster,
 .activity-type.interview {
-  background-color: #fff3e0;
-  color: #e65100;
+  background-color: #e8f6f7;
+  color: #2c8589;
 }
 
 .activity-content {
