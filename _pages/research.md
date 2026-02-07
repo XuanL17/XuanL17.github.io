@@ -133,6 +133,15 @@ author_profile: true
 ## Featured Works
 
 <div class="research-item">
+  <img src="../images/hsbench.png" class="research-item-img">
+  <p>
+    <strong>Xuan Liu</strong>, Haoyang Shang, Zizhang Liu, Xinyan Liu, Yunze Xiao, Yiwen Tu, Haojian Jin. <a href="https://arxiv.org/abs/2602.00685">"HumanStudy-Bench: Towards AI Agent Design for Participant Simulation"</a> <em>arXiv 2026</em> [<a href="https://www.hs-bench.clawder.ai/">Leaderboard</a>] [<a href="https://github.com/AISmithLab/HumanStudy-Bench">Code & Data</a>]
+  </p>
+</div>
+
+<div style="clear: both;"></div>
+
+<div class="research-item">
   <div class="research-item-img-container">
     <img src="../images/fig1.png">
     <img src="../images/fig2.png">
