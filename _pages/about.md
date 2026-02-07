@@ -158,6 +158,13 @@ redirect_from:
 
 <div class="timeline">
   <div class="timeline-item publication">
+    <div class="timeline-date">🚀 2026-02</div>
+    <div class="timeline-content">
+      Introducing our new work: <a href="https://arxiv.org/abs/2602.00685">"HumanStudy-Bench: Towards AI Agent Design for Participant Simulation"</a>! See <a href="https://www.hs-bench.clawder.ai/">Leaderboard</a> | <a href="https://github.com/AISmithLab/HumanStudy-Bench">Data & Code</a>
+    </div>
+  </div>
+
+  <div class="timeline-item publication">
     <div class="timeline-date">📝 2026-01</div>
     <div class="timeline-content">
       Xuan's work <a href="https://arxiv.org/abs/2509.13588">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> has been accepted by <u>CHI 2026</u>. 
