@@ -75,62 +75,6 @@ redirect_from:
 </div>
 
 <style>
-.intro-section {
-  background: linear-gradient(135deg, #D4F1F4 0%, #A8DFE3 100%);
-  padding: 30px;
-  border-radius: 30% 70% 70% 30% / 50% 50% 50% 50%;
-  margin-bottom: 40px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-}
-
-.intro-greeting {
-  margin-bottom: 20px;
-  line-height: 1.8;
-  background: rgba(255, 255, 255, 0.95);
-  padding: 20px;
-  border-radius: 20% 80% 75% 25% / 50% 50% 50% 50%;
-}
-
-.intro-greeting strong {
-  color: #2c8589;
-}
-
-.intro-previous {
-  padding: 15px;
-  background: rgba(255, 255, 255, 0.95);
-  border-radius: 25% 75% 70% 30% / 50% 50% 50% 50%;
-  margin-top: 15px;
-}
-
-.intro-section p {
-  margin: 0;
-  line-height: 1.8;
-}
-
-.intro-section a {
-  color: #2c8589;
-  font-weight: 500;
-  text-decoration: none;
-  border-bottom: 1px dotted #6BC5C9;
-}
-
-.intro-section a:hover {
-  color: #1a5a5d;
-  border-bottom: 2px solid #6BC5C9;
-}
-
-@media (max-width: 768px) {
-  .intro-section {
-    padding: 20px;
-    border-radius: 25% 75% 75% 25% / 50% 50% 50% 50%;
-  }
-  
-  .intro-greeting {
-    padding: 15px;
-  }
-}
-</style>
-
 .timeline {
   position: relative;
   padding-left: 40px;
