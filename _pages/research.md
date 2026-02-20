@@ -9,7 +9,7 @@ author_profile: true
 .research-intro {
   background: linear-gradient(135deg, #e8f6f7 0%, #B0E3E6 100%);
   padding: 30px;
-  border-radius: 12px;
+  border-radius: 30% 70% 70% 30% / 50% 50% 50% 50%;
   margin-bottom: 40px;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
   line-height: 1.8;
@@ -29,7 +29,7 @@ author_profile: true
   margin-top: 15px;
   padding: 20px;
   background: rgba(255, 255, 255, 0.7);
-  border-radius: 8px;
+  border-radius: 20% 80% 75% 25% / 50% 50% 50% 50%;
 }
 
 .research-intro li {
@@ -56,6 +56,7 @@ author_profile: true
 @media (max-width: 768px) {
   .research-intro {
     padding: 20px;
+    border-radius: 25% 75% 75% 25% / 50% 50% 50% 50%;
   }
 }
 

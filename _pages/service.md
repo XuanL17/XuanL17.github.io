@@ -5,6 +5,15 @@ layout: single
 author_profile: true
 ---
 
+<style>
+h2 {
+  font-size: 1.1em;
+  color: #2c8589;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+</style>
+
 ## Conference Reviewer & Program Committee
 ICML 2026
 CVPR 2026, 2025, 2024  

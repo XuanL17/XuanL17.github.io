@@ -9,9 +9,9 @@ redirect_from:
 
 <style>
 .intro-section {
-  background: linear-gradient(135deg, #e8f6f7 0%, #B0E3E6 100%);
+  background: linear-gradient(135deg, #D4F1F4 0%, #A8DFE3 100%);
   padding: 30px;
-  border-radius: 12px;
+  border-radius: 30% 70% 70% 30% / 50% 50% 50% 50%;
   margin-bottom: 40px;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
@@ -19,6 +19,9 @@ redirect_from:
 .intro-greeting {
   margin-bottom: 20px;
   line-height: 1.8;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 20px;
+  border-radius: 20% 80% 75% 25% / 50% 50% 50% 50%;
 }
 
 .intro-greeting strong {
@@ -28,15 +31,15 @@ redirect_from:
 .intro-current {
   margin-bottom: 20px;
   padding: 15px;
-  background: rgba(255, 255, 255, 0.7);
-  border-radius: 8px;
-  border-left: 4px solid #6BC5C9;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 20% 80% 75% 25% / 50% 50% 50% 50%;
+  border-left: 4px solid #fff;
 }
 
 .intro-previous {
   padding: 15px;
-  background: rgba(255, 255, 255, 0.7);
-  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 20% 80% 75% 25% / 50% 50% 50% 50%;
 }
 
 .intro-section p {
@@ -59,21 +62,199 @@ redirect_from:
 @media (max-width: 768px) {
   .intro-section {
     padding: 20px;
+    border-radius: 25% 75% 75% 25% / 50% 50% 50% 50%;
+  }
+  
+  .intro-greeting {
+    padding: 15px;
   }
 }
 </style>
 
 <div class="intro-section">
   <div class="intro-greeting">
-    Hey! 😊 I'm <strong>Xuan Liu</strong>, a first-year Ph.D. student at <a href="https://ucsd.edu/">UC San Diego</a>, where I am fortunate to work with <a href="https://www.haojianj.in/">Prof. Haojian Jin</a>.
+    <span class="typewriter-text"></span><span class="typewriter-cursor"></span>
   </div>
   
-  <div class="intro-previous">
-    Previously I completed my Bachelor's in Electronic & Information Engineering at <a href="https://www.polyu.edu.hk/eee/">Hong Kong Polytechnic University</a>. During my undergraduate period, I am grateful to have been advised and collaborated with <a href="https://cse.hkust.edu.hk/~songguo/">Prof. Song Guo</a> (HKUST, Hong Kong), <a href="https://haibohu.org/">Prof. Haibo Hu</a> (PolyU, Hong Kong), <a href="https://engineering.nyu.edu/faculty/quanyan-zhu">Prof. Quanyan Zhu</a> (NYU, New York), and <a href="https://ece.ubc.ca/xiaoxiao-li/">Prof. Xiaoxiao Li</a> (UBC, Vancouver).
+  <div class="collapsible-toggle" onclick="toggleCollapsible()">More about my background</div>
+  
+  <div class="collapsible-content">
+    <div class="intro-previous">
+      Previously I completed my Bachelor's in Electronic & Information Engineering at <a href="https://www.polyu.edu.hk/eee/">Hong Kong Polytechnic University</a>. During my undergraduate period, I am grateful to have been advised and collaborated with <a href="https://cse.hkust.edu.hk/~songguo/">Prof. Song Guo</a> (HKUST, Hong Kong), <a href="https://haibohu.org/">Prof. Haibo Hu</a> (PolyU, Hong Kong), <a href="https://engineering.nyu.edu/faculty/quanyan-zhu">Prof. Quanyan Zhu</a> (NYU, New York), and <a href="https://ece.ubc.ca/xiaoxiao-li/">Prof. Xiaoxiao Li</a> (UBC, Vancouver).
+    </div>
   </div>
 </div>
 
+<script>
+// Collapsible toggle function
+function toggleCollapsible() {
+  const toggle = document.querySelector('.collapsible-toggle');
+  const content = document.querySelector('.collapsible-content');
+  
+  toggle.classList.toggle('active');
+  content.classList.toggle('active');
+}
+
+// Typewriter effect - optimized for smooth animation
+function typeWriter(element, html, speed, callback) {
+  let i = 0;
+  let currentText = '';
+  let isInsideTag = false;
+  let tagBuffer = '';
+  
+  function type() {
+    if (i < html.length) {
+      const char = html.charAt(i);
+      
+      // Handle HTML tags - skip instantly
+      if (char === '<') {
+        isInsideTag = true;
+        tagBuffer = '<';
+        i++;
+        type(); // Continue immediately
+        return;
+      } else if (char === '>' && isInsideTag) {
+        isInsideTag = false;
+        tagBuffer += '>';
+        currentText += tagBuffer;
+        element.innerHTML = currentText;
+        tagBuffer = '';
+        i++;
+        type(); // Continue immediately
+        return;
+      } else if (isInsideTag) {
+        tagBuffer += char;
+        i++;
+        type(); // Continue immediately
+        return;
+      } else {
+        // Regular character
+        currentText += char;
+        element.innerHTML = currentText;
+        i++;
+        
+        // Variable speed: faster for spaces, normal for text
+        const delay = char === ' ' ? speed * 0.3 : speed;
+        setTimeout(type, delay);
+      }
+    } else if (callback) {
+      callback();
+    }
+  }
+  type();
+}
+
+window.addEventListener('load', function() {
+  const textElement = document.querySelector('.typewriter-text');
+  const cursorElement = document.querySelector('.typewriter-cursor');
+  const toggleButton = document.querySelector('.collapsible-toggle');
+  
+  if (textElement && cursorElement) {
+    // Type the full sentence with HTML links
+    const fullText = 'Hey! 😊 I\'m <strong style="color: #2c8589;">Xuan Liu (刘萱)</strong>, a first-year Ph.D. student at <a href="https://ucsd.edu/" style="color: #2c8589; font-weight: 500; text-decoration: none; border-bottom: 1px dotted #6BC5C9;">UC San Diego</a>, where I am fortunate to work with <a href="https://www.haojianj.in/" style="color: #2c8589; font-weight: 500; text-decoration: none; border-bottom: 1px dotted #6BC5C9;">Prof. Haojian Jin</a>.';
+    
+    typeWriter(textElement, fullText, 40, function() {
+      // Hide cursor after 0.8 second and show the toggle button
+      setTimeout(function() {
+        cursorElement.classList.add('hidden');
+        // Show the collapsible toggle button
+        if (toggleButton) {
+          toggleButton.classList.add('show');
+        }
+      }, 800);
+    });
+  }
+});
+</script>
+
 <style>
+/* Typewriter effect for entire greeting */
+.typewriter-text {
+  display: inline;
+  line-height: 1.8;
+}
+
+.typewriter-text a:hover {
+  color: #1a5a5d !important;
+  border-bottom: 2px solid #6BC5C9 !important;
+}
+
+.typewriter-cursor {
+  display: inline-block;
+  width: 2px;
+  height: 1.2em;
+  background-color: #2c8589;
+  margin-left: 2px;
+  animation: blink 0.7s infinite;
+  vertical-align: text-bottom;
+}
+
+@keyframes blink {
+  0%, 49% { opacity: 1; }
+  50%, 100% { opacity: 0; }
+}
+
+.typewriter-cursor.hidden {
+  display: none;
+}
+
+/* Collapsible section */
+.collapsible-toggle {
+  display: inline-block;
+  margin-top: 15px;
+  color: #2c8589;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 8px 16px;
+  background: rgba(108, 197, 201, 0.1);
+  border-radius: 30% 70% 70% 30% / 50% 50% 50% 50%;
+  border: 1px solid #6BC5C9;
+  transition: all 0.3s ease;
+  user-select: none;
+  opacity: 0;
+  transform: translateY(-10px);
+}
+
+.collapsible-toggle.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.collapsible-toggle:hover {
+  background: rgba(108, 197, 201, 0.2);
+  border-color: #2c8589;
+}
+
+.collapsible-toggle::after {
+  content: ' ▼';
+  font-size: 0.8em;
+  transition: transform 0.3s ease;
+  display: inline-block;
+}
+
+.collapsible-toggle.active::after {
+  transform: rotate(180deg);
+}
+
+.collapsible-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease, margin-top 0.5s ease, opacity 0.5s ease;
+  opacity: 0;
+}
+
+.collapsible-content.active {
+  max-height: 500px;
+  margin-top: 15px;
+  opacity: 1;
+}
+
+.collapsible-content .intro-previous {
+  padding: 15px;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 25% 75% 70% 30% / 50% 50% 50% 50%;
+}
+
 .timeline {
   position: relative;
   padding-left: 40px;
@@ -86,8 +267,9 @@ redirect_from:
   left: 8px;
   top: 0;
   bottom: 0;
-  width: 2px;
-  background: #d0d0d0;
+  width: 3px;
+  background: linear-gradient(180deg, #6BC5C9 0%, #B0E3E6 100%);
+  border-radius: 2px;
 }
 
 .timeline-item {
@@ -101,25 +283,36 @@ redirect_from:
   position: absolute;
   left: -32px;
   top: 5px;
-  width: 10px;
-  height: 10px;
+  width: 12px;
+  height: 12px;
   border-radius: 50%;
-  background-color: #888;
-  border: 2px solid #fff;
-  box-shadow: 0 0 0 1px #d0d0d0;
+  background: linear-gradient(135deg, #6BC5C9 0%, #2c8589 100%);
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 2px #B0E3E6, 0 2px 4px rgba(0,0,0,0.15);
   z-index: 1;
+  transition: all 0.3s ease;
+}
+
+.timeline-item:hover::before {
+  transform: scale(1.3);
+  box-shadow: 0 0 0 3px #6BC5C9, 0 4px 8px rgba(0,0,0,0.25);
 }
 
 .timeline-date {
   font-weight: bold;
-  color: #555;
+  color: #2c8589;
   font-size: 0.9em;
   margin-bottom: 5px;
+  display: inline-block;
+  padding: 2px 8px;
+  background: linear-gradient(135deg, rgba(176, 227, 230, 0.3), rgba(107, 197, 201, 0.3));
+  border-radius: 12px;
 }
 
 .timeline-content {
   line-height: 1.7;
   color: #333;
+  margin-top: 8px;
 }
 
 .timeline-content a {
@@ -311,3 +504,31 @@ redirect_from:
     </div>
   </div>
 </div>
+
+<script>
+// Timeline scroll animation
+function isElementInViewport(el) {
+  var rect = el.getBoundingClientRect();
+  return (
+    rect.top >= 0 &&
+    rect.left >= 0 &&
+    rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) + 100 &&
+    rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+  );
+}
+
+function animateTimelineOnScroll() {
+  var timelineItems = document.querySelectorAll('.timeline-item');
+  timelineItems.forEach(function(item, index) {
+    if (isElementInViewport(item) && !item.classList.contains('animate-in')) {
+      setTimeout(function() {
+        item.classList.add('animate-in');
+      }, index * 100); // Stagger animation
+    }
+  });
+}
+
+// Run on load and scroll
+window.addEventListener('load', animateTimelineOnScroll);
+window.addEventListener('scroll', animateTimelineOnScroll);
+</script>

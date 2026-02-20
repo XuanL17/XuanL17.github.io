@@ -8,10 +8,10 @@ author_profile: true
 <style>
 .activity-item {
   margin-bottom: 25px;
-  padding: 20px;
+  padding: 25px 30px;
   border-left: 4px solid #ccc;
   background-color: #f8f9fa;
-  border-radius: 8px;
+  border-radius: 25% 75% 70% 30% / 50% 50% 50% 50%;
   box-shadow: 0 2px 6px rgba(0,0,0,0.08);
 }
 
@@ -78,7 +78,8 @@ author_profile: true
 
 @media (max-width: 768px) {
   .activity-item {
-    padding: 15px;
+    padding: 18px 22px;
+    border-radius: 20% 80% 75% 25% / 50% 50% 50% 50%;
   }
   
   .activity-type {

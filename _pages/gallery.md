@@ -11,7 +11,7 @@ author_profile: true
 }
 
 .gallery-section h2 {
-  font-size: 1.5em;
+  font-size: 1.1em;
   color: #2c8589;
   margin-bottom: 20px;
   padding-bottom: 10px;
