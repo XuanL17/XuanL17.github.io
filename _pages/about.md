@@ -141,39 +141,31 @@ function typeWriter(element, html, speed, callback) {
   type();
 }
 
-// Initialize typewriter effect
-(function initTypewriter() {
-  var attempts = 0;
-  var maxAttempts = 50;
+// Start typewriter immediately after script loads
+setTimeout(function() {
+  var textElement = document.querySelector('.typewriter-text');
+  var cursorElement = document.querySelector('.typewriter-cursor');
+  var toggleButton = document.querySelector('.collapsible-toggle');
   
-  function tryInit() {
-    var textElement = document.querySelector('.typewriter-text');
-    var cursorElement = document.querySelector('.typewriter-cursor');
-    var toggleButton = document.querySelector('.collapsible-toggle');
+  console.log('Typewriter init:', textElement, cursorElement);
+  
+  if (textElement && cursorElement) {
+    var fullText = 'Hey! 😊 I\'m <strong style="color: #2c8589;">Xuan Liu (刘萱)</strong>, a first-year Ph.D. student at <a href="https://ucsd.edu/" style="color: #2c8589; font-weight: 500; text-decoration: none; border-bottom: 1px dotted #6BC5C9;">UC San Diego</a>, where I am fortunate to work with <a href="https://www.haojianj.in/" style="color: #2c8589; font-weight: 500; text-decoration: none; border-bottom: 1px dotted #6BC5C9;">Prof. Haojian Jin</a>.';
     
-    if (textElement && cursorElement && textElement.innerHTML === '') {
-      var fullText = 'Hey! 😊 I\'m <strong style="color: #2c8589;">Xuan Liu (刘萱)</strong>, a first-year Ph.D. student at <a href="https://ucsd.edu/" style="color: #2c8589; font-weight: 500; text-decoration: none; border-bottom: 1px dotted #6BC5C9;">UC San Diego</a>, where I am fortunate to work with <a href="https://www.haojianj.in/" style="color: #2c8589; font-weight: 500; text-decoration: none; border-bottom: 1px dotted #6BC5C9;">Prof. Haojian Jin</a>.';
-      
-      typeWriter(textElement, fullText, 40, function() {
-        setTimeout(function() {
-          cursorElement.classList.add('hidden');
-          if (toggleButton) {
-            toggleButton.classList.add('show');
-          }
-        }, 800);
-      });
-    } else if (attempts < maxAttempts) {
-      attempts++;
-      setTimeout(tryInit, 100);
-    }
-  }
-  
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', tryInit);
+    console.log('Starting typewriter...');
+    typeWriter(textElement, fullText, 40, function() {
+      console.log('Typewriter complete!');
+      setTimeout(function() {
+        cursorElement.classList.add('hidden');
+        if (toggleButton) {
+          toggleButton.classList.add('show');
+        }
+      }, 800);
+    });
   } else {
-    tryInit();
+    console.error('Elements not found!');
   }
-})();
+}, 500);
 </script>
 
 <style>
