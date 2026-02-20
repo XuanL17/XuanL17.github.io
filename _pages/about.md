@@ -28,18 +28,11 @@ redirect_from:
   color: #2c8589;
 }
 
-.intro-current {
-  margin-bottom: 20px;
-  padding: 15px;
-  background: rgba(255, 255, 255, 0.95);
-  border-radius: 20% 80% 75% 25% / 50% 50% 50% 50%;
-  border-left: 4px solid #fff;
-}
-
 .intro-previous {
   padding: 15px;
   background: rgba(255, 255, 255, 0.95);
-  border-radius: 20% 80% 75% 25% / 50% 50% 50% 50%;
+  border-radius: 25% 75% 70% 30% / 50% 50% 50% 50%;
+  margin-top: 15px;
 }
 
 .intro-section p {
@@ -76,76 +69,67 @@ redirect_from:
     Hey! 😊 I'm <strong>Xuan Liu (刘萱)</strong>, a first-year Ph.D. student at <a href="https://ucsd.edu/">UC San Diego</a>, where I am fortunate to work with <a href="https://www.haojianj.in/">Prof. Haojian Jin</a>.
   </div>
   
-  <div class="collapsible-toggle" onclick="toggleCollapsible()">More about my background</div>
-  
-  <div class="collapsible-content">
-    <div class="intro-previous">
-      Previously I completed my Bachelor's in Electronic & Information Engineering at <a href="https://www.polyu.edu.hk/eee/">Hong Kong Polytechnic University</a>. During my undergraduate period, I am grateful to have been advised and collaborated with <a href="https://cse.hkust.edu.hk/~songguo/">Prof. Song Guo</a> (HKUST, Hong Kong), <a href="https://haibohu.org/">Prof. Haibo Hu</a> (PolyU, Hong Kong), <a href="https://engineering.nyu.edu/faculty/quanyan-zhu">Prof. Quanyan Zhu</a> (NYU, New York), and <a href="https://ece.ubc.ca/xiaoxiao-li/">Prof. Xiaoxiao Li</a> (UBC, Vancouver).
-    </div>
+  <div class="intro-previous">
+    Previously I completed my Bachelor's in Electronic & Information Engineering at <a href="https://www.polyu.edu.hk/eee/">Hong Kong Polytechnic University</a>. During my undergraduate period, I am grateful to have been advised and collaborated with <a href="https://cse.hkust.edu.hk/~songguo/">Prof. Song Guo</a> (HKUST, Hong Kong), <a href="https://haibohu.org/">Prof. Haibo Hu</a> (PolyU, Hong Kong), <a href="https://engineering.nyu.edu/faculty/quanyan-zhu">Prof. Quanyan Zhu</a> (NYU, New York), and <a href="https://ece.ubc.ca/xiaoxiao-li/">Prof. Xiaoxiao Li</a> (UBC, Vancouver).
   </div>
 </div>
 
-<script type="text/javascript">
-// Collapsible toggle function
-function toggleCollapsible() {
-  var toggle = document.querySelector('.collapsible-toggle');
-  var content = document.querySelector('.collapsible-content');
-  
-  toggle.classList.toggle('active');
-  content.classList.toggle('active');
-}
-</script>
-
 <style>
-/* Collapsible section */
-.collapsible-toggle {
-  display: inline-block;
-  margin-top: 15px;
-  color: #2c8589;
-  font-weight: 500;
-  cursor: pointer;
-  padding: 8px 16px;
-  background: rgba(108, 197, 201, 0.1);
+.intro-section {
+  background: linear-gradient(135deg, #D4F1F4 0%, #A8DFE3 100%);
+  padding: 30px;
   border-radius: 30% 70% 70% 30% / 50% 50% 50% 50%;
-  border: 1px solid #6BC5C9;
-  transition: all 0.3s ease;
-  user-select: none;
+  margin-bottom: 40px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
 
-.collapsible-toggle:hover {
-  background: rgba(108, 197, 201, 0.2);
-  border-color: #2c8589;
+.intro-greeting {
+  margin-bottom: 20px;
+  line-height: 1.8;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 20px;
+  border-radius: 20% 80% 75% 25% / 50% 50% 50% 50%;
 }
 
-.collapsible-toggle::after {
-  content: ' ▼';
-  font-size: 0.8em;
-  transition: transform 0.3s ease;
-  display: inline-block;
+.intro-greeting strong {
+  color: #2c8589;
 }
 
-.collapsible-toggle.active::after {
-  transform: rotate(180deg);
-}
-
-.collapsible-content {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.5s ease, margin-top 0.5s ease, opacity 0.5s ease;
-  opacity: 0;
-}
-
-.collapsible-content.active {
-  max-height: 500px;
-  margin-top: 15px;
-  opacity: 1;
-}
-
-.collapsible-content .intro-previous {
+.intro-previous {
   padding: 15px;
   background: rgba(255, 255, 255, 0.95);
   border-radius: 25% 75% 70% 30% / 50% 50% 50% 50%;
+  margin-top: 15px;
 }
+
+.intro-section p {
+  margin: 0;
+  line-height: 1.8;
+}
+
+.intro-section a {
+  color: #2c8589;
+  font-weight: 500;
+  text-decoration: none;
+  border-bottom: 1px dotted #6BC5C9;
+}
+
+.intro-section a:hover {
+  color: #1a5a5d;
+  border-bottom: 2px solid #6BC5C9;
+}
+
+@media (max-width: 768px) {
+  .intro-section {
+    padding: 20px;
+    border-radius: 25% 75% 75% 25% / 50% 50% 50% 50%;
+  }
+  
+  .intro-greeting {
+    padding: 15px;
+  }
+}
+</style>
 
 .timeline {
   position: relative;
