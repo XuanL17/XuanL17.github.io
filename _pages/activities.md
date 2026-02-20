@@ -11,7 +11,7 @@ author_profile: true
   padding: 25px 30px;
   border-left: 4px solid #ccc;
   background-color: #f8f9fa;
-  border-radius: 25% 75% 70% 30% / 50% 50% 50% 50%;
+  border-radius: 12px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.08);
 }
 
@@ -79,7 +79,7 @@ author_profile: true
 @media (max-width: 768px) {
   .activity-item {
     padding: 18px 22px;
-    border-radius: 20% 80% 75% 25% / 50% 50% 50% 50%;
+    border-radius: 10px;
   }
   
   .activity-type {
@@ -140,7 +140,7 @@ author_profile: true
   <span class="activity-date">2024-12-05</span>
   <span class="activity-type poster">Exhibition</span>
   <div class="activity-content">
-    <strong>Topic:</strong> BreathingCORE<br>
+    <strong>Topic:</strong> BreathingCORE Product Exhibition<br>
     <strong>Venue:</strong> Hong Kong Entrepreneurship Day, The Hong Kong Convention and Exhibition Centre, PolyU Booth [<a href="https://1drv.ms/b/c/a0549cc609574664/Ee8Fc8lu3qtIoc7jkT4dwxYBUIOhftYUycutR4H0lWShAA?e=7dD8Pg">Details</a>]
   </div>
 </div>
