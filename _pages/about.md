@@ -73,7 +73,7 @@ redirect_from:
 
 <div class="intro-section">
   <div class="intro-greeting">
-    <span class="typewriter-text"></span><span class="typewriter-cursor"></span>
+    Hey! 😊 I'm <strong>Xuan Liu (刘萱)</strong>, a first-year Ph.D. student at <a href="https://ucsd.edu/">UC San Diego</a>, where I am fortunate to work with <a href="https://www.haojianj.in/">Prof. Haojian Jin</a>.
   </div>
   
   <div class="collapsible-toggle" onclick="toggleCollapsible()">More about my background</div>
@@ -94,111 +94,9 @@ function toggleCollapsible() {
   toggle.classList.toggle('active');
   content.classList.toggle('active');
 }
-
-// Typewriter effect
-function typeWriter(element, html, speed, callback) {
-  var i = 0;
-  var currentText = '';
-  var isInsideTag = false;
-  var tagBuffer = '';
-  
-  function type() {
-    if (i < html.length) {
-      var char = html.charAt(i);
-      
-      if (char === '<') {
-        isInsideTag = true;
-        tagBuffer = '<';
-        i++;
-        type();
-        return;
-      } else if (char === '>' && isInsideTag) {
-        isInsideTag = false;
-        tagBuffer += '>';
-        currentText += tagBuffer;
-        element.innerHTML = currentText;
-        tagBuffer = '';
-        i++;
-        type();
-        return;
-      } else if (isInsideTag) {
-        tagBuffer += char;
-        i++;
-        type();
-        return;
-      } else {
-        currentText += char;
-        element.innerHTML = currentText;
-        i++;
-        
-        var delay = char === ' ' ? speed * 0.3 : speed;
-        setTimeout(type, delay);
-      }
-    } else if (callback) {
-      callback();
-    }
-  }
-  type();
-}
-
-// Start typewriter immediately after script loads
-setTimeout(function() {
-  var textElement = document.querySelector('.typewriter-text');
-  var cursorElement = document.querySelector('.typewriter-cursor');
-  var toggleButton = document.querySelector('.collapsible-toggle');
-  
-  console.log('Typewriter init:', textElement, cursorElement);
-  
-  if (textElement && cursorElement) {
-    var fullText = 'Hey! 😊 I\'m <strong style="color: #2c8589;">Xuan Liu (刘萱)</strong>, a first-year Ph.D. student at <a href="https://ucsd.edu/" style="color: #2c8589; font-weight: 500; text-decoration: none; border-bottom: 1px dotted #6BC5C9;">UC San Diego</a>, where I am fortunate to work with <a href="https://www.haojianj.in/" style="color: #2c8589; font-weight: 500; text-decoration: none; border-bottom: 1px dotted #6BC5C9;">Prof. Haojian Jin</a>.';
-    
-    console.log('Starting typewriter...');
-    typeWriter(textElement, fullText, 40, function() {
-      console.log('Typewriter complete!');
-      setTimeout(function() {
-        cursorElement.classList.add('hidden');
-        if (toggleButton) {
-          toggleButton.classList.add('show');
-        }
-      }, 800);
-    });
-  } else {
-    console.error('Elements not found!');
-  }
-}, 500);
 </script>
 
 <style>
-/* Typewriter effect for entire greeting */
-.typewriter-text {
-  display: inline;
-  line-height: 1.8;
-}
-
-.typewriter-text a:hover {
-  color: #1a5a5d !important;
-  border-bottom: 2px solid #6BC5C9 !important;
-}
-
-.typewriter-cursor {
-  display: inline-block;
-  width: 2px;
-  height: 1.2em;
-  background-color: #2c8589;
-  margin-left: 2px;
-  animation: blink 0.7s infinite;
-  vertical-align: text-bottom;
-}
-
-@keyframes blink {
-  0%, 49% { opacity: 1; }
-  50%, 100% { opacity: 0; }
-}
-
-.typewriter-cursor.hidden {
-  display: none;
-}
-
 /* Collapsible section */
 .collapsible-toggle {
   display: inline-block;
@@ -212,13 +110,6 @@ setTimeout(function() {
   border: 1px solid #6BC5C9;
   transition: all 0.3s ease;
   user-select: none;
-  opacity: 0;
-  transform: translateY(-10px);
-}
-
-.collapsible-toggle.show {
-  opacity: 1;
-  transform: translateY(0);
 }
 
 .collapsible-toggle:hover {
