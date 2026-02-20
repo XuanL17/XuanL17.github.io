@@ -145,25 +145,51 @@ function typeWriter(element, html, speed, callback) {
 }
 
 window.addEventListener('load', function() {
-  const textElement = document.querySelector('.typewriter-text');
-  const cursorElement = document.querySelector('.typewriter-cursor');
-  const toggleButton = document.querySelector('.collapsible-toggle');
-  
-  if (textElement && cursorElement) {
-    // Type the full sentence with HTML links
-    const fullText = 'Hey! 😊 I\'m <strong style="color: #2c8589;">Xuan Liu (刘萱)</strong>, a first-year Ph.D. student at <a href="https://ucsd.edu/" style="color: #2c8589; font-weight: 500; text-decoration: none; border-bottom: 1px dotted #6BC5C9;">UC San Diego</a>, where I am fortunate to work with <a href="https://www.haojianj.in/" style="color: #2c8589; font-weight: 500; text-decoration: none; border-bottom: 1px dotted #6BC5C9;">Prof. Haojian Jin</a>.';
+  // Add a small delay to ensure DOM is fully ready
+  setTimeout(function() {
+    const textElement = document.querySelector('.typewriter-text');
+    const cursorElement = document.querySelector('.typewriter-cursor');
+    const toggleButton = document.querySelector('.collapsible-toggle');
     
-    typeWriter(textElement, fullText, 40, function() {
-      // Hide cursor after 0.8 second and show the toggle button
-      setTimeout(function() {
-        cursorElement.classList.add('hidden');
-        // Show the collapsible toggle button
-        if (toggleButton) {
-          toggleButton.classList.add('show');
-        }
-      }, 800);
-    });
-  }
+    if (textElement && cursorElement) {
+      // Type the full sentence with HTML links
+      const fullText = 'Hey! 😊 I\'m <strong style="color: #2c8589;">Xuan Liu (刘萱)</strong>, a first-year Ph.D. student at <a href="https://ucsd.edu/" style="color: #2c8589; font-weight: 500; text-decoration: none; border-bottom: 1px dotted #6BC5C9;">UC San Diego</a>, where I am fortunate to work with <a href="https://www.haojianj.in/" style="color: #2c8589; font-weight: 500; text-decoration: none; border-bottom: 1px dotted #6BC5C9;">Prof. Haojian Jin</a>.';
+      
+      typeWriter(textElement, fullText, 40, function() {
+        // Hide cursor after 0.8 second and show the toggle button
+        setTimeout(function() {
+          cursorElement.classList.add('hidden');
+          // Show the collapsible toggle button
+          if (toggleButton) {
+            toggleButton.classList.add('show');
+          }
+        }, 800);
+      });
+    }
+  }, 100);
+});
+
+// Also try with DOMContentLoaded as backup
+document.addEventListener('DOMContentLoaded', function() {
+  setTimeout(function() {
+    const textElement = document.querySelector('.typewriter-text');
+    const cursorElement = document.querySelector('.typewriter-cursor');
+    const toggleButton = document.querySelector('.collapsible-toggle');
+    
+    // Only run if typewriter hasn't started yet
+    if (textElement && cursorElement && textElement.innerHTML === '') {
+      const fullText = 'Hey! 😊 I\'m <strong style="color: #2c8589;">Xuan Liu (刘萱)</strong>, a first-year Ph.D. student at <a href="https://ucsd.edu/" style="color: #2c8589; font-weight: 500; text-decoration: none; border-bottom: 1px dotted #6BC5C9;">UC San Diego</a>, where I am fortunate to work with <a href="https://www.haojianj.in/" style="color: #2c8589; font-weight: 500; text-decoration: none; border-bottom: 1px dotted #6BC5C9;">Prof. Haojian Jin</a>.';
+      
+      typeWriter(textElement, fullText, 40, function() {
+        setTimeout(function() {
+          cursorElement.classList.add('hidden');
+          if (toggleButton) {
+            toggleButton.classList.add('show');
+          }
+        }, 800);
+      });
+    }
+  }, 200);
 });
 </script>
 
