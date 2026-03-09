@@ -200,3 +200,9 @@ author_profile: true
 </div>
 
 <div style="clear: both;"></div>
+
+<p style="text-align: center; margin-top: 30px;">
+  <a href="https://scholar.google.com/citations?user=AyzRO-wAAAAJ&hl=en" style="color: #2c8589; font-weight: bold; font-size: 1.05em; text-decoration: none; border-bottom: 2px solid #6BC5C9;">
+    <i class="ai ai-google-scholar icon-pad-right"></i>Full list of papers on Google Scholar →
+  </a>
+</p>
