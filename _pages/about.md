@@ -170,6 +170,13 @@ redirect_from:
 ---
 
 <div class="timeline">
+  <div class="timeline-item milestone">
+    <div class="timeline-date">🏆 2026-03</div>
+    <div class="timeline-content">
+      Congrats! Xuan's work <a href="https://arxiv.org/abs/2509.13588">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> received <strong>Best Paper Award</strong> at <u>CHI 2026</u>! 🎉
+    </div>
+  </div>
+
   <div class="timeline-item publication">
     <div class="timeline-date">🚀 2026-02</div>
     <div class="timeline-content">
