@@ -291,6 +291,17 @@
   border: 1px solid rgba(197, 189, 176, 0.5);
   border-radius: 3px 8px 3px 8px;
   margin-bottom: 4px;
+
+  .tl-icon {
+    margin-right: 3px;
+    font-size: 0.85em;
+
+    &--award  { color: #b8860b; }
+    &--paper  { color: #5b7a9d; }
+    &--launch { color: #c0392b; }
+    &--grad   { color: #2e7d32; }
+    &--collab { color: #8e6bbf; }
+  }
 }
 
 .modern-tl-body {

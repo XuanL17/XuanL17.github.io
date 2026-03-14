@@ -18,161 +18,161 @@ redirect_from:
 
 <div class="modern-timeline">
   <div class="modern-tl-item">
-    <div class="modern-tl-date">🏆 2026-03</div>
+    <div class="modern-tl-date"><i class="fas fa-trophy tl-icon tl-icon--award"></i> 2026-03</div>
     <div class="modern-tl-body">
-      Congrats! Xuan's work <a href="https://arxiv.org/abs/2509.13588">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> received <strong>Best Paper Award</strong> at <u>CHI 2026</u>! 🎉 Visit <a href="https://cobra.clawder.ai/">Project Page</a>
+      Congrats! Xuan's work <a href="https://arxiv.org/abs/2509.13588">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> received <strong>Best Paper Award</strong> at <u>CHI 2026</u>! Visit <a href="https://cobra.clawder.ai/">Project Page</a>
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">🚀 2026-02</div>
+    <div class="modern-tl-date"><i class="fas fa-rocket tl-icon tl-icon--launch"></i> 2026-02</div>
     <div class="modern-tl-body">
       Introducing our new work: <a href="https://arxiv.org/abs/2602.00685">"HumanStudy-Bench: Towards AI Agent Design for Participant Simulation"</a>! See <a href="https://www.hs-bench.clawder.ai/">Leaderboard</a> | <a href="https://github.com/AISmithLab/HumanStudy-Bench">Data & Code</a>
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">📝 2026-01</div>
+    <div class="modern-tl-date"><i class="fas fa-file-alt tl-icon tl-icon--paper"></i> 2026-01</div>
     <div class="modern-tl-body">
       Xuan's work <a href="https://arxiv.org/abs/2509.13588">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> has been accepted by <u>CHI 2026</u>. 
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">📝 2025-11</div>
+    <div class="modern-tl-date"><i class="fas fa-file-alt tl-icon tl-icon--paper"></i> 2025-11</div>
     <div class="modern-tl-body">
-      Our work <a href="https://breathingcore.com/f/like-first-know-later-ai-based-romantic-compatibility">"Love First, Know Later: Persona-Based Romantic Compatibility Through LLM Text World Engines"</a> has been accepted as an 🎤 Oral Presentation at the <u>NeurIPS 2025</u> First Workshop on LLM Persona Modeling at Mexico City. 
+      Our work <a href="https://breathingcore.com/f/like-first-know-later-ai-based-romantic-compatibility">"Love First, Know Later: Persona-Based Romantic Compatibility Through LLM Text World Engines"</a> has been accepted as an Oral Presentation at the <u>NeurIPS 2025</u> First Workshop on LLM Persona Modeling at Mexico City. 
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">📝 2025-09</div>
+    <div class="modern-tl-date"><i class="fas fa-file-alt tl-icon tl-icon--paper"></i> 2025-09</div>
     <div class="modern-tl-body">
-      Our work, <a href="https://www.arxiv.org/abs/2509.23041">"Virus Infection Attack on LLMs: Your Poisoning Can Spread 'VIA' Synthetic Data"</a>, has been accepted as a 🌟 Spotlight Paper at <u>NeurIPS 2025</u>. Special congratulations to the first author, <em><a href="https://liangzid.github.io/research.html">Zi Liang</a></em>! 
+      Our work, <a href="https://www.arxiv.org/abs/2509.23041">"Virus Infection Attack on LLMs: Your Poisoning Can Spread 'VIA' Synthetic Data"</a>, has been accepted as a Spotlight Paper at <u>NeurIPS 2025</u>. Special congratulations to the first author, <em><a href="https://liangzid.github.io/research.html">Zi Liang</a></em>! 
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">🎓 2025-07</div>
+    <div class="modern-tl-date"><i class="fas fa-graduation-cap tl-icon tl-icon--grad"></i> 2025-07</div>
     <div class="modern-tl-body">
-      Xuan <strong>graduated</strong> from The Hong Kong Polytechnic University with a <u>Bachelor of Engineering</u>, earning 1st Class Honors and a place on the Dean's Honor List for consecutive years! 👏
+      Xuan <strong>graduated</strong> from The Hong Kong Polytechnic University with a <u>Bachelor of Engineering</u>, earning 1st Class Honors and a place on the Dean's Honor List for consecutive years!
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">📝 2025-01</div>
+    <div class="modern-tl-date"><i class="fas fa-file-alt tl-icon tl-icon--paper"></i> 2025-01</div>
     <div class="modern-tl-body">
       Xuan's work <a href="https://arxiv.org/abs/2405.14744">"Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View"</a> has been accepted by <u>ICLR 2025</u>.
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">🤝 2025-01</div>
+    <div class="modern-tl-date"><i class="fas fa-handshake tl-icon tl-icon--collab"></i> 2025-01</div>
     <div class="modern-tl-body">
       Xuan received "Hsin Chong-K.N. Godfrey Yeh Education Fund".
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">📝 2024-12</div>
+    <div class="modern-tl-date"><i class="fas fa-file-alt tl-icon tl-icon--paper"></i> 2024-12</div>
     <div class="modern-tl-body">
       Xuan's work <a href="https://arxiv.org/abs/2407.05285">"Mjölnir: Breaking the Shield of Perturbation-Protected Gradients via Adaptive Diffusion"</a> has been accepted by <u>AAAI 2025</u>.
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">📝 2024-12</div>
+    <div class="modern-tl-date"><i class="fas fa-file-alt tl-icon tl-icon--paper"></i> 2024-12</div>
     <div class="modern-tl-body">
       Our work <a href="https://www.computer.org/csdl/journal/tm/5555/01/10798583/22EagQA5RYc">"PriFairFed: A Local Differentially Private Federated Learning Algorithm for Client-Level Fairness"</a> has been accepted by <u>IEEE Transactions on Mobile Computing</u>.
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">📝 2024-08</div>
+    <div class="modern-tl-date"><i class="fas fa-file-alt tl-icon tl-icon--paper"></i> 2024-08</div>
     <div class="modern-tl-body">
       Xuan's work <a href="https://ieeexplore.ieee.org/document/10663250">"Mutual Gradient Inversion: Unveiling Privacy Risks of Federated Learning on Multi-modal Signals"</a> has been accepted by <u>IEEE Signal Processing Letters</u>.
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">🏆 2024-04</div>
+    <div class="modern-tl-date"><i class="fas fa-trophy tl-icon tl-icon--award"></i> 2024-04</div>
     <div class="modern-tl-body">
       Xuan received the <a href="https://www.polyu.edu.hk/eee/news-and-events/news/2024/2024-02-21-best-uris-research-project-award-2023/"><strong>Best</strong> Undergraduate Research Project Award</a>! See University Official Posts & Interview at <a href="https://www.instagram.com/p/C6VELkGy9f6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Instagram</a>, <a href="https://www.linkedin.com/feed/update/urn:li:activity:7190543155698491392">LinkedIn</a>.
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">🤝 2024-01</div>
+    <div class="modern-tl-date"><i class="fas fa-handshake tl-icon tl-icon--collab"></i> 2024-01</div>
     <div class="modern-tl-body">
       Xuan's Start-up BreathingCORE won MicroFund Shortlisted Team and has been selected for <a href="https://www.hkstp.org/">Hong Kong Science and Technology Park</a> Ideation Program!
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">🏆 2023-12</div>
+    <div class="modern-tl-date"><i class="fas fa-trophy tl-icon tl-icon--award"></i> 2023-12</div>
     <div class="modern-tl-body">
       Xuan won <a href="https://1drv.ms/i/c/a0549cc609574664/EWC-yWl0Yl9DrcrM72DdjYoBQc3u0PqYE8SMdbN3p2CmSQ?e=2FwRXi">"Outstanding Proposal of Belt and Road Initiatives Youth Creative International Challenge"</a>. See University Official Posts at <a href="https://www.facebook.com/polyueee/photos/-congratulations-to-our-students-on-winning-the-second-prize-in-the-belt-and-roa/724634839855179/?_rdr">Facebook</a>.
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">🤝 2023-11</div>
+    <div class="modern-tl-date"><i class="fas fa-handshake tl-icon tl-icon--collab"></i> 2023-11</div>
     <div class="modern-tl-body">
       Xuan received <a href="https://1drv.ms/i/c/a0549cc609574664/EVnp5rIILZdEq2FYc4mItC8BR3sXbCVY8ErnrX9zki5f2g?e=5tAHap">"98th IEEE-VTC Fall Volunteer Service Award"</a>.
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">🏆 2023-09</div>
+    <div class="modern-tl-date"><i class="fas fa-trophy tl-icon tl-icon--award"></i> 2023-09</div>
     <div class="modern-tl-body">
       Xuan won <strong>Champion</strong> of Innovation & Entrepreneurship Training Camp Roadshow, securing a 7K CNY cash award.
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">🏆 2023-07</div>
+    <div class="modern-tl-date"><i class="fas fa-trophy tl-icon tl-icon--award"></i> 2023-07</div>
     <div class="modern-tl-body">
       Xuan received <a href="https://1drv.ms/b/c/a0549cc609574664/EeORiU9-Ap9HvTyuokGikTMBOy7BWkoeaw_f9EEawMuqzA?e=167nN6">"Department of Electronic and Information Engineering Scholarship for Hall Residents"</a>, for the Top 1 GPA in the academic year of 2022 in the Dept.
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">🤝 2023-04</div>
+    <div class="modern-tl-date"><i class="fas fa-handshake tl-icon tl-icon--collab"></i> 2023-04</div>
     <div class="modern-tl-body">
       Xuan received <a href="https://1drv.ms/i/c/a0549cc609574664/EcEEAEuB8PJLlg-9lhkCXsoBude0yTiX8v8DAt-aw9p_fQ?e=IcHHrR">"Hong Kong Government-Researching Out Award"</a>.
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">🤝 2023-04</div>
+    <div class="modern-tl-date"><i class="fas fa-handshake tl-icon tl-icon--collab"></i> 2023-04</div>
     <div class="modern-tl-body">
       Xuan received <a href="https://1drv.ms/i/c/a0549cc609574664/ETUjQ9l09B9GhEKxk_-s-hUB1P8Eqtxymq--NzKaHgT3UQ?e=cH3fD2">"Hong Kong Government-Talent Development Scholarship"</a>.
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">📝 2023-02</div>
+    <div class="modern-tl-date"><i class="fas fa-file-alt tl-icon tl-icon--paper"></i> 2023-02</div>
     <div class="modern-tl-body">
       Xuan's work <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26995">"MGIA: Mutual Gradient Inversion Attack in Multi-Modal Federated Learning"</a> has been published on <u>AAAI 2023</u> as a student abstract.
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">🤝 2022-12</div>
+    <div class="modern-tl-date"><i class="fas fa-handshake tl-icon tl-icon--collab"></i> 2022-12</div>
     <div class="modern-tl-body">
       Xuan received <a href="https://1drv.ms/b/c/a0549cc609574664/EUIPbNI03plAgmhEcSAmQdMBtBPmPdIHaPnAlVNP6RRKXw?e=44Qm1b">"Dr. Winnie S M Tang-PolyU Student Innovation & Entrepreneurship Scholarship"</a>.
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">🏆 2022-11</div>
+    <div class="modern-tl-date"><i class="fas fa-trophy tl-icon tl-icon--award"></i> 2022-11</div>
     <div class="modern-tl-body">
       Xuan won <a href="https://1drv.ms/i/c/a0549cc609574664/ERlvMWKvFxJDkuqiiNY9iuoBhDkl9aQUnZrV5mhXQRhiiw?e=4KPMl3"><strong>Best</strong> GPA Award</a> Department of Electronic and Information Engineering.
     </div>
   </div>
 
   <div class="modern-tl-item">
-    <div class="modern-tl-date">🏆 2022-08</div>
+    <div class="modern-tl-date"><i class="fas fa-trophy tl-icon tl-icon--award"></i> 2022-08</div>
     <div class="modern-tl-body">
       Xuan received the "Shenzhen Innovation & Entrepreneurship Competition <strong>Outstanding</strong> Award," securing a 7K CNY cash award.
     </div>

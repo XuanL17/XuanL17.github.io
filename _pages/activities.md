@@ -32,7 +32,7 @@ layout: modern
     <span class="ma-type">Interview</span>
   </div>
   <div class="ma-body">
-    <strong>Topic:</strong> 从长江畔到维港边，毕业🎓分享<br>
+    <strong>Topic:</strong> 从长江畔到维港边，毕业分享<br>
     <strong>Venue:</strong> 香港理工大学招生平台 [<a href="https://mp.weixin.qq.com/s/mGEwRnBmvmIg69F_zOdouQ">Recording</a>]
   </div>
 </div>
