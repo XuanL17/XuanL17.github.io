@@ -4,16 +4,19 @@ permalink: /service/
 layout: modern
 ---
 
-<div class="modern-service">
+<h2 class="section-title">Conference Reviewer & Program Committee</h2>
 
-## Conference Reviewer & Program Committee
-CHI 2026 | ICML 2026 | CVPR 2026, 2025, 2024 | ECCV 2026, 2025 | ICLR 2026, 2025 | AAAI 2026, 2025
+<p class="service-text">CHI 2026 | ICML 2026 | CVPR 2026, 2025, 2024 | ECCV 2026, 2025 | ICLR 2026, 2025 | AAAI 2026, 2025</p>
 
-## Journal Reviewer
-IEEE Transactions on Information Forensics & Security  
-IEEE Transactions on Dependable and Secure Computing
+<h2 class="section-title">Journal Reviewer</h2>
 
-## Volunteer & Organizer
-IEEE Vehicular Technology Conference 2023 - Fall
+<div class="service-list">
+  <div class="service-list-item">IEEE Transactions on Information Forensics & Security</div>
+  <div class="service-list-item">IEEE Transactions on Dependable and Secure Computing</div>
+</div>
 
+<h2 class="section-title">Volunteer & Organizer</h2>
+
+<div class="service-list">
+  <div class="service-list-item">IEEE Vehicular Technology Conference 2023 - Fall</div>
 </div>

@@ -6,6 +6,17 @@ layout: modern
 
 <div class="modern-activity">
   <div class="ma-header">
+    <span class="ma-date">2026-03-14</span>
+    <span class="ma-type">Invited Talk</span>
+  </div>
+  <div class="ma-body">
+    <strong>Topic:</strong> Reproducible Human Research Like Open-Source Code<br>
+    <strong>Venue:</strong> NICE Talk Live Session, 7 PM PT [<a href="https://x.com/academic_nice/status/2031989142603563089?s=46">Details (EN)</a>] [<a href="https://mp.weixin.qq.com/s/c2yASitFcQOHcASLRrV1LA">Details (CN)</a>]
+  </div>
+</div>
+
+<div class="modern-activity">
+  <div class="ma-header">
     <span class="ma-date">2025-12-01</span>
     <span class="ma-type">Oral Presentation</span>
   </div>

@@ -7,10 +7,10 @@
   top: 0;
   width: 100%;
   height: $masthead-height;
-  background: rgba(255, 255, 255, 0.85);
-  backdrop-filter: saturate(180%) blur(16px);
-  -webkit-backdrop-filter: saturate(180%) blur(16px);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  background: transparent;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  border-bottom: none;
   z-index: 20;
   animation: intro 0.3s both;
   animation-delay: 0.15s;
@@ -38,6 +38,8 @@
 }
 
 .masthead__menu {
+  display: flex;
+  justify-content: center;
 
   ul {
     margin: 0;
@@ -68,13 +70,13 @@
       left: 0;
       width: 0;
       height: 2px;
-      background: var(--color-primary, #2c8589);
+      background: var(--color-primary, #6b5b4e);
       border-radius: 1px;
       transition: width 0.25s ease;
     }
 
     &:hover {
-      color: var(--color-primary, #2c8589);
+      color: var(--color-primary, #6b5b4e);
 
       &::after {
         width: 100%;
@@ -87,7 +89,7 @@
     font-weight: 700;
 
     a {
-      color: var(--color-text, #1a1a2e);
+      color: var(--color-text, #2a2a2a);
       font-size: 1em;
       font-weight: 700;
       letter-spacing: -0.01em;
@@ -97,7 +99,7 @@
       }
 
       &:hover {
-        color: var(--color-primary, #2c8589);
+        color: var(--color-primary, #6b5b4e);
       }
     }
   }

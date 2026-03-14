@@ -4,6 +4,17 @@ layout: default
 
 {% include base_path %}
 
+{% include base_path %}
+
+<svg class="sketch-filter">
+  <filter id="roughen">
+    <feTurbulence type="turbulence" baseFrequency="0.02" numOctaves="3" result="noise" seed="2"/>
+    <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.5" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+</svg>
+
+<div class="bg-illustration" style="background-image: url('{{ base_path }}/images/sketch-girl-star.png')"></div>
+
 <div id="main" role="main" class="modern-main">
   <article class="modern-page" itemscope itemtype="http://schema.org/CreativeWork">
     <div class="page__content" itemprop="text">

@@ -10,8 +10,8 @@
  *
 */
 
-/* Import Google Fonts - Poppins + Nunito */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Nunito:wght@400;600;700&display=swap');
+/* Import Google Fonts - Poppins + Nunito + Caveat for hand-drawn accents */
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&family=Nunito:wght@400;600;700&display=swap');
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";

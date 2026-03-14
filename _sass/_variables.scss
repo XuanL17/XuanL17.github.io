@@ -17,9 +17,10 @@ $serif                      : Georgia, Times, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
-/* Custom fonts - Poppins + Nunito */
+/* Custom fonts - Poppins + Nunito + Caveat */
 $poppins                    : 'Poppins', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 $nunito                     : 'Nunito', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+$caveat                     : 'Caveat', cursive;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -65,8 +66,8 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fafbfc;
-$background-color           : #fafbfc;
+$body-color                 : #faf8f4;
+$background-color           : #faf8f4;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
@@ -106,11 +107,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #2c8589;
-$link-color-hover           : #1a5a5d;
+$link-color                 : #6b5b4e;
+$link-color-hover           : #4a3f35;
 $link-color-visited         : mix(#fff, $link-color, 15%);
-$masthead-link-color        : #555;
-$masthead-link-color-hover  : #2c8589;
+$masthead-link-color        : #6b5b4e;
+$masthead-link-color-hover  : #4a3f35;
 
 
 /*
