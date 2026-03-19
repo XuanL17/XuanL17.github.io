@@ -11,7 +11,7 @@ layout: modern
   </div>
   <div class="ma-body">
     <strong>Topic:</strong> Reproducible Human Research Like Open-Source Code<br>
-    <strong>Venue:</strong> NICE Talk Live Session, 7 PM PT [<a href="https://x.com/academic_nice/status/2031989142603563089?s=46">Details (EN)</a>] [<a href="https://mp.weixin.qq.com/s/c2yASitFcQOHcASLRrV1LA">Details (CN)</a>]
+    <strong>Venue:</strong> NICE Talk Live Session, 7 PM PT [<a href="https://x.com/academic_nice/status/2031989142603563089?s=46">Details (EN)</a>] [<a href="https://mp.weixin.qq.com/s/c2yASitFcQOHcASLRrV1LA">Details (CN)</a>] [<a href="https://www.youtube.com/live/rY5uwNTig5M?si=q3p-JMYxheXBDYN9">Recording</a>]
   </div>
 </div>
 

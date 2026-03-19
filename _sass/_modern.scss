@@ -58,6 +58,10 @@
   position: relative;
   z-index: 1;
 
+  @media (max-width: 768px) {
+    margin-top: 3.5em;
+  }
+
   @include breakpoint($medium) {
     padding: 2rem 2rem 4rem;
   }
@@ -409,10 +413,14 @@
 
   .rc-img {
     flex-shrink: 0;
-    width: 200px;
+    width: 280px;
+    height: 140px;
+    overflow: hidden;
 
     img {
       width: 100%;
+      height: 100%;
+      object-fit: cover;
       border-radius: var(--radius-sm);
       display: block;
     }
@@ -420,7 +428,7 @@
 
   .rc-img-stack {
     flex-shrink: 0;
-    width: 200px;
+    width: 280px;
 
     img {
       width: 100%;
@@ -436,7 +444,7 @@
 
   .rc-img-row {
     flex-shrink: 0;
-    width: 240px;
+    width: 320px;
     display: flex;
     gap: 8px;
 
@@ -476,6 +484,23 @@
 
     em {
       color: var(--color-text-secondary);
+    }
+  }
+
+  .research-badge {
+    display: inline-block;
+    padding: 1px 8px;
+    background: var(--color-primary-bg);
+    border: 1px solid rgba(197, 189, 176, 0.5);
+    border-radius: 3px 8px 3px 8px;
+    font-size: 0.84em;
+    font-weight: 600;
+    color: #b8860b;
+    margin-left: 2px;
+
+    i {
+      margin-right: 3px;
+      font-size: 0.85em;
     }
   }
 
@@ -586,6 +611,37 @@
       }
     }
   }
+}
+
+/* ---- Teaching ---- */
+
+.teaching-card {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--color-border);
+  display: flex;
+  align-items: baseline;
+  gap: 1.2rem;
+
+  &:last-of-type {
+    border-bottom: none;
+  }
+}
+
+.teaching-term {
+  flex-shrink: 0;
+  font-size: 0.84em;
+  font-weight: 600;
+  color: var(--color-primary);
+  padding: 1px 10px;
+  background: var(--color-primary-bg);
+  border: 1px solid rgba(197, 189, 176, 0.5);
+  border-radius: 3px 8px 3px 8px;
+}
+
+.teaching-body {
+  color: var(--color-text-secondary);
+  font-size: 0.95em;
+  line-height: 1.6;
 }
 
 /* ---- Modern Service ---- */

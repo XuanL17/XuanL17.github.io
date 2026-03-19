@@ -29,13 +29,12 @@ layout: modern
 </div>
 
 <div class="research-card">
-  <div class="rc-img-stack">
-    <img src="../images/fig1.png" alt="CoBRA figure 1">
-    <img src="../images/fig2.png" alt="CoBRA figure 2">
+  <div class="rc-img">
+    <img src="../images/cobra_demo.gif" alt="CoBRA demo">
   </div>
   <div class="rc-body">
     <p>
-      <strong>Xuan Liu</strong>, Haoyang Shang, Haojian Jin. <a href="https://arxiv.org/abs/2509.13588">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> <em>CHI 2026</em> [<a href="https://github.com/assassin808/CoBRA">Code</a>] [<a href="https://cobra.clawder.ai/">Project Page</a>]
+      <strong>Xuan Liu</strong>, Haoyang Shang, Haojian Jin. <a href="https://arxiv.org/abs/2509.13588">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> <em>CHI 2026</em> <span class="research-badge"><i class="fas fa-trophy"></i> Best Paper Award</span> [<a href="https://github.com/assassin808/CoBRA">Code</a>] [<a href="https://cobra.clawder.ai/">Project Page</a>]
     </p>
   </div>
 </div>
@@ -75,26 +74,11 @@ layout: modern
 
 <div class="research-card">
   <div class="rc-img">
-    <img src="../images/Product1.png" alt="Patent">
+    <img src="../images/breathing_demo.gif" alt="BreathingCORE demo">
   </div>
   <div class="rc-body">
     <p>
-      <strong>Chinese Patent CN 109589733 B</strong> — <em>An environmentally friendly outdoor dust reduction device using solar thermal energy.</em>
-    </p>
-  </div>
-</div>
-
-<div class="research-card">
-  <div class="rc-img-row">
-    <img src="../images/GreenOxy.jpg" alt="GreenOxy">
-    <img src="../images/GreenOxy3.jpg" alt="GreenOxy prototype">
-  </div>
-  <div class="rc-body">
-    <p>
-      <strong>GreenOxy: A Living Air Purifier</strong> — Combining advanced technology with natural elements to bring vitality and serenity to daily life.
-    </p>
-    <p style="margin-top: 0.5rem;">
-      [<a href="https://breathingcore.com">Start-up Website</a>]
+      <strong>Chinese Patent CN 109589733 B</strong> — <em>An environmentally friendly outdoor dust reduction device using solar thermal energy.</em> [<a href="https://breathingcore.com">Start-up Website</a>]
     </p>
   </div>
 </div>

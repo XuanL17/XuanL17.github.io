@@ -8,5 +8,7 @@ main:
     url: /activities/
   - title: "Service"
     url: /service/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Gallery"
     url: /gallery/
