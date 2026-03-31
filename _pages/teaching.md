@@ -9,7 +9,7 @@ layout: modern
 <div class="teaching-card">
   <div class="teaching-term">Spring 2026</div>
   <div class="teaching-body">
-    <strong>DSC 204A</strong> — Scalable Data Systems<br>
+    <strong><a href="https://haojian.github.io/DSC204A26SP/">DSC 204A</a></strong> — Scalable Data Systems<br>
     with Prof. Haojian Jin
   </div>
 </div>
