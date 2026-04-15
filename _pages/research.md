@@ -34,7 +34,7 @@ layout: modern
   </div>
   <div class="rc-body">
     <p>
-      <strong>Xuan Liu</strong>, Haoyang Shang, Haojian Jin. <a href="https://arxiv.org/abs/2509.13588">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> <em>CHI 2026</em> <span class="research-badge"><i class="fas fa-trophy"></i> Best Paper Award</span> [<a href="https://github.com/assassin808/CoBRA">Code</a>] [<a href="https://cobra.clawder.ai/">Project Page</a>]
+      <strong>Xuan Liu</strong>, Haoyang Shang, Haojian Jin. <a href="https://dl.acm.org/doi/10.1145/3772318.3790804">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> <em>CHI 2026</em> <span class="research-badge"><i class="fas fa-trophy"></i> Best Paper Award</span> [<a href="https://github.com/assassin808/CoBRA">Code</a>] [<a href="https://cobra.clawder.ai/">Project Page</a>]
     </p>
   </div>
 </div>

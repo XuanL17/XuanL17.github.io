@@ -20,7 +20,7 @@ redirect_from:
   <div class="modern-tl-item">
     <div class="modern-tl-date"><i class="fas fa-trophy tl-icon tl-icon--award"></i> 2026-03</div>
     <div class="modern-tl-body">
-      Congrats! Xuan's work <a href="https://arxiv.org/abs/2509.13588">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> received <strong>Best Paper Award</strong> at <u>CHI 2026</u>! Visit <a href="https://cobra.clawder.ai/">Project Page</a>
+      Congrats! Xuan's work <a href="https://dl.acm.org/doi/10.1145/3772318.3790804">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> received <strong>Best Paper Award</strong> at <u>CHI 2026</u>! Visit <a href="https://cobra.clawder.ai/">Project Page</a>
     </div>
   </div>
 
@@ -34,7 +34,7 @@ redirect_from:
   <div class="modern-tl-item">
     <div class="modern-tl-date"><i class="fas fa-file-alt tl-icon tl-icon--paper"></i> 2026-01</div>
     <div class="modern-tl-body">
-      Xuan's work <a href="https://arxiv.org/abs/2509.13588">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> has been accepted by <u>CHI 2026</u>. 
+      Xuan's work <a href="https://dl.acm.org/doi/10.1145/3772318.3790804">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> has been accepted by <u>CHI 2026</u>.
     </div>
   </div>
 

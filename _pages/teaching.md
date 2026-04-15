@@ -17,7 +17,7 @@ layout: modern
 <div class="teaching-card">
   <div class="teaching-term">Spring 2026</div>
   <div class="teaching-body">
-    <strong>DSC 190</strong> — Topics in Data Science<br>
+    <strong>DSC 190</strong> — Topics in Data Science: Robotics (Capstone)<br>
     with Dr. Jack Silberman
   </div>
 </div>
