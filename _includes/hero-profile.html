@@ -9,6 +9,15 @@
 <section class="hero-profile">
   <div class="hero-profile__inner">
     <h1 class="hero-profile__name">{{ author.name }}</h1>
+    {% if author.avatar %}
+    <div class="hero-profile__avatar">
+      {% if author.avatar contains "://" %}
+        <img src="{{ author.avatar }}" alt="{{ author.name }}">
+      {% else %}
+        <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}">
+      {% endif %}
+    </div>
+    {% endif %}
     {% if author.bio %}<p class="hero-profile__bio">{{ author.bio }}</p>{% endif %}
     {% if author.location %}
       <p class="hero-profile__detail"><i class="fa-solid fa-location-dot"></i> {{ author.location }}</p>
