@@ -6,7 +6,7 @@ layout: modern
 
 <h2 class="section-title">Conference Reviewer & Program Committee</h2>
 
-<p class="service-text">CHI 2026 | ICML 2026 | CVPR 2026, 2025, 2024 | ECCV 2026, 2025 | ICLR 2026, 2025 | AAAI 2026, 2025</p>
+<p class="service-text">CHI 2026 <span class="service-text__note">(Special Recognition for Outstanding Reviews)</span> | ICML 2026 | CVPR 2026, 2025, 2024 | ECCV 2026, 2025 | ICLR 2026, 2025 | AAAI 2026, 2025</p>
 
 <h2 class="section-title">Journal Reviewer & Commentary</h2>
 

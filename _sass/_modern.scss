@@ -489,23 +489,6 @@
     }
   }
 
-  .research-badge {
-    display: inline-block;
-    padding: 1px 8px;
-    background: var(--color-primary-bg);
-    border: 1px solid rgba(197, 189, 176, 0.5);
-    border-radius: 3px 8px 3px 8px;
-    font-size: 0.84em;
-    font-weight: 600;
-    color: #b8860b;
-    margin-left: 2px;
-
-    i {
-      margin-right: 3px;
-      font-size: 0.85em;
-    }
-  }
-
   @media (max-width: 768px) {
     flex-direction: column;
 
@@ -515,6 +498,29 @@
       width: 100%;
       max-width: 320px;
     }
+  }
+}
+
+/* Best Paper / paper highlight badge (research + activity + timeline) */
+.research-badge {
+  display: inline-flex;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 0.0625rem 0.5rem;
+  background: var(--color-primary-bg);
+  border: 1px solid rgba(197, 189, 176, 0.5);
+  border-radius: 3px 8px 3px 8px;
+  /* rem: same absolute size as inside .page__content p (1em), not parent-dependent */
+  font-size: 0.84rem;
+  font-weight: 600;
+  color: #b8860b;
+  margin-left: 0.125rem;
+  line-height: 1.35;
+  vertical-align: middle;
+
+  i {
+    margin-right: 0.1875rem;
+    font-size: 0.9em;
   }
 }
 
@@ -573,6 +579,10 @@
     gap: 0.7rem;
     margin-bottom: 0.5rem;
     flex-wrap: wrap;
+
+    .research-badge {
+      margin-left: 0;
+    }
   }
 
   .ma-date {
@@ -653,6 +663,12 @@
   font-size: 0.95em;
   line-height: 1.6;
   margin-bottom: 1rem;
+
+  &__note {
+    font-size: 0.82em;
+    font-style: italic;
+    color: var(--color-text-secondary);
+  }
 }
 
 .service-list {

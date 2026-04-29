@@ -6,6 +6,18 @@ layout: modern
 
 <div class="modern-activity">
   <div class="ma-header">
+    <span class="ma-date">2026-04-14</span>
+    <span class="research-badge"><i class="fas fa-trophy"></i> Best Paper Award</span>
+    <span class="ma-type">Oral Presentation</span>
+  </div>
+  <div class="ma-body">
+    <strong>Topic:</strong> CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments<br>
+    <strong>Venue:</strong> ACM CHI 2026, 10:12 AM, P1-Room 122, AI Systems for Human Goals, Barcelona, Spain [<a href="https://programs.sigchi.org/chi/2026/program/content/223158">Detail</a>] [<a href="https://xuanl17.github.io/cobra-presentation/">Slides</a>]
+  </div>
+</div>
+
+<div class="modern-activity">
+  <div class="ma-header">
     <span class="ma-date">2026-03-14</span>
     <span class="ma-type">Invited Talk</span>
   </div>
