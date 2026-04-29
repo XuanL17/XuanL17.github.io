@@ -5,49 +5,34 @@ layout: modern
 ---
 
 <div class="modern-gallery-section">
-  <h2>Hong Kong</h2>
-  <div class="modern-gallery-row">
+  <h2>Me and My Friends</h2>
+  <div class="modern-gallery-row modern-gallery-row--grid">
     <div class="modern-gallery-item">
-      <img src="../images/Hong Kong1.jpg" alt="Hong Kong">
+      <img src="../images/chi.jpg" alt="CHI 2026 Barcelona">
     </div>
     <div class="modern-gallery-item">
-      <img src="../images/HongKong3.jpg" alt="Hong Kong">
+      <img src="../images/Africa3.jpg" alt="Friends in Africa" class="gallery-img--anchor-bottom">
     </div>
     <div class="modern-gallery-item">
-      <img src="../images/HongKong4.jpg" alt="Hong Kong" class="align-bottom">
+      <img src="../images/Hong Kong 5.jpg" alt="Friends in Hong Kong">
     </div>
     <div class="modern-gallery-item">
-      <img src="../images/Photo2.jpg" alt="Hong Kong">
-    </div>
-  </div>
-</div>
-
-<div class="modern-gallery-section">
-  <h2>Africa</h2>
-  <div class="modern-gallery-row">
-    <div class="modern-gallery-item">
-      <img src="../images/Africa3.jpg" alt="Africa Volunteer">
-    </div>
-    <div class="modern-gallery-item">
-      <img src="../images/Africa2.jpg" alt="Africa Volunteer">
-    </div>
-    <div class="modern-gallery-item">
-      <img src="../images/Africa1.jpg" alt="Africa Volunteer">
-    </div>
-    <div class="modern-gallery-item">
-      <img src="../images/Africa4.jpg" alt="Africa Volunteer">
+      <img src="../images/HongKong3.jpg" alt="Friends in Hong Kong">
     </div>
   </div>
 </div>
 
-<div class="modern-gallery-section">
-  <h2>California</h2>
-  <div class="modern-gallery-row">
-    <div class="modern-gallery-item">
-      <img src="../images/Cali2.jpg" alt="California">
+<div class="modern-gallery-section modern-gallery-section--blue">
+  <h2>Me and the Coast</h2>
+  <div class="modern-gallery-row modern-gallery-row--grid">
+    <div class="modern-gallery-item modern-gallery-item--blue">
+      <img src="../images/Cali1.jpg" alt="California in blue">
     </div>
-    <div class="modern-gallery-item">
-      <img src="../images/Cali1.jpg" alt="California">
+    <div class="modern-gallery-item modern-gallery-item--blue">
+      <img src="../images/Cali2.jpg" alt="California in blue">
+    </div>
+    <div class="modern-gallery-item modern-gallery-item--blue">
+      <img src="../images/Photo2.jpg" alt="Hong Kong in blue">
     </div>
   </div>
 </div>
