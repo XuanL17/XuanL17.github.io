@@ -768,8 +768,8 @@
         object-position: center center;
 
         &.gallery-img--anchor-bottom {
-          /* bottom: drop top; ~44% horizontal: trim a bit off the right */
-          object-position: 44% bottom;
+          /* Slightly above bottom so less of the top (head) is cropped off */
+          object-position: 44% 82%;
         }
 
         @media (max-width: 480px) {
