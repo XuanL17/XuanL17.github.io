@@ -16,6 +16,9 @@ layout: modern
     <div class="modern-gallery-item">
       <img src="../images/HongKong4.jpg" alt="Hong Kong" class="align-bottom">
     </div>
+    <div class="modern-gallery-item">
+      <img src="../images/Photo2.jpg" alt="Hong Kong">
+    </div>
   </div>
 </div>
 
