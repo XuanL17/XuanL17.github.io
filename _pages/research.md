@@ -4,7 +4,7 @@ permalink: /research/
 layout: modern
 ---
 
-<div class="research-intro-card">
+<!-- <div class="research-intro-card">
 <p>My research sits at the intersection of <strong>machine learning, social psychology, and human-computer interaction</strong>.</p>
 
 <p>I focus on three main directions:</p>
@@ -13,7 +13,7 @@ layout: modern
   <li><strong>Building practical AI tools</strong> to accelerate social science research and human behavior understanding</li>
   <li><strong>Addressing the societal aspects of AI</strong>, including privacy protection, security, and sustainable technology innovation</li>
 </ul>
-</div>
+</div> -->
 
 <h2 class="section-title">Featured Works</h2>
 
