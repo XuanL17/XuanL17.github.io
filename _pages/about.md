@@ -14,6 +14,7 @@ redirect_from:
   <p>Previously I completed my Bachelor's in Electronic & Information Engineering at <a href="https://www.polyu.edu.hk/eee/">Hong Kong Polytechnic University</a>. During my undergraduate period, I am grateful to have been advised and collaborated with <a href="https://cse.hkust.edu.hk/~songguo/">Prof. Song Guo</a> (HKUST, Hong Kong), <a href="https://haibohu.org/">Prof. Haibo Hu</a> (PolyU, Hong Kong), <a href="https://engineering.nyu.edu/faculty/quanyan-zhu">Prof. Quanyan Zhu</a> (NYU, New York), and <a href="https://ece.ubc.ca/xiaoxiao-li/">Prof. Xiaoxiao Li</a> (UBC, Vancouver).</p>
 </div>
 
+<!--
 ---
 
 <div class="modern-timeline">
@@ -178,3 +179,4 @@ redirect_from:
     </div>
   </div>
 </div>
+-->
