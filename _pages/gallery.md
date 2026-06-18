@@ -2,6 +2,7 @@
 title: " "
 permalink: /gallery/
 layout: modern
+published: false
 ---
 
 <div class="modern-gallery-section">

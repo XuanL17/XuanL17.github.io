@@ -2,6 +2,7 @@
 title: " "
 permalink: /activities/
 layout: modern
+published: false
 ---
 
 <div class="modern-activity">
