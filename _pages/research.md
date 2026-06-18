@@ -2,7 +2,6 @@
 title: " "
 permalink: /research/
 layout: modern
-published: false
 ---
 
 <!-- <div class="research-intro-card">
@@ -18,6 +17,7 @@ published: false
 
 <h2 class="section-title">Featured Works</h2>
 
+{% comment %}
 <div class="research-card">
   <div class="rc-img">
     <img src="../images/hsbench.png" alt="HumanStudy-Bench">
@@ -28,6 +28,7 @@ published: false
     </p>
   </div>
 </div>
+{% endcomment %}
 
 <div class="research-card">
   <div class="rc-img">
@@ -35,7 +36,7 @@ published: false
   </div>
   <div class="rc-body">
     <p>
-      <strong>Xuan Liu</strong>, Haoyang Shang, Haojian Jin. <a href="https://dl.acm.org/doi/10.1145/3772318.3790804">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> <em>CHI 2026</em> <span class="research-badge"><i class="fas fa-trophy"></i> Best Paper Award</span> [<a href="https://github.com/assassin808/CoBRA">Code</a>] [<a href="https://cobra.clawder.ai/">Project Page</a>]
+      <strong>Xuan Liu</strong>, Haoyang Shang, Haojian Jin. <a href="https://dl.acm.org/doi/10.1145/3772318.3790804">"CoBRA: Programming Cognitive Bias in Social Agents using Classic Social Science Experiments"</a> <em>CHI 2026</em> <span class="research-badge"><i class="fas fa-trophy"></i> Best Paper Award</span> {% comment %}[<a href="https://github.com/assassin808/CoBRA">Code</a>] [<a href="https://cobra.clawder.ai/">Project Page</a>]{% endcomment %}
     </p>
   </div>
 </div>
@@ -46,11 +47,12 @@ published: false
   </div>
   <div class="rc-body">
     <p>
-      <strong>Xuan Liu</strong>, Jie Zhang, Song Guo, Haoyang Shang, Chengxu Yang, Quanyan Zhu. <a href="https://arxiv.org/abs/2405.14744">"Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View"</a> <em>ICLR 2025</em> [<a href="https://github.com/XuanL17/CogMir">Code</a>]
+      <strong>Xuan Liu</strong>, Jie Zhang, Song Guo, Haoyang Shang, Chengxu Yang, Quanyan Zhu. <a href="https://arxiv.org/abs/2405.14744">"Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View"</a> <em>ICLR 2025</em> {% comment %}[<a href="https://github.com/XuanL17/CogMir">Code</a>]{% endcomment %}
     </p>
   </div>
 </div>
 
+{% comment %}
 <div class="research-card">
   <div class="rc-img">
     <img src="../images/Attack1.png" alt="Mjölnir">
@@ -89,3 +91,4 @@ published: false
     <i class="ai ai-google-scholar"></i>Full list of papers on Google Scholar →
   </a>
 </div>
+{% endcomment %}

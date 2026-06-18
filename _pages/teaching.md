@@ -2,7 +2,6 @@
 title: " "
 permalink: /teaching/
 layout: modern
-published: false
 ---
 
 <h2 class="section-title">Teaching Assistant</h2>
@@ -18,7 +17,7 @@ published: false
 <div class="teaching-card">
   <div class="teaching-term">Spring 2026</div>
   <div class="teaching-body">
-    <strong>DSC 190</strong> — Topics in Data Science: Robotics (Capstone)<br>
+    <strong>DSC 190</strong> — Topics in Data Science: {% comment %}Robotics {% endcomment %}{% comment %}(Capstone){% endcomment %}<br>
     with Dr. Jack Silberman
   </div>
 </div>

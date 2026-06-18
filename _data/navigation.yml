@@ -2,13 +2,13 @@
 main:
   - title: "Home"
     url: /
-  # - title: "Research"
-  #   url: /research/
+  - title: "Research"
+    url: /research/
   # - title: "Activity"
   #   url: /activities/
   # - title: "Service"
   #   url: /service/
-  # - title: "Teaching"
-  #   url: /teaching/
+  - title: "Teaching"
+    url: /teaching/
   # - title: "Gallery"
   #   url: /gallery/
