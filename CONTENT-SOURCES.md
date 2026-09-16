@@ -20,3 +20,7 @@ The dated first-year PhD wording was generalized to PhD student. HumanStudy-Hub 
 ## Figure-led revision
 
 The Home network is a generative artwork with no cognitive-bias labels or empirical claims. Research's hotel-towel figure adapts the scenario and illustrative probability endpoints from https://cobra.clawder.ai/video_demo.html. It uses the same baseline and endpoint probabilities and displays their weighted Cognitive Bias Index. The slider covers the source demo's achievable 1.14–3.05 interval; example answers are paraphrased and explicitly labeled illustrative. This supersedes the earlier majority-attraction example and HumanStudy-Hub pipeline display.
+
+## Research narrative revision
+
+The current Research page uses static diagrams only: CogMir explores human-like irrational and prosocial behavior; CoBRA calibrates cognitive biases using an experimental measurement/regulation loop; HumanStudy-Hub supports reconstructing and evaluating participant simulations against human studies. These are complementary research questions, not a claim that the three systems are one technical pipeline. Sources: https://arxiv.org/abs/2405.14744, https://arxiv.org/abs/2509.13588, and https://arxiv.org/abs/2602.00685. CogMir publication author order was updated to match arXiv v5. LinkedIn comes from the prior homepage's `_config.yml`. The homepage network is now a projected 3D generative background; the removed research question is no longer displayed.
