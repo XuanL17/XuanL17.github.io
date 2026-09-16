@@ -24,3 +24,6 @@ The Home network is a generative artwork with no cognitive-bias labels or empiri
 ## Research narrative revision
 
 The current Research page uses static diagrams only: CogMir explores human-like irrational and prosocial behavior; CoBRA calibrates cognitive biases using an experimental measurement/regulation loop; HumanStudy-Hub supports reconstructing and evaluating participant simulations against human studies. These are complementary research questions, not a claim that the three systems are one technical pipeline. Sources: https://arxiv.org/abs/2405.14744, https://arxiv.org/abs/2509.13588, and https://arxiv.org/abs/2602.00685. CogMir publication author order was updated to match arXiv v5. LinkedIn comes from the prior homepage's `_config.yml`. The homepage network is now a projected 3D generative background; the removed research question is no longer displayed.
+
+
+Revision: focused LLM agents / social simulations narrative; chronological HumanStudy-Hub, CoBRA, CogMir. CoBRA calibration description checked against official project website; original cobra_demo.gif restored. HumanStudy screenshot from original homepage images/hsbench.png; CogMir original figure retained. Previous research reduced to Mjolnir and MGIA AAAI links. Removed Home network canvas and script. AISmithLab research direct URL returned 404; reviewed homepage application source instead.
