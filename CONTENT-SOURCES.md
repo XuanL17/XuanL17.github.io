@@ -16,3 +16,7 @@ Updated 2026-09-17. The previous homepage checkout was read only.
 The homepage bandwagon animation is a conceptual illustration with synthetic agents, not a live CoBRA evaluation or empirical human data. HumanStudy-Hub's animated diagram illustrates the documented workflow; it makes no claims about measured results.
 
 The dated first-year PhD wording was generalized to PhD student. HumanStudy-Hub is the platform name; the paper retains its actual title, HumanStudy-Bench. Earlier work is grouped under undergraduate research and foundations without assigning every publication to an undergraduate enrollment date.
+
+## Figure-led revision
+
+The Home network is a generative artwork with no cognitive-bias labels or empirical claims. Research's hotel-towel figure adapts the scenario and illustrative probability endpoints from https://cobra.clawder.ai/video_demo.html. It uses the same baseline and endpoint probabilities and displays their weighted Cognitive Bias Index. The slider covers the source demo's achievable 1.14–3.05 interval; example answers are paraphrased and explicitly labeled illustrative. This supersedes the earlier majority-attraction example and HumanStudy-Hub pipeline display.
