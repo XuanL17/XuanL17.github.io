@@ -86,3 +86,18 @@ h1,h2,.page-title,.project h2,.course h2,.monogram,.magazine-home .statement h2{
 .project h2{font-size:27px;letter-spacing:-.6px;line-height:1.3}
 @media(max-width:1000px){.magazine-home h1{font-size:73px}.magazine-home .statement h2{font-size:33px}.magazine-home .statement,.magazine-home .intro{max-width:370px}.magazine-home .hero{min-height:810px}}
 @media(max-width:650px){.magazine-home h1{font-size:61px;letter-spacing:-3px}.magazine-home .chinese{font-size:22px}.magazine-home .statement h2{font-size:32px;letter-spacing:-.8px}.magazine-home .statement,.magazine-home .intro{max-width:none}.magazine-home .hero{min-height:0}}
+
+/* Staggered editorial composition: identity, inquiry, reflection */
+.magazine-home .hero{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));grid-template-rows:auto auto auto auto;column-gap:0;row-gap:36px;padding:48px 0 30px;min-height:0;align-items:start}
+.magazine-home .bio{display:contents}
+.magazine-home .identity{grid-column:1/10;grid-row:1;position:relative;z-index:2;padding-bottom:8px}
+.magazine-home .identity h1{margin-bottom:18px}
+.magazine-home .identity .pronunciation{margin:0}
+.magazine-home .intro{grid-column:1/7;grid-row:2;max-width:460px;margin:0;padding-right:15px;position:relative;z-index:2}
+.magazine-home .statement{grid-column:3/9;grid-row:3;max-width:510px;margin:10px 0 0;position:relative;z-index:2}
+.magazine-home .socials{grid-column:3/10;grid-row:4;margin:0 0 12px;max-width:none}
+.magazine-home .portrait{position:relative;grid-column:8/13;grid-row:1/3;right:auto;top:auto;bottom:auto;width:calc(100% + 30px);height:490px;margin:-5px -30px -45px 0;align-self:start}
+.magazine-home .portrait img{width:100%;height:100%;object-fit:contain;object-position:center bottom}
+@media(min-width:1250px){.magazine-home .portrait{height:530px}.magazine-home .hero{row-gap:42px}.magazine-home .statement{margin-top:25px}}
+@media(min-width:651px) and (max-width:1000px){.magazine-home .identity{grid-column:1/8}.magazine-home .identity .chinese{display:inline-block;margin:0 0 0 14px;font-size:22px}.magazine-home .identity h1{font-size:64px}.magazine-home .portrait{grid-column:8/13;height:450px;margin-top:25px}.magazine-home .intro{grid-column:1/8;max-width:400px}.magazine-home .statement{grid-column:2/10;max-width:510px;margin-top:4px}.magazine-home .socials{grid-column:2/12}}
+@media(max-width:650px){.magazine-home .hero{grid-template-columns:1fr;row-gap:28px;padding-top:32px}.magazine-home .identity,.magazine-home .intro,.magazine-home .statement,.magazine-home .socials,.magazine-home .portrait{grid-column:1;grid-row:auto}.magazine-home .identity{padding-bottom:0}.magazine-home .intro{padding:0;max-width:none}.magazine-home .statement{margin:0;max-width:none}.magazine-home .socials{margin:0;max-width:none}.magazine-home .portrait{width:100%;height:480px;margin:0;max-width:none}.magazine-home .identity h1{font-size:61px}}
