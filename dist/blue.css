@@ -90,3 +90,14 @@ h1,h2,.page-title,.project h2,.course h2,.monogram,.magazine-home .statement h2{
 
 /* Restore text-left, portrait-right layout. */
 .magazine-home .intro + .statement{margin-top:30px;margin-bottom:0}
+
+/* One editorial type family across all three pages. */
+body,button,input,select,textarea,h1,h2,h3,p,nav,a,footer,
+.monogram,.monogram span,.page-title,.project h2,.course h2,
+.magazine-home .statement h2,.magazine-home .intro em,
+.portrait figcaption,.portrait figcaption span{
+  font-family:'Bodoni Moda','Songti SC',STSong,serif;
+}
+.chinese,.magazine-home .chinese,.footer-chinese{
+  font-family:'Songti SC',STSong,serif;
+}
