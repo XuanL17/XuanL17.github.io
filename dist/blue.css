@@ -68,3 +68,21 @@ h1,h2,.project h2,.course h2,.monogram,.page-title,.magazine-home .statement h2{
 .page-title{font-size:68px;letter-spacing:-3px}.project h2{font-size:26px;line-height:1.3;letter-spacing:-.8px}
 @media(max-width:1000px){.magazine-home h1{font-size:65px;letter-spacing:-3px}.magazine-home .chinese{display:block;margin:10px 0 0;font-size:24px}.magazine-home .hero{min-height:760px}.magazine-home .portrait{width:46%;right:-6%}.research-question{font-size:26px;max-width:420px}.magazine-home .statement{max-width:370px}}
 @media(max-width:650px){.magazine-home .hero{min-height:0;padding-top:32px;gap:0}.magazine-home h1{font-size:58px;letter-spacing:-3px}.magazine-home .chinese{display:inline-block;font-size:21px;margin:0 0 0 12px}.magazine-home .pronunciation{margin-bottom:24px}.affiliation{font-size:15px;margin-bottom:25px}.research-question{font-size:26px;line-height:1.45;letter-spacing:-.7px;max-width:none;margin-bottom:26px}.magazine-home .statement{max-width:none}.magazine-home .portrait{position:relative;top:auto;right:auto;bottom:auto;width:100%;height:510px;margin:22px 0 0}.magazine-home .portrait img{object-fit:contain;object-position:center bottom}.page-title{font-size:52px}}
+
+/* Art-directed serif typography, personal philosophy first */
+body{font-family:'Manrope',sans-serif}
+h1,h2,.page-title,.project h2,.course h2,.monogram,.magazine-home .statement h2{font-family:'Bodoni Moda',serif;font-weight:400}
+.monogram{font-style:italic;font-size:34px;letter-spacing:-2px}
+.magazine-home h1{font-size:clamp(70px,7.5vw,112px);font-weight:400;letter-spacing:-4px;line-height:1.14}
+.magazine-home .chinese{font-family:'Songti SC',serif;font-size:26px}
+.magazine-home .pronunciation{margin-bottom:39px}
+.magazine-home .statement{max-width:510px;margin-bottom:30px}
+.magazine-home .statement h2{font-size:38px;line-height:1.3;letter-spacing:-1px;margin:0 0 20px}
+.magazine-home .statement h2 em{font-weight:400;font-style:italic}
+.magazine-home .belief{max-width:410px;font-size:16px;line-height:1.75}
+.magazine-home .intro{max-width:460px;font-size:16px;line-height:1.8;margin:0}
+.magazine-home .intro em{font-family:'Bodoni Moda',serif;font-style:italic;font-size:18px;border:0}
+.magazine-home .socials{margin-top:30px}
+.project h2{font-size:27px;letter-spacing:-.6px;line-height:1.3}
+@media(max-width:1000px){.magazine-home h1{font-size:73px}.magazine-home .statement h2{font-size:33px}.magazine-home .statement,.magazine-home .intro{max-width:370px}.magazine-home .hero{min-height:810px}}
+@media(max-width:650px){.magazine-home h1{font-size:61px;letter-spacing:-3px}.magazine-home .chinese{font-size:22px}.magazine-home .statement h2{font-size:32px;letter-spacing:-.8px}.magazine-home .statement,.magazine-home .intro{max-width:none}.magazine-home .hero{min-height:0}}
