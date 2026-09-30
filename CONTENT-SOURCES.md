@@ -30,3 +30,9 @@ Revision: focused LLM agents / social simulations narrative; chronological Human
 
 ## Blue homepage revision — 2026-09-30
 User supplied DSC03970.jpg, researcher affiliation, research interests, email, and TMLR citation. Portrait resized proportionally for delivery. Three requested navigation items: Home, Research, Teaching. Teaching records and social links sourced from the existing local academic homepage. X handle xuanliu888 was present in a commented configuration entry and awaits confirmation. CoBRA award verified at cobra.clawder.ai; ICLR 2025 metadata verified at arxiv.org/abs/2405.14744. HumanStudy-Bench project link currently identifies its platform as HumanStudy-Hub. Research statement is editorial wording of the user's stated interests, not an empirical claim. Xuan pronunciation uses Mandarin IPA /ɕɥɛn˥/ with an explicitly approximate English cue “shwen”.
+
+## Editorial update — 2026-09-30
+ICLR Figure 1 rendered from https://arxiv.org/pdf/2405.14744, page 1; TMLR Figure 1 rendered from https://arxiv.org/pdf/2506.06843, page 4 (header identifies TMLR publication, 06/2026). Figures are cropped page renders, not regenerated illustrations. Cormorant Garamond and Manrope downloaded from Google Fonts and served locally. Footer simplified to copyright; email is plain text. Research statement now explicitly links human irrationality to Social Simulation and agent calibration.
+
+## Research-first homepage — 2026-09-30
+Reordered homepage to identity, affiliation, research question, human imperfection statement, and contact details. Space Grotesk served locally. Transparent portrait generated with the built-in image editing tool; prompt: remove only blue studio background to transparent alpha while preserving identity, face, pose, hair, scarf, clothing and lighting; no beautification. Saved as dist/assets/xuan-cutout.png. Original portrait retained.
