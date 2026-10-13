@@ -22,3 +22,11 @@ footer.copyright{font-size:var(--caption);line-height:1.5;color:var(--muted);pad
 
 .statement .belief strong{font-weight:600;color:var(--ink)}
 .statement .belief strong em{font-style:italic;font-size:inherit}
+
+/* Featured project and compact section labels */
+.section-head{padding:38px 0 25px}.section-head h1{font-size:var(--heading);line-height:1.3;letter-spacing:-.02em}
+.project-showcase{padding-bottom:60px}.featured-project{display:grid;grid-template-columns:1.25fr 1fr;gap:36px;align-items:center;padding-bottom:40px;border-bottom:1px solid var(--line)}
+.featured-project .project-image{aspect-ratio:1.6}.featured-project .project-meta{margin-top:0;flex-wrap:wrap;justify-content:flex-start;gap:12px 20px}.featured-project h2{font-size:2.5rem;margin-bottom:18px}.featured-copy{min-width:0}.award{display:inline-flex;align-items:center;gap:7px;letter-spacing:0}.award span{font-family:system-ui,sans-serif;font-size:23px;line-height:1}.project-links{display:flex;flex-wrap:wrap;gap:24px}.supporting-projects{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px;padding-top:36px}.supporting-projects .project h2{font-size:1.5rem}.supporting-projects .project-image{aspect-ratio:1.5;padding:10px}.supporting-projects .project-meta{justify-content:flex-start;gap:14px}
+.teaching .teaching-list{margin-top:42px}.teaching .course:first-child{border-top:0;padding-top:0}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(max-width:900px){.featured-project{grid-template-columns:1.1fr 1fr;gap:26px}.supporting-projects{grid-template-columns:1fr 1fr}.supporting-projects .project:last-child{grid-column:1/-1;max-width:calc(50% - 14px)}}
+@media(max-width:650px){.featured-project{grid-template-columns:1fr;gap:24px}.featured-project h2{font-size:2rem}.supporting-projects{grid-template-columns:1fr;gap:38px}.supporting-projects .project:last-child{grid-column:auto;max-width:none}.section-head{padding-top:30px}.teaching .teaching-list{margin-top:30px}}
