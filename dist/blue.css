@@ -30,3 +30,7 @@ footer.copyright{font-size:var(--caption);line-height:1.5;color:var(--muted);pad
 .teaching .teaching-list{margin-top:42px}.teaching .course:first-child{border-top:0;padding-top:0}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 @media(max-width:900px){.featured-project{grid-template-columns:1.1fr 1fr;gap:26px}.supporting-projects{grid-template-columns:1fr 1fr}.supporting-projects .project:last-child{grid-column:1/-1;max-width:calc(50% - 14px)}}
 @media(max-width:650px){.featured-project{grid-template-columns:1fr;gap:24px}.featured-project h2{font-size:2rem}.supporting-projects{grid-template-columns:1fr;gap:38px}.supporting-projects .project:last-child{grid-column:auto;max-width:none}.section-head{padding-top:30px}.teaching .teaching-list{margin-top:30px}}
+
+.project .paper-title{font-size:var(--caption);line-height:1.55;margin:0 0 16px;color:var(--muted)}
+.project .paper-title a{text-decoration:underline;text-decoration-color:#20374635;text-underline-offset:3px}
+.project .paper-title a:hover{text-decoration-color:currentColor}
