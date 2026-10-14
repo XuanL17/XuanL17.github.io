@@ -35,12 +35,7 @@ footer.copyright{font-size:var(--caption);line-height:1.5;color:var(--muted);pad
 .project .paper-title a{text-decoration:underline;text-decoration-color:#20374635;text-underline-offset:3px}
 .project .paper-title a:hover{text-decoration-color:currentColor}
 
-/* Larger research media, with no added white frame or letterboxing. */
-.featured-project{grid-template-columns:1.6fr 1fr;gap:30px}
-.project-showcase .project-image{padding:0;background:transparent;aspect-ratio:auto;border-radius:0}
-.project-showcase .project-image picture{display:block}
-.project-showcase .project-image img{width:100%;height:auto;object-fit:contain;transform:none}
-.supporting-projects{grid-template-columns:repeat(2,minmax(0,1fr));gap:38px 32px;align-items:start}
-.supporting-projects .project:last-child{grid-column:auto;max-width:none}
-@media(max-width:900px){.featured-project{grid-template-columns:1.35fr 1fr;gap:24px}}
-@media(max-width:650px){.featured-project,.supporting-projects{grid-template-columns:1fr}.featured-project{gap:24px}.supporting-projects{gap:38px}}
+/* Consistent media frames, filled with centered crops. */
+.project-showcase .project-image{aspect-ratio:1.6;padding:0;background:transparent;overflow:hidden;border-radius:2px}
+.project-showcase .project-image picture{display:block;width:100%;height:100%}
+.project-showcase .project-image img{display:block;width:100%;height:100%;object-fit:cover;object-position:center;transform:none}
