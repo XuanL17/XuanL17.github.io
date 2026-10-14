@@ -48,3 +48,5 @@ footer.copyright{font-size:var(--caption);line-height:1.5;color:var(--muted);pad
 
 /* Shift HumanStudy-Bench's image right within its existing crop. */
 .project-showcase .project-image img[src="/assets/hsbench.png"]{object-position:left center}
+
+.teaching .course h2{font-size:1.25rem;line-height:1.4;letter-spacing:0;margin-bottom:8px}
