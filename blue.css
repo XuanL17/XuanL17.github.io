@@ -54,16 +54,16 @@ footer.copyright{font-size:var(--caption);line-height:1.5;color:var(--muted);pad
 .research-page .project-showcase{padding-top:38px}
 @media(max-width:650px){.research-page .project-showcase{padding-top:30px}}
 
-/* An open composition: CoBRA leads, smaller projects sit at varied heights. */
+/* An open composition: CoBRA leads, smaller projects share a top edge. */
 .featured-project{border-bottom:0;padding-bottom:0}
 .supporting-projects{align-items:start;grid-template-columns:1fr 1.06fr .94fr;gap:clamp(30px,4.5vw,70px);padding:76px 1.5% 32px}
 .supporting-projects .project-image{aspect-ratio:auto;border-radius:0;overflow:visible;background:transparent}
 .supporting-projects .project-image img{width:100%;height:auto;object-fit:contain}
-.supporting-projects .project:nth-child(2){margin-top:100px}
-.supporting-projects .project:nth-child(3){margin-top:32px}
+.supporting-projects .project:nth-child(2){margin-top:0}
+.supporting-projects .project:nth-child(3){margin-top:0}
 @media(max-width:900px){
   .supporting-projects{grid-template-columns:1fr 1fr;gap:56px 40px;padding:56px 0 24px}
-  .supporting-projects .project:nth-child(2){margin-top:64px}
+  .supporting-projects .project:nth-child(2){margin-top:0}
   .supporting-projects .project:nth-child(3){margin-top:0;margin-left:16%;max-width:54%}
 }
 @media(max-width:650px){
