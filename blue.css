@@ -54,16 +54,17 @@ footer.copyright{font-size:var(--caption);line-height:1.5;color:var(--muted);pad
 .research-page .project-showcase{padding-top:38px}
 @media(max-width:650px){.research-page .project-showcase{padding-top:30px}}
 
-/* Three distinct, softly sculpted silhouettes for the supporting research. */
-.supporting-projects .project:nth-child(1) .project-image{
-  border-radius:28% 8% 23% 7% / 38% 14% 35% 12%;
+/* Natural image proportions and restrained editorial spacing. */
+.supporting-projects{align-items:start;gap:36px;padding-top:44px}
+.supporting-projects .project-image{aspect-ratio:auto;border-radius:0;overflow:visible;background:transparent}
+.supporting-projects .project-image img{width:100%;height:auto;object-fit:contain}
+.supporting-projects .project:nth-child(2){margin-top:40px}
+.supporting-projects .project:nth-child(3){margin-top:16px}
+@media(max-width:900px){
+  .supporting-projects{gap:36px 28px}
+  .supporting-projects .project:nth-child(3){margin-top:0}
 }
-.supporting-projects .project:nth-child(2) .project-image{
-  border-radius:8% 30% 9% 24% / 15% 42% 16% 35%;
-}
-.supporting-projects .project:nth-child(3) .project-image{
-  border-radius:24% 9% 29% 8% / 34% 16% 40% 14%;
-}
-.supporting-projects .project-image:focus-visible{
-  outline-offset:5px;
+@media(max-width:650px){
+  .supporting-projects{gap:44px;padding-top:32px}
+  .supporting-projects .project:nth-child(2){margin-top:0}
 }
