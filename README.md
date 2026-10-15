@@ -1,3 +1,23 @@
+# Xuan Liu — Personal Website
+
+The current website is plain HTML/CSS, with locally hosted fonts and images.
+
+- `index.html`: Home
+- `research.html`: Research
+- `teaching.html`: Teaching
+- `blue.css`: Site styling
+- `assets/`: Images, video, and fonts
+
+Preview from the repository root:
+
+```sh
+python3 -m http.server 8000
+```
+
+Open http://localhost:8000. For GitHub Pages, select `master` and `/ (root)` under Settings → Pages when available for this repository. `.nojekyll` serves these files directly. The previous Jekyll source is retained below and in its original directories.
+
+---
+
 
 # Academic Pages
 

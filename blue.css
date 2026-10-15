@@ -1,0 +1,55 @@
+:root{color-scheme:light;--ink:#203746;--muted:#4b6577;--line:#20374625;--display:5rem;--heading:1.875rem;--body:1.125rem;--ui:1rem;--caption:.875rem;--font:'Bodoni Moda','Songti SC',STSong,serif}
+*{box-sizing:border-box}html{font-size:16px}body{margin:0;background:linear-gradient(115deg,#e4eff8 0%,#d5e6f3 52%,#c2d9eb 100%);background-attachment:fixed;color:var(--ink);font-family:var(--font);font-size:var(--body);line-height:1.65;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}a:hover{text-decoration:underline;text-underline-offset:5px}a:focus-visible{outline:2px solid currentColor;outline-offset:6px}
+.shell{max-width:1440px;margin:auto;padding:0 6.5%}header{height:100px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line);position:relative;z-index:2}
+.monogram{font-size:var(--heading);font-style:italic;line-height:1;letter-spacing:-1px}.monogram span{font-size:var(--body);opacity:.5;margin-left:8px}
+nav{display:flex;gap:40px;font-size:var(--ui);line-height:1.4}nav a{padding:10px 0;color:var(--muted)}nav a[aria-current]{color:var(--ink);border-bottom:1px solid currentColor}
+h1,h2,h3,p,figure{margin:0}h1,h2,h3{font-weight:400}h1{font-size:var(--display);line-height:1.12;letter-spacing:-.04em}h2{font-size:var(--heading);line-height:1.3;letter-spacing:-.02em}
+.hero{position:relative;display:grid;grid-template-columns:1.2fr 1fr;gap:6%;align-items:center;padding:60px 0 45px;min-height:730px}.bio{position:relative;z-index:1;max-width:530px}.identity h1{margin-bottom:15px;white-space:nowrap}.chinese{font-family:'Songti SC',STSong,serif;font-size:1.5rem;letter-spacing:3px;margin-left:18px;vertical-align:middle}
+.pronunciation{font-size:var(--caption);line-height:1.5;color:var(--muted);margin-bottom:32px}.pronunciation>span{margin-left:10px}.pronunciation-note{font-size:inherit}
+.intro,.belief{font-size:var(--body);line-height:1.65;max-width:460px}.intro strong{font-weight:500}.intro em{font-size:inherit}.intro + .statement{margin-top:32px}.statement{max-width:510px}.statement h2{margin-bottom:16px}.statement h2 em{font-weight:400}.belief{color:var(--muted)}
+.socials{display:flex;flex-wrap:wrap;align-items:baseline;gap:12px 24px;margin-top:30px;font-size:var(--ui);line-height:1.5}.socials a{border-bottom:1px solid #20374640;padding-bottom:3px}.email-address{display:block;width:100%;font-size:inherit;color:var(--muted)}
+.portrait{position:absolute;right:-5%;top:15px;bottom:0;width:48%;overflow:hidden;pointer-events:none}.portrait img{display:block;width:100%;height:100%;object-fit:contain;object-position:center bottom;mask-image:linear-gradient(to bottom,black 90%,transparent);-webkit-mask-image:linear-gradient(to bottom,black 90%,transparent)}
+footer.copyright{font-size:var(--caption);line-height:1.5;color:var(--muted);padding:24px 0}
+.skip{position:absolute;left:20px;top:-100px;background:#e4eff8;color:var(--ink);padding:12px;z-index:5}.skip:focus{top:15px}
+.page-head{display:flex;justify-content:space-between;align-items:baseline;padding:50px 0 35px}.page-title{font-size:var(--display)}.page-head p{font-size:var(--ui);color:var(--muted)}
+.research-grid{display:grid;grid-template-columns:1fr 1fr;gap:44px 42px;padding-bottom:60px}.project{min-width:0}.project-image{display:block;background:#fff;aspect-ratio:1.65;padding:15px;overflow:hidden;border-radius:2px}.project-image img{display:block;width:100%;height:100%;object-fit:contain;transition:transform .3s}.project-image:hover img{transform:scale(1.025)}
+.project-meta{display:flex;justify-content:space-between;gap:10px;font-size:var(--caption);line-height:1.5;letter-spacing:.04em;color:var(--muted);margin:20px 0 12px}.award{color:#654319}.project h2{font-size:var(--heading);line-height:1.3;margin-bottom:12px}.project p{font-size:var(--body);line-height:1.65;color:var(--muted)}.project-link{display:inline-block;font-size:var(--ui);line-height:1.5;border-bottom:1px solid #20374650;margin-top:16px;padding-bottom:3px}
+.teaching{min-height:calc(100vh - 175px);padding-bottom:70px}.teaching-list{margin-top:15px}.course{display:grid;grid-template-columns:150px 1fr 170px;gap:24px;border-top:1px solid var(--line);padding:32px 0}.course p{font-size:var(--ui);line-height:1.65;color:var(--muted)}.course h2{margin-bottom:10px}.course .role{text-align:right}.course-code{display:block;font-size:var(--caption);line-height:1.5;letter-spacing:.04em;color:var(--muted);margin-bottom:10px}
+@media(max-width:1000px){:root{--display:4rem}.hero{grid-template-columns:1.2fr 1fr;min-height:780px}.intro,.belief{max-width:370px}.chinese{display:block;margin:10px 0 0}.portrait{width:46%;right:-6%}.course{grid-template-columns:120px 1fr 140px}}
+@media(max-width:650px){:root{--display:3.5rem;--heading:1.75rem}.shell{padding:0 7%}header{height:82px}nav{gap:22px}.hero{display:flex;flex-direction:column;align-items:stretch;min-height:0;padding:32px 0 0;gap:0}.identity h1{white-space:normal}.chinese{display:inline-block;font-size:1.375rem;margin:0 0 0 12px;letter-spacing:2px}.pronunciation{margin-bottom:26px}.intro,.belief,.statement{max-width:none}.intro + .statement{margin-top:28px}.portrait{position:relative;top:auto;right:auto;bottom:auto;width:100%;height:480px;margin-top:20px}.socials{gap:12px 20px}.page-head{display:block;padding:34px 0 28px}.page-head p{margin-top:12px}.research-grid{grid-template-columns:1fr;gap:38px}.course{grid-template-columns:1fr;gap:12px}.course .role{text-align:left}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+
+.statement .belief strong{font-weight:600;color:var(--ink)}
+.statement .belief strong em{font-style:italic;font-size:inherit}
+
+/* Featured project and compact section labels */
+.section-head{padding:38px 0 25px}.section-head h1{font-size:var(--heading);line-height:1.3;letter-spacing:-.02em}
+.project-showcase{padding-bottom:60px}.featured-project{display:grid;grid-template-columns:1.25fr 1fr;gap:36px;align-items:center;padding-bottom:40px;border-bottom:1px solid var(--line)}
+.featured-project .project-image{aspect-ratio:1.6}.featured-project .project-meta{margin-top:0;flex-wrap:wrap;justify-content:flex-start;gap:12px 20px}.featured-project h2{font-size:2.5rem;margin-bottom:18px}.featured-copy{min-width:0}.award{display:inline-flex;align-items:center;gap:7px;letter-spacing:0}.award span{font-family:system-ui,sans-serif;font-size:23px;line-height:1}.project-links{display:flex;flex-wrap:wrap;gap:24px}.supporting-projects{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px;padding-top:36px}.supporting-projects .project h2{font-size:1.5rem}.supporting-projects .project-image{aspect-ratio:1.5;padding:10px}.supporting-projects .project-meta{justify-content:flex-start;gap:14px}
+.teaching .teaching-list{margin-top:42px}.teaching .course:first-child{border-top:0;padding-top:0}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+@media(max-width:900px){.featured-project{grid-template-columns:1.1fr 1fr;gap:26px}.supporting-projects{grid-template-columns:1fr 1fr}.supporting-projects .project:last-child{grid-column:1/-1;max-width:calc(50% - 14px)}}
+@media(max-width:650px){.featured-project{grid-template-columns:1fr;gap:24px}.featured-project h2{font-size:2rem}.supporting-projects{grid-template-columns:1fr;gap:38px}.supporting-projects .project:last-child{grid-column:auto;max-width:none}.section-head{padding-top:30px}.teaching .teaching-list{margin-top:30px}}
+
+.project .paper-title{font-size:var(--caption);line-height:1.55;margin:0 0 16px;color:var(--muted)}
+.project .paper-title a{text-decoration:underline;text-decoration-color:#20374635;text-underline-offset:3px}
+.project .paper-title a:hover{text-decoration-color:currentColor}
+
+/* Consistent media frames, filled with centered crops. */
+.project-showcase .project-image{aspect-ratio:1.6;padding:0;background:transparent;overflow:hidden;border-radius:2px}
+.project-showcase .project-image picture{display:block;width:100%;height:100%}
+.project-showcase .project-image img{display:block;width:100%;height:100%;object-fit:cover;object-position:center;transform:none}
+
+/* Wider research canvas and high-resolution video. */
+.research-page .shell{max-width:1560px;padding-left:4.5%;padding-right:4.5%}
+.project-showcase .project-image{aspect-ratio:1.84}
+.project-showcase .project-image video{display:block;width:100%;height:100%;object-fit:cover;object-position:center}
+@media(max-width:650px){.research-page .shell{padding-left:7%;padding-right:7%}}
+
+/* Shift HumanStudy-Bench's image right within its existing crop. */
+.project-showcase .project-image img[src="/assets/hsbench.png"]{object-position:left center}
+
+.teaching .course h2{font-size:1.25rem;line-height:1.4;letter-spacing:0;margin-bottom:8px}
+
+.research-page .project-showcase{padding-top:38px}
+@media(max-width:650px){.research-page .project-showcase{padding-top:30px}}
