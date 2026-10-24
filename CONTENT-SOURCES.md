@@ -5,7 +5,7 @@ Updated 2026-09-17. The previous homepage checkout was read only.
 - Biography, education, news, paper metadata, and profile links: `/Users/xuanliu/Project/Xuan/XuanL17.github.io/_pages/about.md`, `_pages/research.md`, and `_config.yml`.
 - CoBRA project and CHI 2026 Best Paper Award: https://cobra.clawder.ai/
 - CoBRA paper: https://dl.acm.org/doi/10.1145/3772318.3790804
-- HumanStudy-Hub platform: https://www.hs-bench.clawder.ai/
+- HumanStudy-Hub platform: https://humanstudy-hub.com/
 - HumanStudy-Bench paper and author list: https://arxiv.org/abs/2602.00685
 - VIA author list and NeurIPS Spotlight: https://arxiv.org/abs/2509.23041
 - Love First, Know Later author list: https://arxiv.org/abs/2512.11844; workshop oral status from the previous homepage.
