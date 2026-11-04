@@ -15,6 +15,7 @@
         const { views } = await response.json();
         if (!Number.isSafeInteger(views) || views < 0) throw new Error('invalid count');
         counter.querySelector('[data-view-number]').textContent = new Intl.NumberFormat(document.documentElement.lang).format(views);
+        counter.classList.add('is-loaded');
         counter.title = document.documentElement.lang.startsWith('zh')
           ? '累计浏览次数；同一浏览器30分钟内不重复计数。'
           : 'Article views; repeat visits in the same browser within 30 minutes count once.';
