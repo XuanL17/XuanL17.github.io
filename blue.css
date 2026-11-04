@@ -81,7 +81,7 @@ footer.copyright{font-size:var(--caption);line-height:1.5;color:var(--muted);pad
 .explore-links a{display:inline-flex;gap:15px;align-items:center}
 .explore-links span{font-family:system-ui,sans-serif;font-size:1.3rem;font-weight:300}
 .back-home{display:inline-block;margin-top:34px;font-size:var(--ui);color:var(--muted)}
-.page-explore{padding:10px 0 30px;font-size:1.2rem}
+.page-explore{padding:10px 0 30px;font-size:1.2rem}.page-explore a+a{margin-left:28px}
 /* Feathered, hand-drawn paper edges; the images themselves remain sharp. */
 .project-showcase .project-image{position:relative;overflow:visible;background:none;border-radius:0;--paper-mask:url('/assets/paper-mask-0.svg');--paper-sketch:url('/assets/paper-sketch-0.svg')}
 .project-showcase .project-image img,.project-showcase .project-image video{mask-image:var(--paper-mask);-webkit-mask-image:var(--paper-mask);mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat}
