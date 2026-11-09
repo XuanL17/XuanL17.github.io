@@ -1,7 +1,7 @@
 (() => {
   const counters = [...document.querySelectorAll('[data-post-views]')];
   if (!counters.length) return;
-  const article = /\/blog\/(?:simulating-anything|reproducible-human-studies)(?:-zh)?(?:\.html)?\/?$/.test(location.pathname);
+  const article = /\/blog\/(?:simulating-anything|reproducible-human-studies|implicit-agent-behavior)(?:-zh)?(?:\.html)?\/?$/.test(location.pathname);
   let started = false;
   async function load() {
     if (started || document.visibilityState === 'hidden') return;
