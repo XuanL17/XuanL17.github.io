@@ -45,7 +45,7 @@
 .latest-card:hover strong{text-decoration:underline}
 
 /* Shared article cover and additional homepage posts. */
-.post-cover{max-width:720px;margin:0 0 36px}.post-cover img{display:block;width:100%;height:auto}.home-latest .latest-card+.latest-card{margin-top:20px}@media(max-width:650px){.post-cover{margin-bottom:26px}}
+.post-cover{max-width:720px;margin:0 0 36px}.post-cover img{display:block;width:min(100%,360px);height:auto;margin-inline:auto}.home-latest .latest-card+.latest-card{margin-top:20px}@media(max-width:650px){.post-cover{margin-bottom:26px}}
 
 .keep-together{white-space:nowrap}
 
