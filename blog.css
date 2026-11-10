@@ -59,3 +59,12 @@
 .post-references h2{font-size:1.15rem;letter-spacing:0;margin-bottom:14px}
 .post-references ol{margin:0;padding-left:1.5em}.post-references li+li{margin-top:12px}
 @media(max-width:650px){.blog-header{padding-top:30px}.blog-header h1{font-size:2rem}.blog-entry h2{font-size:1.3rem}}
+
+/* Let the article opening wrap around a compact illustration. */
+.article-flow{max-width:720px;display:flow-root}
+.article-flow .post-cover{float:left;width:280px;max-width:42%;margin:7px 30px 20px 0}
+.article-flow .post-cover img{display:block;width:100%;height:auto;margin:0}
+.article-flow .post-body{max-width:none}
+.article-flow .post-references{clear:both}
+.article-flow .post-body ul{display:flow-root;padding-left:1.3em}
+@media(max-width:650px){.article-flow .post-cover{float:none;width:min(100%,320px);max-width:100%;margin:0 auto 26px}}
